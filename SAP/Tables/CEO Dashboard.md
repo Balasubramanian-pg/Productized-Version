@@ -29,3 +29,126 @@ Here’s the **complete SAP table mapping** for your KPIs. I’ve included only 
 4. **Surveys (NPS/Engagement)**: Usually external; SAP CRM/HCM may have limited tables.  
 
 For **uncertain KPIs** (e.g., CLV), I’ve included tables that store **components** of the formula (e.g., revenue, customer sales history).  
+
+
+Here’s the **field-level breakdown** of the key SAP tables for each KPI, including the exact fields needed for calculations:  
+
+---
+
+### **1. Revenue Growth**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `VBRP`     | `NETWR` (Net Value), `FKDAT` (Billing Date) | Billing document items (revenue recognition). |
+| `FAGLFLEXA`| `HSL` (Amount), `BUDAT` (Posting Date) | GL account line items for revenue.       |
+| `BKPF`     | `BELNR` (Document #), `GJAHR` (Fiscal Year) | Accounting document headers (period control). |
+
+**Formula Logic:**  
+- **Current Period Revenue**: Sum `VBRP-NETWR` where `FKDAT` = current period.  
+- **Previous Period Revenue**: Sum `VBRP-NETWR` where `FKDAT` = prior period.  
+
+---
+
+### **2. Gross Profit Margin**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `COEP`     | `WRTTP` (Value Type), `STAGB` (Revenue), `KSTAR` (Cost Element) | CO-PA line items (revenue/COGS). |
+| `MATDOC`   | `DMBTR` (Amount), `BWART` (Movement Type) | Material movements (COGS components). |
+| `VBAP`     | `NETWR` (Net Value), `MATNR` (Material) | Sales order items (revenue basis). |
+
+**Formula Logic:**  
+- **Revenue**: Sum `COEP-STAGB` where `WRTTP` = '04' (Actual Revenue).  
+- **COGS**: Sum `MATDOC-DMBTR` where `BWART` = '261' (Goods Issue for Sales).  
+
+---
+
+### **3. Net Profit Margin**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `FAGLFLEXA`| `HSL` (Amount), `RACCT` (GL Account)   | GL account balances (P&L items).        |
+| `BSEG`     | `DMBTR` (Amount), `HKONT` (GL Account) | Detailed accounting entries.            |
+
+**Formula Logic:**  
+- **Net Income**: Sum `FAGLFLEXA-HSL` for P&L accounts (e.g., `RACCT` = '4*' for revenue, '5*' for expenses).  
+
+---
+
+### **4. Return on Investment (ROI)**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `COEP`     | `WRTTP` (Value Type), `STAGB` (Profit) | Profitability segment data.             |
+| `PRPS`     | `PBUKR` (Company Code), `STUFE` (WBS Level) | WBS master data (investment tracking). |
+
+**Formula Logic:**  
+- **Net Income**: Sum `COEP-STAGB` where `WRTTP` = '04' (Actual).  
+- **Equity**: Use `FAGLFLEXA-HSL` for equity accounts (`RACCT` = '3*').  
+
+---
+
+### **5. Earnings per Share (EPS)**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `FAGLFLEXA`| `HSL` (Net Income), `RACCT` (GL Account) | GL balances for net income.             |
+| `SKAT`     | `SAKNR` (GL Account), `TXT50` (Description) | GL master data (identify equity accounts). |
+
+**Formula Logic:**  
+- **Net Income**: Sum `FAGLFLEXA-HSL` for P&L accounts.  
+- **Shares Outstanding**: Stored externally (not in SAP standard tables).  
+
+---
+
+### **6. Customer Acquisition Cost (CAC)**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `COEP`     | `KSTAR` (Cost Element), `WRTTP` (Value Type) | Marketing/sales costs in CO-PA.        |
+| `VBFA`     | `VBELV` (Preceding Document), `VBELN` (Subsequent Document) | Sales document flow (new customers). |
+
+**Formula Logic:**  
+- **Total Costs**: Sum `COEP-STAGB` where `KSTAR` = marketing/sales cost elements.  
+- **New Customers**: Count unique `VBFA-VBELN` where `VBELV` = initial contact.  
+
+---
+
+### **7. Customer Lifetime Value (CLV)**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `VBFA`     | `VBELN` (Sales Document), `ERDAT` (Creation Date) | Customer sales history.               |
+| `KNVV`     | `KUNNR` (Customer), `UMSAT` (Sales Volume) | Customer sales master data.           |
+
+**Formula Logic:**  
+- **Avg. Revenue**: `KNVV-UMSAT` / total customers.  
+- **Lifespan**: Date diff between first/last `VBFA-ERDAT` per customer.  
+
+---
+
+### **8. Employee Turnover**  
+**SAP Tables & Fields:**  
+| **Table**  | **Key Fields**                          | **Description**                          |
+|------------|----------------------------------------|------------------------------------------|
+| `PA0001`   | `PERNR` (Employee ID), `ENDDA` (End Date) | Employee master data (terminations).   |
+| `PA0000`   | `MASSN` (Action Type), `BEGDA` (Start Date) | HR actions (hires/terminations).      |
+
+**Formula Logic:**  
+- **Employees Left**: Count `PA0001-PERNR` where `ENDDA` ≤ reporting period.  
+- **Avg. Employees**: (`PA0000` hires + `PA0001` active employees) / 2.  
+
+---
+
+### **KPIs Without Direct SAP Tables**  
+- **Employee Engagement**: Stored in external survey tools (e.g., Qualtrics).  
+- **Net Promoter Score (NPS)**: Requires CRM survey data (`CRMD_SURVEY` if using SAP CRM).  
+
+---
+
+### **How to Use This Data:**  
+1. **Extract Raw Data**: Use transactions like `SE16N`, `SQVI`, or `SAP HANA Views`.  
+2. **Join Tables**: Link key fields (e.g., `VBFA-VBELN` to `VBRP-VBELN`).  
+3. **Calculate**: Apply formulas using the fields above.  
+
+Let me know if you need **specific joins or extraction queries**!
