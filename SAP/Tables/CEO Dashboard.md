@@ -1,3 +1,6 @@
+# CEO Dashboard 
+(In case you missed the file name, idiot!)
+
 Here’s the **complete SAP table mapping** for your KPIs. I’ve included only tables where the **raw transactional or master data** is stored (not derived/calculated fields). If a KPI relies on external surveys (e.g., Net Promoter Score, Employee Engagement), SAP tables may not exist.  
 
 ---
