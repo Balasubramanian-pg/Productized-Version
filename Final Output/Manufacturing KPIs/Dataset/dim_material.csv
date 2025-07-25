@@ -1,0 +1,751 @@
+Material_ID,Material_Name,Material_Type,Base_Unit_Of_Measure,Product_Hierarchy
+MAT00001,Laboriosam Excepturi Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00002,Dolores Blanditiis,Raw Material,PCS,Plastic.Pellets
+MAT00003,Sequi Quos Finished Product,Finished Goods,LBS,Apparel.Tops.T-Shirts
+MAT00004,Ducimus Rerum,Packaging,KG,Box.Cardboard
+MAT00005,Nisi Accusantium Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00006,Nobis Id Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00007,Commodi Illum Assembly Finished Product,Semi-Finished Goods,EA,HomeGoods.Wood.Panels
+MAT00008,Nihil Repellat Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00009,Deleniti Asperiores Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00010,Maxime Aperiam,Raw Material,PCS,Cotton.Fiber
+MAT00011,Vero Aut Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00012,Dicta Soluta Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00013,Accusamus Doloribus Finished Product,Finished Goods,KG,Electronics.Audio.Speakers
+MAT00014,Ea Facere Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00015,Deserunt Nesciunt,Packaging,M,Box.Cardboard
+MAT00016,Dolor Ea Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00017,Quidem Alias,Packaging,M,Film.Plastic
+MAT00018,Molestiae Dolores,Packaging,KG,Box.Cardboard
+MAT00019,Vel Impedit Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00020,Recusandae Quasi,Raw Material,M,Metal.Aluminum
+MAT00021,Eum Ab,Raw Material,LIT,Cotton.Fiber
+MAT00022,Doloremque Non Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00023,Officiis Quisquam Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00024,Dolorum Cumque Finished Product,Finished Goods,PCS,Apparel.Tops.T-Shirts
+MAT00025,Ex Dolores,Raw Material,KG,Metal.Aluminum
+MAT00026,Esse Corrupti,Packaging,LBS,Box.Cardboard
+MAT00027,Voluptas Nemo,Raw Material,M,Metal.Aluminum
+MAT00028,Magni Dolore Finished Product,Finished Goods,KG,Electronics.TVs.SmartTV
+MAT00029,Placeat Neque,Raw Material,LBS,Metal.Aluminum
+MAT00030,Incidunt Ea,Raw Material,LIT,Cotton.Fiber
+MAT00031,Inventore Vero,Packaging,EA,Film.Plastic
+MAT00032,Similique Maiores,Raw Material,EA,Cotton.Fiber
+MAT00033,Libero Illum Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00034,Quis Pariatur Finished Product,Finished Goods,PCS,Apparel.Tops.T-Shirts
+MAT00035,Dolore Recusandae Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00036,Culpa Neque,Packaging,KG,Box.Cardboard
+MAT00037,Impedit Voluptas,Raw Material,KG,Metal.Aluminum
+MAT00038,Consequatur Quo Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00039,Commodi Esse Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00040,Expedita Officia,Packaging,KG,Film.Plastic
+MAT00041,Ipsam Aperiam Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00042,Cupiditate Rem,Packaging,PCS,Box.Cardboard
+MAT00043,Sed Officiis Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00044,Doloribus Vel Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00045,Labore Reiciendis Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00046,Quod Cum,Raw Material,PCS,Cotton.Fiber
+MAT00047,Quia Minus,Packaging,EA,Box.Cardboard
+MAT00048,Culpa Praesentium,Raw Material,PCS,Cotton.Fiber
+MAT00049,Nobis Facere,Packaging,LBS,Film.Plastic
+MAT00050,Similique Maiores,Packaging,EA,Box.Cardboard
+MAT00051,Eligendi Inventore Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00052,Ducimus Blanditiis,Raw Material,EA,Plastic.Pellets
+MAT00053,Consequatur Laudantium Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00054,Optio Quae Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00055,Facere Quasi Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00056,Sint Reiciendis,Raw Material,LIT,Cotton.Fiber
+MAT00057,Dolore Cumque Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00058,Velit Necessitatibus Finished Product,Finished Goods,LBS,Apparel.Tops.T-Shirts
+MAT00059,Temporibus Possimus,Packaging,KG,Box.Cardboard
+MAT00060,Fugit Hic Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00061,Eos Rerum Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00062,Ut Voluptates Finished Product,Finished Goods,LIT,HomeGoods.Furniture.Chairs
+MAT00063,Deleniti Perferendis,Raw Material,M,Plastic.Pellets
+MAT00064,Reprehenderit Dolores,Raw Material,KG,Plastic.Pellets
+MAT00065,Accusamus Nesciunt Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00066,Culpa Deserunt,Packaging,LBS,Film.Plastic
+MAT00067,Vel Consectetur Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00068,Necessitatibus Laudantium Finished Product,Finished Goods,LIT,HomeGoods.Furniture.Chairs
+MAT00069,Eum Laboriosam,Packaging,PCS,Box.Cardboard
+MAT00070,Officiis Repellendus,Raw Material,M,Cotton.Fiber
+MAT00071,Quaerat Quod Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00072,Repellat Quas Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00073,Doloremque Ea Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00074,Assumenda Fugit Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00075,Temporibus Magni,Raw Material,PCS,Plastic.Pellets
+MAT00076,Vel Distinctio Finished Product,Finished Goods,KG,Apparel.Tops.T-Shirts
+MAT00077,Vero Nemo,Raw Material,KG,Cotton.Fiber
+MAT00078,Maxime Doloremque,Packaging,LBS,Film.Plastic
+MAT00079,Magnam Quaerat,Raw Material,EA,Plastic.Pellets
+MAT00080,Quasi Reiciendis Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00081,A Optio,Packaging,M,Film.Plastic
+MAT00082,Labore Eveniet,Raw Material,PCS,Cotton.Fiber
+MAT00083,Cum Eius,Raw Material,PCS,Plastic.Pellets
+MAT00084,Quis Optio,Packaging,LIT,Film.Plastic
+MAT00085,Quidem Recusandae Finished Product,Finished Goods,PCS,Electronics.TVs.SmartTV
+MAT00086,Molestiae Dicta Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00087,Officia Assumenda,Packaging,LIT,Box.Cardboard
+MAT00088,Ipsa Vitae,Raw Material,EA,Metal.Aluminum
+MAT00089,Odit Reprehenderit,Raw Material,LIT,Metal.Aluminum
+MAT00090,Nisi Quidem,Packaging,LBS,Box.Cardboard
+MAT00091,Non Aspernatur,Raw Material,KG,Metal.Aluminum
+MAT00092,Veritatis Sed,Packaging,M,Box.Cardboard
+MAT00093,Tenetur Suscipit,Packaging,M,Box.Cardboard
+MAT00094,Beatae Ut,Raw Material,KG,Cotton.Fiber
+MAT00095,Libero Expedita Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00096,Unde Ipsam,Packaging,KG,Film.Plastic
+MAT00097,Dolor Accusamus,Packaging,EA,Film.Plastic
+MAT00098,Repudiandae Natus Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00099,Architecto Cumque Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00100,Velit Dolores Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00101,Quaerat Esse,Raw Material,LBS,Plastic.Pellets
+MAT00102,Reprehenderit Tenetur,Raw Material,EA,Metal.Aluminum
+MAT00103,Sequi Praesentium Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00104,Natus Temporibus Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00105,Officiis Quos,Packaging,EA,Film.Plastic
+MAT00106,Dolorem Amet,Packaging,M,Box.Cardboard
+MAT00107,Ipsam Ducimus Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00108,Ea Asperiores Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00109,Delectus Voluptatum Finished Product,Finished Goods,EA,Electronics.TVs.SmartTV
+MAT00110,Dolor Eaque Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00111,Labore Sunt Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00112,Recusandae Ex Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00113,Nobis Nulla,Packaging,PCS,Box.Cardboard
+MAT00114,Deleniti Non,Raw Material,EA,Cotton.Fiber
+MAT00115,Voluptates Quaerat,Packaging,LIT,Film.Plastic
+MAT00116,Asperiores Voluptates Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00117,Mollitia Explicabo,Packaging,LIT,Box.Cardboard
+MAT00118,Non Dolor,Raw Material,PCS,Cotton.Fiber
+MAT00119,Sed Voluptatibus,Packaging,LBS,Film.Plastic
+MAT00120,Inventore Ipsa Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00121,Natus Et,Raw Material,LBS,Cotton.Fiber
+MAT00122,Amet Fuga,Packaging,EA,Film.Plastic
+MAT00123,Fugit Fuga Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00124,Laborum Autem Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00125,Iusto Asperiores,Raw Material,LBS,Cotton.Fiber
+MAT00126,Nam A Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00127,Esse Sapiente Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00128,Laborum Eaque,Raw Material,EA,Metal.Aluminum
+MAT00129,Non Veniam,Packaging,PCS,Box.Cardboard
+MAT00130,Voluptate Sed,Packaging,LBS,Film.Plastic
+MAT00131,At Est,Packaging,EA,Box.Cardboard
+MAT00132,Molestias Commodi,Raw Material,KG,Metal.Aluminum
+MAT00133,Tenetur Architecto,Packaging,LBS,Film.Plastic
+MAT00134,Assumenda Deleniti,Packaging,EA,Film.Plastic
+MAT00135,Quibusdam Consequuntur Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00136,Earum Placeat Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00137,Fugit Temporibus,Packaging,PCS,Film.Plastic
+MAT00138,Officiis Eaque Finished Product,Finished Goods,KG,Electronics.Audio.Speakers
+MAT00139,Nostrum Soluta Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00140,In Beatae,Packaging,M,Film.Plastic
+MAT00141,Sit Placeat,Raw Material,LIT,Plastic.Pellets
+MAT00142,Suscipit Nostrum Finished Product,Finished Goods,PCS,Apparel.Tops.T-Shirts
+MAT00143,Omnis Quibusdam,Packaging,LBS,Box.Cardboard
+MAT00144,Laudantium Quidem Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00145,Ut Impedit Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00146,Alias Natus,Raw Material,M,Plastic.Pellets
+MAT00147,Architecto Repellendus,Packaging,PCS,Box.Cardboard
+MAT00148,Consequatur Aliquid,Packaging,LBS,Film.Plastic
+MAT00149,At Culpa,Raw Material,LIT,Cotton.Fiber
+MAT00150,Alias Blanditiis,Packaging,M,Box.Cardboard
+MAT00151,Ducimus Minima Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00152,Explicabo Veritatis,Raw Material,M,Cotton.Fiber
+MAT00153,Omnis Illo Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00154,Ipsa Eius,Packaging,LBS,Film.Plastic
+MAT00155,Quis Placeat Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00156,Tempora Dolorum Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00157,Asperiores Ut,Raw Material,KG,Plastic.Pellets
+MAT00158,Vero Recusandae,Raw Material,PCS,Plastic.Pellets
+MAT00159,Mollitia Facere,Packaging,KG,Film.Plastic
+MAT00160,Odio Officiis,Packaging,M,Box.Cardboard
+MAT00161,Hic Distinctio Assembly Finished Product,Semi-Finished Goods,KG,HomeGoods.Wood.Panels
+MAT00162,Facere Laudantium,Raw Material,LIT,Plastic.Pellets
+MAT00163,Itaque Delectus,Raw Material,PCS,Plastic.Pellets
+MAT00164,Saepe Sint,Raw Material,LBS,Metal.Aluminum
+MAT00165,Nemo Cumque Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00166,Quos Dolorem,Packaging,LBS,Film.Plastic
+MAT00167,Velit Optio Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00168,Delectus Eos,Raw Material,EA,Cotton.Fiber
+MAT00169,Neque Molestias Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00170,Voluptates Nesciunt Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00171,Sapiente Architecto,Packaging,LBS,Box.Cardboard
+MAT00172,Atque Repellat,Packaging,M,Film.Plastic
+MAT00173,Maxime Ex Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00174,Velit Ut Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00175,Distinctio Omnis,Packaging,EA,Film.Plastic
+MAT00176,Illum Quos Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00177,Quia Fugit Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00178,Provident Ea Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00179,Neque Alias Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00180,Nam Culpa,Raw Material,PCS,Metal.Aluminum
+MAT00181,Quibusdam Qui Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00182,Sapiente At Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00183,Facere Nesciunt Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00184,Non Amet Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00185,Velit Nobis Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00186,Libero Ducimus Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00187,Molestias Velit,Packaging,M,Film.Plastic
+MAT00188,Voluptate Quasi Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00189,Porro Architecto Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00190,Nisi Dolore,Packaging,EA,Box.Cardboard
+MAT00191,Vero Nam Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00192,Iste Perspiciatis,Raw Material,EA,Cotton.Fiber
+MAT00193,Illo Quos Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00194,Placeat Nihil,Raw Material,LBS,Metal.Aluminum
+MAT00195,Aliquid Culpa,Raw Material,M,Plastic.Pellets
+MAT00196,Tenetur Illum,Raw Material,M,Metal.Aluminum
+MAT00197,Possimus Voluptate Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00198,Ipsam Natus Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00199,Dicta Animi,Packaging,M,Film.Plastic
+MAT00200,Adipisci Quasi Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00201,Nemo Sit Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00202,Ipsam Necessitatibus,Raw Material,LBS,Cotton.Fiber
+MAT00203,Vel Dolor Finished Product,Finished Goods,PCS,Electronics.TVs.SmartTV
+MAT00204,Fugit Perferendis Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00205,Ipsa Est,Raw Material,LIT,Plastic.Pellets
+MAT00206,Dignissimos Deleniti,Raw Material,LIT,Plastic.Pellets
+MAT00207,Deleniti Tenetur,Packaging,EA,Box.Cardboard
+MAT00208,Enim Iusto,Packaging,M,Box.Cardboard
+MAT00209,Officiis Fugit,Packaging,PCS,Box.Cardboard
+MAT00210,Nostrum Ea Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00211,Debitis Fuga Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00212,Facere Animi Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00213,Porro Ex,Raw Material,LIT,Plastic.Pellets
+MAT00214,Sapiente Aspernatur Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00215,Quasi Eaque,Raw Material,LBS,Plastic.Pellets
+MAT00216,Aliquid Iusto Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00217,Itaque Non,Raw Material,LBS,Metal.Aluminum
+MAT00218,Placeat Illum,Raw Material,LIT,Metal.Aluminum
+MAT00219,Laudantium Nemo Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00220,Necessitatibus Provident Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00221,Libero Quia Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00222,Molestias Autem Finished Product,Finished Goods,EA,Electronics.TVs.SmartTV
+MAT00223,Eum Quis Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00224,Ab Debitis Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00225,Quos Facere,Raw Material,EA,Plastic.Pellets
+MAT00226,Accusamus Quis,Raw Material,M,Cotton.Fiber
+MAT00227,Incidunt Laborum Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00228,Voluptatem Beatae,Raw Material,LBS,Plastic.Pellets
+MAT00229,Quam Quia Finished Product,Finished Goods,PCS,Electronics.TVs.SmartTV
+MAT00230,In Sapiente,Packaging,LBS,Film.Plastic
+MAT00231,Porro At Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00232,Aliquid Assumenda Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00233,Veritatis Odio Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00234,Odit Fugit,Packaging,EA,Box.Cardboard
+MAT00235,Dolorum Itaque Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00236,Ipsum Magnam Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00237,Ex Architecto Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00238,Esse Dicta,Raw Material,LBS,Metal.Aluminum
+MAT00239,Iusto Sit,Raw Material,M,Plastic.Pellets
+MAT00240,Fugiat Possimus,Packaging,M,Box.Cardboard
+MAT00241,Quae Illum,Raw Material,LIT,Metal.Aluminum
+MAT00242,Quaerat Atque Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00243,Sit Facilis Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00244,Consequuntur Delectus Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00245,Soluta Quia,Packaging,LBS,Film.Plastic
+MAT00246,Nihil Cumque Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00247,Quia Qui,Raw Material,EA,Plastic.Pellets
+MAT00248,Veniam Officia,Raw Material,LBS,Cotton.Fiber
+MAT00249,Rerum Voluptate Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00250,Quaerat Placeat,Packaging,LIT,Film.Plastic
+MAT00251,Quia Dolor,Packaging,M,Film.Plastic
+MAT00252,Quo Atque,Raw Material,PCS,Cotton.Fiber
+MAT00253,Alias Nobis,Raw Material,LBS,Plastic.Pellets
+MAT00254,Commodi Sed Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00255,Quos Ipsa Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00256,Quis At Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00257,Facere Est,Raw Material,EA,Cotton.Fiber
+MAT00258,Ut Sapiente Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00259,Incidunt Autem Finished Product,Finished Goods,M,Electronics.Audio.Speakers
+MAT00260,Distinctio Ut Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00261,Doloremque Recusandae Finished Product,Finished Goods,KG,Electronics.Audio.Speakers
+MAT00262,Perferendis Quo,Raw Material,EA,Metal.Aluminum
+MAT00263,Aspernatur Laborum,Raw Material,LIT,Cotton.Fiber
+MAT00264,Quibusdam Sed Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00265,Perferendis Iste Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00266,Explicabo Dignissimos Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00267,Facilis Numquam Finished Product,Finished Goods,LIT,Apparel.Tops.T-Shirts
+MAT00268,Modi Dolorem Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00269,Nemo Ipsa,Packaging,KG,Film.Plastic
+MAT00270,Velit Consequatur Finished Product,Finished Goods,LIT,HomeGoods.Furniture.Chairs
+MAT00271,Asperiores Dolore,Packaging,EA,Film.Plastic
+MAT00272,Architecto Facilis Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00273,Suscipit Numquam Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00274,Veniam Non Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00275,Necessitatibus Veniam,Raw Material,M,Metal.Aluminum
+MAT00276,Repudiandae Dicta,Packaging,EA,Box.Cardboard
+MAT00277,Tempore Nam,Packaging,KG,Film.Plastic
+MAT00278,Dolorum Debitis,Raw Material,KG,Cotton.Fiber
+MAT00279,Accusamus Ratione Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00280,Nam Molestiae Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00281,Magnam Illum Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00282,Ex Doloribus,Packaging,M,Film.Plastic
+MAT00283,Totam Quis Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00284,Atque Sit Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00285,Facilis Perferendis Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00286,Quae Aut Finished Product,Finished Goods,LIT,Apparel.Tops.T-Shirts
+MAT00287,Eos Nobis Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00288,Rerum Rem,Raw Material,LBS,Plastic.Pellets
+MAT00289,Officiis Aspernatur Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00290,Ipsa Eum,Packaging,PCS,Box.Cardboard
+MAT00291,Quasi Neque,Packaging,KG,Box.Cardboard
+MAT00292,Voluptatem Tempore Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00293,Officia Voluptas Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00294,Non Est Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00295,Libero Dolor,Packaging,LBS,Box.Cardboard
+MAT00296,Explicabo Officia,Raw Material,M,Plastic.Pellets
+MAT00297,Earum Excepturi Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00298,Iure Libero Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00299,Deleniti Magnam,Raw Material,KG,Plastic.Pellets
+MAT00300,Nostrum Eaque,Packaging,PCS,Box.Cardboard
+MAT00301,Tempore Harum Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00302,Velit Aliquid Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00303,Ex Ad,Raw Material,M,Cotton.Fiber
+MAT00304,Nostrum Rem Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00305,Magni Eligendi Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00306,Labore Commodi,Raw Material,M,Plastic.Pellets
+MAT00307,Molestiae Corporis,Raw Material,M,Plastic.Pellets
+MAT00308,Asperiores Aperiam,Packaging,LIT,Film.Plastic
+MAT00309,Aut Nulla,Packaging,LIT,Film.Plastic
+MAT00310,Sapiente Repellendus Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00311,Repellendus Unde,Packaging,M,Box.Cardboard
+MAT00312,Maiores Exercitationem Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00313,A Dicta,Raw Material,EA,Cotton.Fiber
+MAT00314,Architecto Accusantium,Packaging,KG,Film.Plastic
+MAT00315,Veritatis Earum Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00316,Dicta Fugit,Raw Material,LBS,Plastic.Pellets
+MAT00317,Dolorum Fuga,Packaging,KG,Box.Cardboard
+MAT00318,Fugit Id Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00319,Necessitatibus Rerum,Packaging,PCS,Film.Plastic
+MAT00320,Fugiat Quam Assembly Finished Product,Semi-Finished Goods,EA,HomeGoods.Wood.Panels
+MAT00321,Optio Sequi,Packaging,KG,Box.Cardboard
+MAT00322,Dolore Voluptatem,Packaging,LBS,Box.Cardboard
+MAT00323,Exercitationem Nemo Assembly Finished Product,Semi-Finished Goods,KG,Apparel.Fabric.CottonRolls
+MAT00324,Quos Quam Finished Product,Finished Goods,EA,Electronics.TVs.SmartTV
+MAT00325,Enim Voluptatibus Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00326,Eos Error Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00327,Aperiam Odio,Raw Material,EA,Plastic.Pellets
+MAT00328,Perspiciatis Unde Finished Product,Finished Goods,M,Electronics.Audio.Speakers
+MAT00329,Debitis Exercitationem Finished Product,Finished Goods,LIT,HomeGoods.Furniture.Chairs
+MAT00330,Ipsum Nihil Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00331,Deleniti Minus,Packaging,M,Box.Cardboard
+MAT00332,Ipsam Deleniti,Packaging,EA,Film.Plastic
+MAT00333,Dolores Harum Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00334,Quos Omnis Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00335,Numquam Numquam Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00336,Omnis Eveniet Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00337,Quidem At Finished Product,Finished Goods,M,Electronics.Audio.Speakers
+MAT00338,Ipsam Molestias Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00339,Recusandae A,Packaging,PCS,Box.Cardboard
+MAT00340,Aut Repellendus,Packaging,LIT,Box.Cardboard
+MAT00341,Quis Quas,Packaging,KG,Box.Cardboard
+MAT00342,Ex Cumque,Packaging,LBS,Film.Plastic
+MAT00343,Vel Omnis Finished Product,Finished Goods,LBS,Apparel.Tops.T-Shirts
+MAT00344,Nam Minus,Packaging,KG,Box.Cardboard
+MAT00345,Magnam Alias Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00346,Porro Quis,Raw Material,KG,Plastic.Pellets
+MAT00347,Sit Quisquam,Packaging,M,Film.Plastic
+MAT00348,Fuga Nihil Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00349,Sed Cumque,Packaging,LBS,Film.Plastic
+MAT00350,Architecto Fuga Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00351,Necessitatibus Earum Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00352,Maxime Vel Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00353,Quidem Voluptatibus,Raw Material,EA,Metal.Aluminum
+MAT00354,Ipsa Tempora,Packaging,PCS,Box.Cardboard
+MAT00355,Eos Totam,Raw Material,PCS,Cotton.Fiber
+MAT00356,Temporibus Magni,Raw Material,M,Metal.Aluminum
+MAT00357,Ducimus Neque,Raw Material,PCS,Metal.Aluminum
+MAT00358,Atque Esse,Raw Material,LIT,Plastic.Pellets
+MAT00359,Nihil Necessitatibus,Raw Material,EA,Metal.Aluminum
+MAT00360,Dicta Tenetur,Raw Material,PCS,Metal.Aluminum
+MAT00361,Doloremque Reprehenderit Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00362,Neque Ad,Packaging,PCS,Box.Cardboard
+MAT00363,Incidunt Hic,Packaging,LIT,Box.Cardboard
+MAT00364,Ut Assumenda Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00365,Culpa Veritatis Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00366,Provident Nulla Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00367,Cum Dolores Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00368,Accusamus Ab Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00369,Excepturi Consectetur Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00370,Ea Impedit Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00371,Quasi Perferendis,Raw Material,LIT,Cotton.Fiber
+MAT00372,Ratione Magni,Raw Material,PCS,Plastic.Pellets
+MAT00373,Perferendis Libero,Packaging,KG,Box.Cardboard
+MAT00374,Adipisci Dolorum,Raw Material,PCS,Metal.Aluminum
+MAT00375,Amet Aliquam Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00376,Rem Vero,Packaging,LBS,Film.Plastic
+MAT00377,Id Vel,Raw Material,KG,Metal.Aluminum
+MAT00378,Minima Possimus,Raw Material,LIT,Metal.Aluminum
+MAT00379,Sunt Vitae,Raw Material,KG,Plastic.Pellets
+MAT00380,Nesciunt Exercitationem,Packaging,M,Box.Cardboard
+MAT00381,Atque Molestias,Packaging,KG,Box.Cardboard
+MAT00382,Magnam Vero Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00383,Magni Nisi,Raw Material,LIT,Plastic.Pellets
+MAT00384,Adipisci Perspiciatis,Raw Material,KG,Cotton.Fiber
+MAT00385,Ipsam Voluptatem Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00386,Aliquam Enim,Packaging,LIT,Film.Plastic
+MAT00387,Excepturi Adipisci,Packaging,LBS,Film.Plastic
+MAT00388,Architecto Ab Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00389,Maiores Ullam Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00390,Sed Hic,Packaging,LIT,Box.Cardboard
+MAT00391,Beatae Facilis Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00392,Earum Soluta Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00393,Distinctio Aspernatur,Packaging,EA,Film.Plastic
+MAT00394,Error Unde Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00395,Nobis Accusantium,Packaging,LIT,Film.Plastic
+MAT00396,Architecto Corporis Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00397,Saepe Molestiae,Raw Material,EA,Metal.Aluminum
+MAT00398,Vero Tenetur,Packaging,PCS,Box.Cardboard
+MAT00399,Fugiat Vel,Packaging,LIT,Film.Plastic
+MAT00400,Occaecati Nulla,Packaging,LBS,Box.Cardboard
+MAT00401,Consectetur Quasi,Raw Material,KG,Cotton.Fiber
+MAT00402,Eligendi Fugiat,Packaging,M,Film.Plastic
+MAT00403,Quisquam Voluptatum Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00404,Et Minima Finished Product,Finished Goods,PCS,Apparel.Tops.T-Shirts
+MAT00405,At Perferendis Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00406,Asperiores Doloribus Finished Product,Finished Goods,LBS,Apparel.Tops.T-Shirts
+MAT00407,Quae Praesentium Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00408,Corrupti Id Finished Product,Finished Goods,LIT,HomeGoods.Furniture.Chairs
+MAT00409,Veniam Sint Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00410,Facere Saepe,Packaging,KG,Box.Cardboard
+MAT00411,Tempora Assumenda,Packaging,M,Box.Cardboard
+MAT00412,Totam Velit Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00413,Odio Repudiandae Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00414,Inventore Maiores,Packaging,EA,Film.Plastic
+MAT00415,Corrupti Esse,Raw Material,EA,Metal.Aluminum
+MAT00416,Assumenda Nesciunt Finished Product,Finished Goods,M,Electronics.Audio.Speakers
+MAT00417,Minima Sit,Raw Material,KG,Cotton.Fiber
+MAT00418,Earum Unde,Packaging,PCS,Box.Cardboard
+MAT00419,Magni Odit Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00420,Expedita Omnis,Raw Material,KG,Cotton.Fiber
+MAT00421,Officiis Corrupti,Raw Material,LBS,Cotton.Fiber
+MAT00422,Incidunt Non,Raw Material,M,Cotton.Fiber
+MAT00423,Ea Alias,Packaging,EA,Film.Plastic
+MAT00424,Laboriosam Odit,Packaging,PCS,Box.Cardboard
+MAT00425,Tempora Similique Assembly Finished Product,Semi-Finished Goods,KG,HomeGoods.Wood.Panels
+MAT00426,Fugit Rerum Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00427,Cumque Tempora,Packaging,LIT,Film.Plastic
+MAT00428,Nulla Voluptatibus Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00429,Maiores Occaecati Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00430,Natus Occaecati,Raw Material,LBS,Metal.Aluminum
+MAT00431,Non Debitis Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00432,Ab Veniam,Packaging,PCS,Film.Plastic
+MAT00433,Laboriosam Dolore,Packaging,M,Box.Cardboard
+MAT00434,Aliquid Pariatur,Packaging,EA,Box.Cardboard
+MAT00435,Ducimus Inventore,Packaging,LIT,Film.Plastic
+MAT00436,Laborum Blanditiis Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00437,Voluptas Mollitia,Packaging,PCS,Box.Cardboard
+MAT00438,Delectus Corporis Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00439,Quas Repellat,Raw Material,LBS,Metal.Aluminum
+MAT00440,Quia Earum Finished Product,Finished Goods,LIT,Apparel.Tops.T-Shirts
+MAT00441,Amet Tempora Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00442,Ratione Voluptatum Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00443,Atque Pariatur,Packaging,LIT,Box.Cardboard
+MAT00444,Impedit Dolorum Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00445,Praesentium Natus Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00446,Iste Accusamus Finished Product,Finished Goods,EA,Electronics.TVs.SmartTV
+MAT00447,Atque Aut Assembly Finished Product,Semi-Finished Goods,KG,HomeGoods.Wood.Panels
+MAT00448,Vero Dolore Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00449,Vel Nam Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00450,Aut Cum Finished Product,Finished Goods,LIT,Apparel.Tops.T-Shirts
+MAT00451,Maxime Alias,Raw Material,LBS,Plastic.Pellets
+MAT00452,Vitae Fugiat,Raw Material,KG,Plastic.Pellets
+MAT00453,Dolores Blanditiis Finished Product,Finished Goods,PCS,Electronics.TVs.SmartTV
+MAT00454,Facilis Dolor Assembly Finished Product,Semi-Finished Goods,KG,Apparel.Fabric.CottonRolls
+MAT00455,Dolore Debitis,Packaging,EA,Box.Cardboard
+MAT00456,Modi Molestiae Assembly Finished Product,Semi-Finished Goods,KG,Apparel.Fabric.CottonRolls
+MAT00457,Cumque Laboriosam,Raw Material,LBS,Plastic.Pellets
+MAT00458,Ab Exercitationem Finished Product,Finished Goods,PCS,Electronics.TVs.SmartTV
+MAT00459,Aut Dolorum,Packaging,LIT,Box.Cardboard
+MAT00460,In Dolorem Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00461,Nam Non Assembly Finished Product,Semi-Finished Goods,KG,HomeGoods.Wood.Panels
+MAT00462,Enim Nemo Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00463,Possimus Quo Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00464,Possimus Aspernatur,Raw Material,M,Cotton.Fiber
+MAT00465,Dicta Minus,Raw Material,LBS,Plastic.Pellets
+MAT00466,Illum Voluptatibus Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00467,Quos Aperiam Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00468,Sequi Earum Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00469,Nulla Nostrum Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00470,Cumque Fuga,Packaging,KG,Box.Cardboard
+MAT00471,Sunt Maiores,Packaging,LIT,Box.Cardboard
+MAT00472,Modi Veniam Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00473,In Tenetur,Packaging,KG,Film.Plastic
+MAT00474,Repellat Delectus Finished Product,Finished Goods,KG,Apparel.Tops.T-Shirts
+MAT00475,Qui Totam Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00476,Corporis Possimus Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00477,Amet Ab Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00478,Perspiciatis Dolorem,Packaging,EA,Box.Cardboard
+MAT00479,Distinctio Placeat,Raw Material,LBS,Metal.Aluminum
+MAT00480,Cumque Cumque,Raw Material,LBS,Cotton.Fiber
+MAT00481,Itaque Quaerat Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00482,Sit Nemo Finished Product,Finished Goods,KG,Apparel.Tops.T-Shirts
+MAT00483,Blanditiis Voluptatum,Packaging,LIT,Film.Plastic
+MAT00484,Neque Asperiores,Packaging,LIT,Box.Cardboard
+MAT00485,Soluta Iure,Packaging,LIT,Film.Plastic
+MAT00486,Quod Magni,Packaging,KG,Film.Plastic
+MAT00487,Ex Numquam Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00488,Nihil Deleniti Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00489,Officia Voluptates,Packaging,LIT,Box.Cardboard
+MAT00490,Ipsa Deserunt,Raw Material,M,Plastic.Pellets
+MAT00491,Enim Amet,Raw Material,LIT,Cotton.Fiber
+MAT00492,Porro Suscipit,Packaging,PCS,Box.Cardboard
+MAT00493,Quod Veritatis Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00494,Error Accusamus Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00495,Libero Cumque,Packaging,EA,Box.Cardboard
+MAT00496,Dolores Rerum Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00497,Quaerat Excepturi,Packaging,EA,Film.Plastic
+MAT00498,Unde Dolorum Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00499,Hic Pariatur,Packaging,LBS,Box.Cardboard
+MAT00500,Vero Cum,Packaging,M,Film.Plastic
+MAT00501,Cupiditate Numquam Finished Product,Finished Goods,LBS,Apparel.Tops.T-Shirts
+MAT00502,Repellendus Nam,Packaging,M,Film.Plastic
+MAT00503,Necessitatibus Repudiandae,Packaging,EA,Box.Cardboard
+MAT00504,Ducimus Blanditiis,Packaging,KG,Film.Plastic
+MAT00505,Aliquid Asperiores Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00506,Excepturi Error Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00507,Dolore Nisi Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00508,Accusantium Non Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00509,Velit Earum,Packaging,PCS,Box.Cardboard
+MAT00510,Sequi Dolor,Raw Material,LIT,Metal.Aluminum
+MAT00511,Alias Voluptates,Packaging,PCS,Box.Cardboard
+MAT00512,Vel Rem Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00513,Eos Libero Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00514,Ducimus Aliquam,Raw Material,LBS,Cotton.Fiber
+MAT00515,Reprehenderit Blanditiis,Packaging,LBS,Box.Cardboard
+MAT00516,Sapiente Nam,Packaging,PCS,Box.Cardboard
+MAT00517,Dolor Quae Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00518,Corrupti At,Raw Material,PCS,Metal.Aluminum
+MAT00519,Eligendi Amet Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00520,Magnam Officia,Packaging,EA,Box.Cardboard
+MAT00521,Quae Esse,Raw Material,M,Cotton.Fiber
+MAT00522,Fugit Ipsa,Packaging,KG,Box.Cardboard
+MAT00523,Libero Voluptatum Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00524,Debitis Sint Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00525,Facere Blanditiis Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00526,Earum Tempore Finished Product,Finished Goods,M,Apparel.Tops.T-Shirts
+MAT00527,Iste Voluptatibus,Packaging,KG,Box.Cardboard
+MAT00528,Doloribus Amet Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00529,Perferendis Laudantium Finished Product,Finished Goods,KG,Apparel.Tops.T-Shirts
+MAT00530,Recusandae Quaerat Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00531,Distinctio Ipsam Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00532,Voluptas Rerum Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00533,Perferendis Occaecati,Packaging,LIT,Box.Cardboard
+MAT00534,Labore Odio,Packaging,EA,Film.Plastic
+MAT00535,Qui Voluptas Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00536,Dolorem Animi Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00537,Et Eligendi Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00538,Porro Assumenda Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00539,Sint Libero,Raw Material,KG,Metal.Aluminum
+MAT00540,Officia Ducimus,Raw Material,EA,Metal.Aluminum
+MAT00541,Voluptatem Ut,Packaging,EA,Box.Cardboard
+MAT00542,Minus Doloribus,Raw Material,EA,Plastic.Pellets
+MAT00543,Quaerat Dolore,Packaging,M,Film.Plastic
+MAT00544,Facere Reprehenderit,Raw Material,PCS,Plastic.Pellets
+MAT00545,Commodi Nisi,Raw Material,M,Plastic.Pellets
+MAT00546,Dolor Quisquam Finished Product,Finished Goods,EA,Electronics.TVs.SmartTV
+MAT00547,Nobis Et,Raw Material,LBS,Metal.Aluminum
+MAT00548,Itaque Placeat,Raw Material,M,Metal.Aluminum
+MAT00549,Voluptate Ipsam Assembly Finished Product,Semi-Finished Goods,KG,Apparel.Fabric.CottonRolls
+MAT00550,Quasi Unde,Raw Material,M,Metal.Aluminum
+MAT00551,Totam Tempore Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00552,Dolores Quas Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00553,Repellendus Illo Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00554,Ab Eum Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00555,Minima Doloribus Assembly Finished Product,Semi-Finished Goods,EA,HomeGoods.Wood.Panels
+MAT00556,Ratione Consequatur Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00557,Iusto Laudantium Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00558,Culpa Error Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00559,Ipsa Ex Finished Product,Finished Goods,LIT,Electronics.Audio.Speakers
+MAT00560,Voluptates Neque,Raw Material,PCS,Metal.Aluminum
+MAT00561,Ea Perferendis,Raw Material,EA,Plastic.Pellets
+MAT00562,Aperiam Necessitatibus Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00563,Inventore Suscipit,Raw Material,EA,Metal.Aluminum
+MAT00564,Reprehenderit Excepturi,Packaging,EA,Box.Cardboard
+MAT00565,Aliquid Harum Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00566,Sapiente Magnam,Raw Material,LIT,Plastic.Pellets
+MAT00567,Incidunt Recusandae,Raw Material,LBS,Metal.Aluminum
+MAT00568,Cupiditate Nemo Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00569,Cumque Saepe Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00570,Error Provident Finished Product,Finished Goods,LBS,Electronics.TVs.SmartTV
+MAT00571,Labore Incidunt,Raw Material,M,Plastic.Pellets
+MAT00572,Quos Sapiente Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00573,Voluptates Qui,Raw Material,LIT,Plastic.Pellets
+MAT00574,Harum Sapiente Finished Product,Finished Goods,KG,Apparel.Tops.T-Shirts
+MAT00575,Doloremque Soluta,Raw Material,EA,Metal.Aluminum
+MAT00576,Facere Quas,Raw Material,LBS,Metal.Aluminum
+MAT00577,Laboriosam Amet,Packaging,EA,Box.Cardboard
+MAT00578,Magnam Ipsam Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00579,Maiores Temporibus Finished Product,Finished Goods,KG,Electronics.Audio.Speakers
+MAT00580,Voluptatibus Neque,Packaging,LIT,Box.Cardboard
+MAT00581,Ducimus Eum Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00582,Odit Sint,Packaging,LIT,Film.Plastic
+MAT00583,In Nostrum,Raw Material,PCS,Cotton.Fiber
+MAT00584,Dolores Repellat Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00585,Sapiente Ab,Packaging,PCS,Box.Cardboard
+MAT00586,Cum Quaerat,Raw Material,LIT,Cotton.Fiber
+MAT00587,Quia Quas,Raw Material,M,Plastic.Pellets
+MAT00588,Illo Voluptates,Packaging,LBS,Film.Plastic
+MAT00589,Eius Quam Assembly Finished Product,Semi-Finished Goods,EA,HomeGoods.Wood.Panels
+MAT00590,Nesciunt Eius Finished Product,Finished Goods,KG,Electronics.TVs.SmartTV
+MAT00591,Blanditiis Hic,Raw Material,LIT,Plastic.Pellets
+MAT00592,Modi Velit Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00593,Dolorem Quasi,Packaging,PCS,Box.Cardboard
+MAT00594,Asperiores Architecto,Packaging,LIT,Box.Cardboard
+MAT00595,Accusamus Animi Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00596,Veritatis Voluptatem,Packaging,PCS,Box.Cardboard
+MAT00597,Facilis Fuga,Packaging,KG,Box.Cardboard
+MAT00598,Numquam Incidunt,Packaging,KG,Box.Cardboard
+MAT00599,Eveniet Quae,Raw Material,PCS,Metal.Aluminum
+MAT00600,Tempora Placeat Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00601,Tempore Numquam,Packaging,LBS,Film.Plastic
+MAT00602,Ipsam Ea Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00603,Beatae Animi,Raw Material,PCS,Plastic.Pellets
+MAT00604,Cum Earum Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00605,Est Eaque Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00606,Earum Minus Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00607,Cupiditate Occaecati Assembly Finished Product,Semi-Finished Goods,KG,Apparel.Fabric.CottonRolls
+MAT00608,Laboriosam Molestias Finished Product,Finished Goods,KG,Electronics.Audio.Speakers
+MAT00609,Sunt A Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00610,Maiores Necessitatibus,Raw Material,LBS,Plastic.Pellets
+MAT00611,Sunt Blanditiis,Raw Material,LIT,Metal.Aluminum
+MAT00612,Alias Laboriosam,Packaging,LBS,Box.Cardboard
+MAT00613,Dolorem Labore,Packaging,PCS,Film.Plastic
+MAT00614,Quam Earum,Packaging,LIT,Film.Plastic
+MAT00615,Sapiente Eaque,Packaging,LBS,Film.Plastic
+MAT00616,Dolor Quasi Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00617,Expedita Tempore Assembly Finished Product,Semi-Finished Goods,KG,Apparel.Fabric.CottonRolls
+MAT00618,Doloremque Numquam,Raw Material,PCS,Cotton.Fiber
+MAT00619,Dolorum Iste Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00620,Nostrum Veniam Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00621,Maiores Sed Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00622,Earum Voluptates Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00623,Aliquam Modi,Packaging,M,Film.Plastic
+MAT00624,Sunt Minus,Packaging,LIT,Box.Cardboard
+MAT00625,Repellendus Aliquid Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00626,Porro Tenetur,Packaging,LIT,Box.Cardboard
+MAT00627,Nesciunt Maiores Assembly Finished Product,Semi-Finished Goods,LBS,Apparel.Fabric.CottonRolls
+MAT00628,Hic Unde,Raw Material,EA,Plastic.Pellets
+MAT00629,Tempora Excepturi,Raw Material,LIT,Cotton.Fiber
+MAT00630,Inventore Accusantium Assembly Finished Product,Semi-Finished Goods,LIT,Electronics.Components.Chipsets
+MAT00631,Officiis Doloremque Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00632,Incidunt Hic Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00633,Est Molestiae Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00634,Beatae Voluptatum Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00635,Expedita Quod Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00636,Autem Officiis,Packaging,M,Film.Plastic
+MAT00637,Eum Tempore Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00638,Eius Excepturi,Packaging,LIT,Film.Plastic
+MAT00639,Quae Omnis,Raw Material,PCS,Metal.Aluminum
+MAT00640,Ab Magnam Finished Product,Finished Goods,KG,HomeGoods.Furniture.Chairs
+MAT00641,Eos Dicta,Packaging,PCS,Film.Plastic
+MAT00642,Repellendus Nesciunt Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00643,Quas Voluptatibus Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00644,Molestiae Earum,Packaging,M,Film.Plastic
+MAT00645,Hic Tempora,Packaging,EA,Box.Cardboard
+MAT00646,Eum Illum Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00647,Dolor Unde Finished Product,Finished Goods,EA,Electronics.TVs.SmartTV
+MAT00648,Dolore Esse,Raw Material,LBS,Metal.Aluminum
+MAT00649,Occaecati Veniam Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00650,Exercitationem Quidem Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00651,Nemo Velit Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00652,Illum Qui Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00653,Inventore Voluptatibus Assembly Finished Product,Semi-Finished Goods,LIT,HomeGoods.Wood.Panels
+MAT00654,Nam Ad,Raw Material,LBS,Plastic.Pellets
+MAT00655,Ullam Nostrum Finished Product,Finished Goods,KG,Electronics.TVs.SmartTV
+MAT00656,Unde Eos,Packaging,LIT,Box.Cardboard
+MAT00657,Aliquam Nemo Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00658,Saepe Harum,Packaging,PCS,Film.Plastic
+MAT00659,Consequuntur Ratione Finished Product,Finished Goods,M,Electronics.Audio.Speakers
+MAT00660,Molestias Iure,Packaging,LIT,Film.Plastic
+MAT00661,Tempore Cum Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00662,Ex Voluptate Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00663,Id Laudantium,Raw Material,EA,Cotton.Fiber
+MAT00664,Voluptatum Architecto,Packaging,PCS,Film.Plastic
+MAT00665,Corrupti Ea Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00666,Earum Quas,Raw Material,PCS,Plastic.Pellets
+MAT00667,Quasi Beatae Finished Product,Finished Goods,M,Electronics.Audio.Speakers
+MAT00668,Totam Earum,Raw Material,LIT,Cotton.Fiber
+MAT00669,Magnam Est,Raw Material,LIT,Cotton.Fiber
+MAT00670,Sit Laudantium Finished Product,Finished Goods,EA,Electronics.Audio.Speakers
+MAT00671,Impedit Quam Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00672,Eos Autem,Packaging,EA,Film.Plastic
+MAT00673,Vitae Ipsa,Raw Material,LBS,Metal.Aluminum
+MAT00674,Dolore Dolorum Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00675,Magni Id Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00676,Autem Ipsa Finished Product,Finished Goods,LIT,Electronics.TVs.SmartTV
+MAT00677,Deserunt Ut,Packaging,PCS,Box.Cardboard
+MAT00678,Consectetur Nobis Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00679,Nam Ex,Raw Material,PCS,Metal.Aluminum
+MAT00680,Maxime Laboriosam Assembly Finished Product,Semi-Finished Goods,EA,HomeGoods.Wood.Panels
+MAT00681,Voluptatum Fugit Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00682,Enim Officia,Packaging,KG,Box.Cardboard
+MAT00683,Aspernatur Vel Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00684,Ut Vitae Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00685,Inventore Quas Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00686,Voluptates Provident Finished Product,Finished Goods,LBS,Electronics.Audio.Speakers
+MAT00687,Deserunt Amet Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00688,Similique Aliquid,Packaging,LBS,Box.Cardboard
+MAT00689,Distinctio Occaecati,Raw Material,PCS,Cotton.Fiber
+MAT00690,Molestias Deserunt,Raw Material,LBS,Cotton.Fiber
+MAT00691,Porro Repellat,Packaging,PCS,Box.Cardboard
+MAT00692,Quos Enim Assembly Finished Product,Semi-Finished Goods,EA,Apparel.Fabric.CottonRolls
+MAT00693,Sint Deleniti Finished Product,Finished Goods,KG,Electronics.Audio.Speakers
+MAT00694,Et Voluptates Finished Product,Finished Goods,PCS,Electronics.Audio.Speakers
+MAT00695,Asperiores Dicta,Packaging,M,Box.Cardboard
+MAT00696,Quod Odio,Raw Material,M,Cotton.Fiber
+MAT00697,Optio Tenetur,Raw Material,M,Cotton.Fiber
+MAT00698,Commodi Aut Assembly Finished Product,Semi-Finished Goods,KG,Electronics.Components.Chipsets
+MAT00699,Blanditiis Placeat,Packaging,KG,Film.Plastic
+MAT00700,Dignissimos Ratione Assembly Finished Product,Semi-Finished Goods,PCS,Apparel.Fabric.CottonRolls
+MAT00701,Amet Reprehenderit Finished Product,Finished Goods,EA,HomeGoods.Furniture.Chairs
+MAT00702,Nisi Maiores Assembly Finished Product,Semi-Finished Goods,LBS,Electronics.Components.Chipsets
+MAT00703,Eius At,Packaging,PCS,Box.Cardboard
+MAT00704,Neque Inventore Assembly Finished Product,Semi-Finished Goods,EA,HomeGoods.Wood.Panels
+MAT00705,Earum Dolores,Raw Material,EA,Metal.Aluminum
+MAT00706,Distinctio Mollitia Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00707,Soluta Laudantium,Raw Material,M,Plastic.Pellets
+MAT00708,Ab Eaque Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00709,Voluptas Consequatur Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00710,A Perferendis Finished Product,Finished Goods,LBS,HomeGoods.Furniture.Chairs
+MAT00711,Sit Vitae,Raw Material,EA,Plastic.Pellets
+MAT00712,In Doloremque,Raw Material,EA,Plastic.Pellets
+MAT00713,Dolorum Placeat,Packaging,LIT,Film.Plastic
+MAT00714,Adipisci Animi Finished Product,Finished Goods,KG,Apparel.Tops.T-Shirts
+MAT00715,Illo Sequi Finished Product,Finished Goods,EA,Apparel.Tops.T-Shirts
+MAT00716,Vel Dolorum,Packaging,EA,Film.Plastic
+MAT00717,Aspernatur Qui Assembly Finished Product,Semi-Finished Goods,M,HomeGoods.Wood.Panels
+MAT00718,Delectus Repellat,Raw Material,LBS,Cotton.Fiber
+MAT00719,Molestias Ratione,Raw Material,KG,Metal.Aluminum
+MAT00720,Occaecati Fuga,Raw Material,LBS,Plastic.Pellets
+MAT00721,Corrupti Iusto Assembly Finished Product,Semi-Finished Goods,LIT,Apparel.Fabric.CottonRolls
+MAT00722,Animi Laboriosam Finished Product,Finished Goods,M,Electronics.TVs.SmartTV
+MAT00723,Quos Iusto Assembly Finished Product,Semi-Finished Goods,M,Electronics.Components.Chipsets
+MAT00724,Iste Dolore Finished Product,Finished Goods,M,HomeGoods.Furniture.Chairs
+MAT00725,Ducimus Architecto Assembly Finished Product,Semi-Finished Goods,PCS,HomeGoods.Wood.Panels
+MAT00726,Aut Beatae,Raw Material,KG,Metal.Aluminum
+MAT00727,Quos Eveniet,Packaging,LIT,Film.Plastic
+MAT00728,Vel Quae,Packaging,LIT,Box.Cardboard
+MAT00729,Quia Ipsum,Packaging,LIT,Film.Plastic
+MAT00730,Praesentium Nesciunt,Raw Material,EA,Metal.Aluminum
+MAT00731,Saepe Ut,Raw Material,LBS,Metal.Aluminum
+MAT00732,Laborum Quia,Packaging,EA,Film.Plastic
+MAT00733,Libero Pariatur Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00734,Aliquid Cumque Assembly Finished Product,Semi-Finished Goods,PCS,Electronics.Components.Chipsets
+MAT00735,Dicta Nemo Assembly Finished Product,Semi-Finished Goods,EA,Electronics.Components.Chipsets
+MAT00736,Quas Reiciendis,Packaging,KG,Film.Plastic
+MAT00737,Quibusdam Beatae,Packaging,EA,Film.Plastic
+MAT00738,In Repudiandae,Packaging,PCS,Film.Plastic
+MAT00739,Ex Perferendis Finished Product,Finished Goods,PCS,Apparel.Tops.T-Shirts
+MAT00740,Quibusdam Quam Finished Product,Finished Goods,PCS,HomeGoods.Furniture.Chairs
+MAT00741,Quos Dolorum,Packaging,LBS,Box.Cardboard
+MAT00742,Nemo Recusandae,Packaging,LIT,Box.Cardboard
+MAT00743,Blanditiis Odit,Raw Material,LIT,Plastic.Pellets
+MAT00744,Quas Perspiciatis,Raw Material,M,Metal.Aluminum
+MAT00745,Et Ab Assembly Finished Product,Semi-Finished Goods,LBS,HomeGoods.Wood.Panels
+MAT00746,Perferendis Sunt,Packaging,EA,Film.Plastic
+MAT00747,Deserunt Occaecati,Packaging,LIT,Box.Cardboard
+MAT00748,Aspernatur Tempora,Packaging,LIT,Box.Cardboard
+MAT00749,Eius Veniam Assembly Finished Product,Semi-Finished Goods,M,Apparel.Fabric.CottonRolls
+MAT00750,Doloribus Ea Finished Product,Finished Goods,M,Electronics.Audio.Speakers

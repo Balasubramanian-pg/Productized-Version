@@ -1,0 +1,751 @@
+Employee_ID,Employee_Name,Department,Job_Title,Hire_Date
+EMP0001,Jagrati Chander,Quality,QA Inspector,30-06-2018
+EMP0002,Vihaan Yadav,Operations Management,Plant Manager,13-05-2019
+EMP0003,Warda Ratta,Production,Team Lead,26-01-2023
+EMP0004,Upma Ray,Quality,Quality Manager,21-03-2020
+EMP0005,Suhani Bhagat,Production,Operator,26-07-2022
+EMP0006,Reyansh Kumar,Production,Team Lead,09-09-2020
+EMP0007,Ayaan Korpal,Safety,Safety Officer,04-09-2019
+EMP0008,Nicholas Tank,HR,HR Business Partner,13-10-2020
+EMP0009,Warjas Radhakrishnan,Logistics,Logistics Coordinator,08-10-2019
+EMP0010,Zansi Dani,Quality,Quality Manager,16-11-2018
+EMP0011,Krishna Batta,Safety,Safety Officer,13-07-2018
+EMP0012,Anirudh Chacko,HR,HR Business Partner,20-01-2023
+EMP0013,Aashi Chad,Maintenance,Maintenance Supervisor,02-03-2023
+EMP0014,Chameli Aggarwal,Safety,Safety Officer,23-06-2018
+EMP0015,Hiral Bhatia,Safety,Safety Officer,02-05-2018
+EMP0016,Onveer Sastry,HR,HR Business Partner,25-12-2018
+EMP0017,Nitara Nadkarni,Safety,Safety Officer,23-01-2023
+EMP0018,Alka Konda,Safety,Safety Officer,20-04-2020
+EMP0019,Tristan Bora,Operations Management,Operations Director,25-06-2020
+EMP0020,Panini Soni,Quality,Quality Manager,27-08-2020
+EMP0021,Aarini Morar,Production,Operator,15-12-2022
+EMP0022,Gavin Roy,Logistics,Logistics Coordinator,20-02-2022
+EMP0023,Charvi Nath,Logistics,Warehouse Associate,26-11-2022
+EMP0024,Ria Butala,Quality,QA Inspector,30-07-2018
+EMP0025,Xalak Ramakrishnan,Safety,Safety Officer,14-11-2022
+EMP0026,Bimala Baral,HR,HR Business Partner,20-04-2021
+EMP0027,Omaja Soni,Production,Operator,15-05-2019
+EMP0028,Devansh Som,HR,HR Business Partner,16-09-2020
+EMP0029,Gaurika Vala,HR,HR Business Partner,04-04-2021
+EMP0030,David Wason,Logistics,Logistics Coordinator,22-12-2018
+EMP0031,Bimala Majumdar,Operations Management,Operations Director,20-04-2019
+EMP0032,Jalsa Raja,Maintenance,Maintenance Engineer,12-01-2021
+EMP0033,Harish Chaudhary,HR,HR Business Partner,22-05-2019
+EMP0034,Nidra Murthy,Quality,Quality Manager,22-07-2018
+EMP0035,Naksh D’Alia,Production,Production Manager,10-07-2019
+EMP0036,Chaitanya Sabharwal,Quality,Quality Manager,17-05-2019
+EMP0037,Hema Kaul,HR,HR Business Partner,26-05-2021
+EMP0038,Parth Iyer,Production,Supervisor,28-06-2020
+EMP0039,Advaith Garg,HR,HR Business Partner,31-12-2018
+EMP0040,Maya Dave,Safety,Safety Officer,16-07-2019
+EMP0041,Manan Mahajan,Operations Management,Plant Manager,07-01-2021
+EMP0042,Finn Banik,Safety,Safety Officer,05-06-2019
+EMP0043,Faras Buch,Logistics,Logistics Coordinator,08-06-2019
+EMP0044,Hamsini Pai,Safety,Safety Officer,05-11-2022
+EMP0045,Riya Bedi,Operations Management,Plant Manager,09-01-2021
+EMP0046,Lipika Suresh,Operations Management,Operations Director,11-06-2020
+EMP0047,Yashodhara Agrawal,Logistics,Logistics Coordinator,02-04-2019
+EMP0048,Ekaja Borde,Production,Supervisor,12-10-2022
+EMP0049,Jackson Chakraborty,Safety,Safety Officer,17-07-2018
+EMP0050,Rajeshri Krishnamurthy,Production,Supervisor,02-01-2022
+EMP0051,Daksha Lala,Maintenance,Maintenance Supervisor,01-08-2021
+EMP0052,Yashvi Doshi,Production,Team Lead,13-03-2023
+EMP0053,Arya Dara,Logistics,Logistics Coordinator,11-03-2022
+EMP0054,Warhi Tripathi,Safety,Safety Officer,29-10-2020
+EMP0055,Bahadurjit Sandal,Production,Supervisor,28-02-2019
+EMP0056,Amol Chada,Operations Management,Plant Manager,09-09-2022
+EMP0057,Tejas Thakkar,Safety,Safety Officer,04-12-2018
+EMP0058,Jai Jhaveri,Operations Management,Plant Manager,09-08-2019
+EMP0059,Atharv Rai,Production,Supervisor,16-12-2021
+EMP0060,Raghav Datta,Production,Production Manager,13-06-2022
+EMP0061,Xavier Ray,Operations Management,Operations Director,12-05-2018
+EMP0062,Vritti Narain,Operations Management,Plant Manager,19-08-2022
+EMP0063,Amaira Bahl,Maintenance,Maintenance Supervisor,17-03-2021
+EMP0064,Daksha Thakur,Operations Management,Operations Director,13-12-2021
+EMP0065,Amrita Mahajan,Safety,Safety Officer,12-01-2020
+EMP0066,Urishilla Sarin,Quality,Quality Engineer,04-12-2019
+EMP0067,Robert Chawla,Quality,Quality Manager,23-03-2019
+EMP0068,Vasana Malhotra,HR,HR Business Partner,11-07-2020
+EMP0069,Anvi Buch,HR,HR Business Partner,23-06-2019
+EMP0070,Simon Oak,Production,Production Manager,19-03-2019
+EMP0071,Aarav Jhaveri,HR,HR Business Partner,08-03-2023
+EMP0072,Isha Chaudhari,Quality,QA Inspector,28-01-2023
+EMP0073,Baghyawati Badami,Safety,Safety Officer,07-05-2021
+EMP0074,Pavani Bhatt,Logistics,Warehouse Associate,19-11-2018
+EMP0075,Sanya Sachar,HR,HR Business Partner,07-06-2018
+EMP0076,Karan Garde,Operations Management,Operations Director,26-12-2019
+EMP0077,Omkaar Bumb,Logistics,Logistics Coordinator,12-10-2022
+EMP0078,Tarak Contractor,Safety,Safety Officer,27-10-2021
+EMP0079,Rachana Nagar,Operations Management,Plant Manager,12-11-2018
+EMP0080,Yatan Bhatnagar,HR,HR Business Partner,21-05-2021
+EMP0081,Lajita Badami,Safety,Safety Officer,23-03-2023
+EMP0082,Keya Amble,Quality,Quality Engineer,14-11-2021
+EMP0083,Andrew Sanghvi,Production,Production Manager,05-01-2021
+EMP0084,Ridhi Bose,Operations Management,Plant Manager,11-10-2020
+EMP0085,Oni Saxena,Logistics,Warehouse Associate,06-09-2020
+EMP0086,Alexander Bumb,Logistics,Logistics Coordinator,08-04-2018
+EMP0087,Eshana Seth,Production,Operator,05-05-2021
+EMP0088,Christopher Kannan,Production,Team Lead,10-01-2022
+EMP0089,Abdul Thaker,HR,HR Business Partner,21-04-2021
+EMP0090,Qarin Nadkarni,Production,Operator,22-11-2022
+EMP0091,Tristan Banik,Maintenance,Maintenance Supervisor,22-04-2018
+EMP0092,Ranbir Sarkar,Safety,Safety Officer,06-12-2022
+EMP0093,Dominic Chokshi,Quality,Quality Engineer,25-07-2021
+EMP0094,Luke Rai,Production,Team Lead,21-05-2020
+EMP0095,Chandani Mody,Logistics,Warehouse Associate,01-04-2021
+EMP0096,Oscar Kara,Maintenance,Technician,29-10-2021
+EMP0097,Caleb Loyal,Quality,Quality Manager,17-01-2022
+EMP0098,Prisha Warrior,HR,HR Business Partner,04-04-2019
+EMP0099,Sarthak Sastry,Operations Management,Plant Manager,26-07-2020
+EMP0100,Wazir Mandal,Operations Management,Operations Director,04-11-2022
+EMP0101,Tarak Seth,Logistics,Logistics Coordinator,20-03-2021
+EMP0102,Aachal Chakrabarti,Quality,Quality Engineer,04-12-2019
+EMP0103,Abhimanyu Saxena,Maintenance,Maintenance Engineer,02-01-2023
+EMP0104,Orinder Halder,Production,Supervisor,14-11-2021
+EMP0105,Qadim Kothari,Quality,QA Inspector,14-02-2020
+EMP0106,Maya Mohanty,Safety,Safety Officer,04-02-2022
+EMP0107,Yashawini Lad,Quality,Quality Engineer,20-02-2023
+EMP0108,Onveer Sarkar,Maintenance,Technician,10-11-2020
+EMP0109,Dipta Raman,Quality,Quality Engineer,09-01-2021
+EMP0110,Anmol Lad,Quality,Quality Engineer,05-05-2019
+EMP0111,Aadi Bala,Operations Management,Operations Director,08-11-2019
+EMP0112,Hemal Jhaveri,Quality,QA Inspector,14-11-2018
+EMP0113,Ryan Sampath,Operations Management,Plant Manager,17-10-2021
+EMP0114,Karan Chaudhary,Logistics,Warehouse Associate,10-05-2019
+EMP0115,Omaja Gole,Safety,Safety Officer,13-05-2020
+EMP0116,Chaitaly Bala,Logistics,Warehouse Associate,22-06-2020
+EMP0117,Ekansh Bawa,Quality,QA Inspector,06-03-2019
+EMP0118,Madhav Behl,Logistics,Logistics Coordinator,19-09-2018
+EMP0119,Turvi Bhardwaj,Logistics,Logistics Coordinator,01-03-2019
+EMP0120,Chatresh Tella,Maintenance,Maintenance Supervisor,26-02-2021
+EMP0121,Aarav Randhawa,Safety,Safety Officer,17-06-2019
+EMP0122,Janaki Ramanathan,Quality,Quality Manager,28-06-2022
+EMP0123,William Raj,Quality,QA Inspector,26-07-2018
+EMP0124,Anamika Gulati,HR,HR Business Partner,04-10-2022
+EMP0125,Arunima Nigam,Quality,QA Inspector,19-01-2021
+EMP0126,Tanmayi Gill,HR,HR Business Partner,17-06-2022
+EMP0127,Jagdish Chad,HR,HR Business Partner,17-08-2021
+EMP0128,Meghana Mittal,HR,HR Business Partner,05-03-2023
+EMP0129,Vedhika Prabhu,Operations Management,Operations Director,20-02-2021
+EMP0130,Jhalak Raman,Maintenance,Technician,07-06-2020
+EMP0131,Bina Thaker,Quality,Quality Manager,05-06-2020
+EMP0132,Jyoti Sunder,Operations Management,Plant Manager,29-12-2018
+EMP0133,Rachana Manne,Maintenance,Maintenance Engineer,22-11-2020
+EMP0134,Barkha Goel,Safety,Safety Officer,29-05-2020
+EMP0135,Faras Dube,Logistics,Logistics Coordinator,22-07-2021
+EMP0136,Ira Kapoor,Safety,Safety Officer,17-05-2018
+EMP0137,Leena Aggarwal,Production,Operator,19-02-2021
+EMP0138,Dayita Jani,Operations Management,Plant Manager,10-08-2019
+EMP0139,Vyanjana Palla,Operations Management,Operations Director,28-08-2022
+EMP0140,Turvi Bhatia,Operations Management,Operations Director,04-12-2021
+EMP0141,Hardik Bhattacharyya,Production,Supervisor,09-04-2018
+EMP0142,Orinder Sankaran,Quality,Quality Engineer,18-01-2023
+EMP0143,Yatin Mander,Operations Management,Plant Manager,09-03-2023
+EMP0144,Yashasvi Nayak,Safety,Safety Officer,29-03-2019
+EMP0145,Meera Kulkarni,HR,HR Business Partner,19-10-2020
+EMP0146,Balendra Sanghvi,HR,HR Business Partner,10-03-2022
+EMP0147,Chameli Mukherjee,Safety,Safety Officer,13-12-2021
+EMP0148,Widisha Kala,Logistics,Warehouse Associate,05-05-2020
+EMP0149,Ishwar Tata,Maintenance,Maintenance Supervisor,04-09-2019
+EMP0150,Hardik Patla,Safety,Safety Officer,15-04-2018
+EMP0151,Dominic Purohit,Operations Management,Operations Director,06-06-2021
+EMP0152,Gavin Setty,Production,Operator,29-10-2022
+EMP0153,Caleb Goel,Operations Management,Plant Manager,01-10-2022
+EMP0154,Xiti Balasubramanian,Maintenance,Technician,01-03-2021
+EMP0155,Lucky Kant,Safety,Safety Officer,02-02-2021
+EMP0156,Finn Murty,Logistics,Warehouse Associate,22-11-2018
+EMP0157,Rachit Nath,Operations Management,Operations Director,17-09-2022
+EMP0158,Owen Chada,Safety,Safety Officer,13-02-2021
+EMP0159,Dev Swamy,Logistics,Logistics Coordinator,17-11-2021
+EMP0160,Jeremiah Acharya,HR,HR Business Partner,01-04-2020
+EMP0161,Jhalak Kaur,Operations Management,Operations Director,31-10-2021
+EMP0162,Chanchal Wagle,Maintenance,Maintenance Supervisor,20-08-2021
+EMP0163,Amara Ramaswamy,Maintenance,Technician,18-07-2018
+EMP0164,Anamika Bhasin,Safety,Safety Officer,08-11-2019
+EMP0165,Madhavi Dugal,Production,Operator,12-08-2022
+EMP0166,Dhruv Devi,Safety,Safety Officer,19-02-2022
+EMP0167,Pahal Chokshi,Operations Management,Plant Manager,25-10-2021
+EMP0168,Aachal Bera,HR,HR Business Partner,08-07-2019
+EMP0169,Bimala Mital,Production,Operator,24-07-2018
+EMP0170,Ucchal Gour,Logistics,Warehouse Associate,05-12-2019
+EMP0171,Shivansh Mani,HR,HR Business Partner,29-02-2020
+EMP0172,Reva Srinivasan,Logistics,Warehouse Associate,10-09-2022
+EMP0173,Ganga Anne,Production,Supervisor,11-12-2020
+EMP0174,Laban Lala,Operations Management,Plant Manager,25-09-2019
+EMP0175,Ekbal Sur,Logistics,Warehouse Associate,28-09-2022
+EMP0176,Anya Modi,Maintenance,Maintenance Supervisor,07-07-2020
+EMP0177,Kalpit Bahri,Logistics,Warehouse Associate,04-07-2019
+EMP0178,Vincent Swaminathan,Production,Operator,02-05-2018
+EMP0179,Onveer Sha,Safety,Safety Officer,16-08-2022
+EMP0180,Ishita Lanka,Safety,Safety Officer,12-09-2021
+EMP0181,Chaitanya Swaminathan,Quality,Quality Engineer,06-05-2021
+EMP0182,Hritik Chhabra,Operations Management,Operations Director,14-11-2020
+EMP0183,Tara Murty,Logistics,Warehouse Associate,11-03-2020
+EMP0184,Utkarsh Kurian,Safety,Safety Officer,11-12-2018
+EMP0185,Varsha Bhasin,HR,HR Business Partner,30-05-2020
+EMP0186,Umang Mitter,Safety,Safety Officer,18-10-2018
+EMP0187,Deepa Aurora,HR,HR Business Partner,11-06-2021
+EMP0188,Mekhala Amble,HR,HR Business Partner,09-05-2019
+EMP0189,Odika Rama,HR,HR Business Partner,17-08-2019
+EMP0190,Rushil Yohannan,Quality,Quality Manager,18-01-2020
+EMP0191,Shravya Bal,Safety,Safety Officer,26-05-2018
+EMP0192,Rajeshri Mody,Production,Team Lead,12-07-2019
+EMP0193,Ethan Pillai,Operations Management,Plant Manager,11-05-2018
+EMP0194,Krishna Bobal,Production,Production Manager,20-03-2021
+EMP0195,Ishanvi Pau,Production,Team Lead,03-03-2020
+EMP0196,Patrick Ramesh,Quality,Quality Engineer,21-12-2022
+EMP0197,Jason Talwar,Maintenance,Maintenance Engineer,03-12-2021
+EMP0198,Laksh Narasimhan,Production,Team Lead,13-11-2019
+EMP0199,Harshil Ghose,HR,HR Business Partner,03-12-2022
+EMP0200,Arya Patel,Quality,Quality Engineer,14-09-2019
+EMP0201,Waida Bajaj,Operations Management,Plant Manager,15-12-2018
+EMP0202,Neha Shroff,Production,Operator,19-07-2021
+EMP0203,Ayushman Raju,Safety,Safety Officer,20-04-2021
+EMP0204,Girindra Salvi,Safety,Safety Officer,02-11-2021
+EMP0205,Chakradhar Vasa,HR,HR Business Partner,26-04-2019
+EMP0206,Ishaan Sachdeva,Safety,Safety Officer,30-03-2021
+EMP0207,Nisha Setty,Quality,Quality Manager,26-07-2022
+EMP0208,Raghav Ravel,Production,Team Lead,08-01-2020
+EMP0209,Abdul Nagy,Safety,Safety Officer,10-12-2018
+EMP0210,Chameli Mishra,Logistics,Logistics Coordinator,13-03-2020
+EMP0211,Amrita Singh,Maintenance,Technician,28-09-2018
+EMP0212,Frado Rao,Logistics,Warehouse Associate,14-05-2020
+EMP0213,Ishwar Samra,Quality,Quality Manager,03-01-2020
+EMP0214,Qushi Arora,Maintenance,Maintenance Engineer,13-05-2022
+EMP0215,Vrinda Pradhan,HR,HR Business Partner,02-09-2020
+EMP0216,Mohini Rana,Maintenance,Technician,25-09-2018
+EMP0217,Manthan Lad,Safety,Safety Officer,02-08-2018
+EMP0218,Ryan Seshadri,Safety,Safety Officer,30-11-2020
+EMP0219,Vidhi Kothari,HR,HR Business Partner,25-05-2020
+EMP0220,Baghyawati Jain,Production,Production Manager,22-12-2018
+EMP0221,Dayita Mander,Maintenance,Technician,28-04-2022
+EMP0222,Gavin Ahluwalia,Quality,Quality Manager,01-08-2022
+EMP0223,Harini Malhotra,Operations Management,Operations Director,13-03-2021
+EMP0224,Mason Cheema,Production,Operator,23-01-2022
+EMP0225,Theodore Ganesan,Safety,Safety Officer,12-03-2022
+EMP0226,Sneha Trivedi,Operations Management,Operations Director,31-01-2023
+EMP0227,Kashish Barad,Operations Management,Operations Director,01-05-2019
+EMP0228,Daniel Badami,Maintenance,Technician,24-01-2023
+EMP0229,Bhanumati Madan,Maintenance,Maintenance Supervisor,18-11-2020
+EMP0230,Eiravati Wagle,Production,Operator,17-10-2018
+EMP0231,Aahana Nagarajan,Maintenance,Maintenance Supervisor,24-11-2022
+EMP0232,Madhav Shetty,Logistics,Warehouse Associate,29-07-2021
+EMP0233,Mugdha Dubey,Safety,Safety Officer,18-01-2022
+EMP0234,Amruta Arya,HR,HR Business Partner,17-01-2020
+EMP0235,Zaid Vora,Production,Supervisor,05-05-2019
+EMP0236,Girindra Ganguly,Quality,Quality Engineer,22-03-2023
+EMP0237,Sneha Bansal,Operations Management,Plant Manager,22-04-2021
+EMP0238,Ojas Upadhyay,Quality,Quality Manager,17-12-2022
+EMP0239,Anamika Ratta,HR,HR Business Partner,11-06-2022
+EMP0240,Gabriel Kothari,Quality,QA Inspector,29-08-2018
+EMP0241,Xalak Dara,Operations Management,Plant Manager,27-08-2020
+EMP0242,Rachita Saran,Logistics,Logistics Coordinator,09-12-2019
+EMP0243,Jagdish Vora,Operations Management,Operations Director,12-10-2018
+EMP0244,Tanay Kuruvilla,Operations Management,Operations Director,19-08-2020
+EMP0245,Alka Narayan,Safety,Safety Officer,15-04-2019
+EMP0246,Ayaan Kaul,Maintenance,Technician,01-05-2021
+EMP0247,Samarth Ramakrishnan,Maintenance,Technician,26-02-2021
+EMP0248,Harish Sibal,Logistics,Warehouse Associate,28-06-2022
+EMP0249,Zehaan Vasa,Production,Team Lead,23-12-2021
+EMP0250,Chaman Badami,HR,HR Business Partner,27-12-2018
+EMP0251,Anvi Chad,Quality,Quality Engineer,28-04-2021
+EMP0252,Sarthak Tripathi,Maintenance,Maintenance Engineer,20-02-2021
+EMP0253,Anamika Kant,HR,HR Business Partner,26-04-2018
+EMP0254,Warjas Parekh,Maintenance,Maintenance Supervisor,19-05-2018
+EMP0255,Dayita Sengupta,Quality,Quality Engineer,22-09-2022
+EMP0256,Devika Saran,Logistics,Logistics Coordinator,06-01-2019
+EMP0257,Aashi Devan,HR,HR Business Partner,07-08-2019
+EMP0258,Nitara Bumb,Maintenance,Maintenance Supervisor,13-04-2021
+EMP0259,Zehaan Jhaveri,Production,Team Lead,11-10-2018
+EMP0260,Gauri Bajwa,Logistics,Logistics Coordinator,03-10-2020
+EMP0261,Praneel Gala,HR,HR Business Partner,21-02-2022
+EMP0262,Zehaan Rajagopal,Production,Production Manager,15-07-2018
+EMP0263,Eiravati Ganesh,Quality,Quality Engineer,01-07-2020
+EMP0264,Sanaya Nanda,Logistics,Warehouse Associate,17-10-2021
+EMP0265,Pushti Mammen,Operations Management,Operations Director,04-03-2022
+EMP0266,Sai Solanki,Operations Management,Plant Manager,14-04-2018
+EMP0267,Bishakha Tailor,HR,HR Business Partner,04-04-2018
+EMP0268,Vasana Kanda,Safety,Safety Officer,01-11-2020
+EMP0269,Charita Garde,Quality,Quality Manager,08-10-2021
+EMP0270,Pranav Dube,HR,HR Business Partner,23-12-2018
+EMP0271,Abhiram Jani,Production,Operator,20-01-2022
+EMP0272,Aashi Gara,Quality,Quality Manager,12-11-2021
+EMP0273,Lakshit Hayre,Operations Management,Plant Manager,10-01-2021
+EMP0274,Tanvi Rana,Operations Management,Operations Director,27-02-2022
+EMP0275,Darsh Shenoy,Production,Supervisor,30-01-2019
+EMP0276,Chatresh Palla,Production,Supervisor,10-11-2020
+EMP0277,Parth Saran,HR,HR Business Partner,03-06-2019
+EMP0278,Chandresh Sharma,Logistics,Logistics Coordinator,01-04-2021
+EMP0279,Guneet Sandhu,Production,Operator,14-01-2021
+EMP0280,Bhanumati Mallick,Operations Management,Plant Manager,13-07-2018
+EMP0281,Mahika Mane,Production,Production Manager,30-05-2018
+EMP0282,Gunbir Dewan,Logistics,Warehouse Associate,04-10-2022
+EMP0283,Victor Borah,Production,Production Manager,29-03-2020
+EMP0284,Kavya Doctor,Safety,Safety Officer,25-12-2018
+EMP0285,Chaitaly Padmanabhan,HR,HR Business Partner,05-11-2022
+EMP0286,Lekha Bahri,Safety,Safety Officer,03-04-2020
+EMP0287,Yashasvi Jaggi,Logistics,Warehouse Associate,06-12-2021
+EMP0288,Rachana Mistry,Maintenance,Maintenance Engineer,03-04-2020
+EMP0289,Nandini Kade,Maintenance,Maintenance Engineer,25-11-2018
+EMP0290,Guneet Kala,Quality,Quality Manager,03-05-2020
+EMP0291,Samarth Saha,HR,HR Business Partner,14-07-2018
+EMP0292,Oeshi Prabhu,HR,HR Business Partner,02-02-2022
+EMP0293,Vidhi Chaudhuri,Production,Production Manager,31-08-2022
+EMP0294,Daksh Rajan,Maintenance,Maintenance Engineer,11-08-2021
+EMP0295,Faris Rajan,Quality,QA Inspector,06-03-2021
+EMP0296,Lopa Merchant,Logistics,Warehouse Associate,18-02-2022
+EMP0297,Alka Swaminathan,Production,Production Manager,17-07-2018
+EMP0298,Anthony Jain,Maintenance,Maintenance Engineer,23-05-2020
+EMP0299,Vritti Chandra,Maintenance,Maintenance Engineer,12-01-2023
+EMP0300,Zaitra Choudhury,HR,HR Business Partner,09-10-2018
+EMP0301,Anusha Brahmbhatt,Production,Team Lead,07-01-2020
+EMP0302,Diya Dar,Safety,Safety Officer,04-02-2020
+EMP0303,Faqid Majumdar,Maintenance,Technician,20-11-2020
+EMP0304,Abeer Balasubramanian,HR,HR Business Partner,08-09-2021
+EMP0305,Vasatika Iyengar,Safety,Safety Officer,08-11-2022
+EMP0306,Daniel Agarwal,Quality,Quality Manager,02-01-2019
+EMP0307,Jack Kalita,Logistics,Logistics Coordinator,14-09-2022
+EMP0308,Jacob Chowdhury,Operations Management,Operations Director,19-01-2020
+EMP0309,Ayush Kala,Maintenance,Maintenance Engineer,03-10-2019
+EMP0310,Arjun Merchant,Operations Management,Operations Director,08-11-2021
+EMP0311,Rajeshri More,HR,HR Business Partner,26-03-2021
+EMP0312,Avi Sundaram,Maintenance,Technician,09-03-2019
+EMP0313,Nisha Magar,Maintenance,Technician,19-05-2020
+EMP0314,Yauvani Kumer,Production,Operator,10-03-2019
+EMP0315,Kiaan Kamdar,HR,HR Business Partner,23-04-2018
+EMP0316,Aarnav Konda,Safety,Safety Officer,11-05-2020
+EMP0317,Fiyaz Balay,Production,Team Lead,16-04-2019
+EMP0318,Udarsh Memon,Safety,Safety Officer,03-02-2019
+EMP0319,Harsh Ramanathan,HR,HR Business Partner,19-01-2019
+EMP0320,Ganga Verma,Production,Production Manager,09-03-2023
+EMP0321,Manbir Dugal,Logistics,Warehouse Associate,02-01-2020
+EMP0322,Warhi Dutt,Quality,Quality Manager,01-01-2021
+EMP0323,Falguni Sankaran,Maintenance,Maintenance Supervisor,20-06-2018
+EMP0324,Nirja Andra,HR,HR Business Partner,09-03-2021
+EMP0325,Indali Narasimhan,Maintenance,Maintenance Engineer,30-08-2022
+EMP0326,Hemani Kaur,Quality,QA Inspector,18-01-2023
+EMP0327,Ridhi Natarajan,HR,HR Business Partner,15-08-2019
+EMP0328,Sai Amble,Maintenance,Maintenance Engineer,19-06-2018
+EMP0329,Isha Banerjee,Production,Supervisor,25-05-2021
+EMP0330,Ishanvi Pant,HR,HR Business Partner,01-05-2021
+EMP0331,Tanmayi Natarajan,Maintenance,Technician,06-04-2020
+EMP0332,Udant Mand,Logistics,Logistics Coordinator,28-12-2021
+EMP0333,Manan Dhar,Logistics,Logistics Coordinator,19-09-2019
+EMP0334,Ishita Sha,HR,HR Business Partner,11-06-2020
+EMP0335,Watika Sahni,Maintenance,Maintenance Engineer,22-07-2021
+EMP0336,Lakshit Devi,Safety,Safety Officer,07-07-2018
+EMP0337,Oscar Cherian,HR,HR Business Partner,29-03-2021
+EMP0338,Rohan Mital,Quality,QA Inspector,14-08-2020
+EMP0339,Wyatt Choudhury,Logistics,Warehouse Associate,06-03-2019
+EMP0340,Onveer Ramakrishnan,Logistics,Warehouse Associate,04-04-2022
+EMP0341,Brijesh Sarna,Operations Management,Operations Director,16-07-2020
+EMP0342,Zehaan Lad,Production,Supervisor,25-09-2022
+EMP0343,Udant Verma,Safety,Safety Officer,23-12-2021
+EMP0344,Daksh Halder,Operations Management,Plant Manager,20-03-2023
+EMP0345,Anya Som,Logistics,Logistics Coordinator,03-10-2018
+EMP0346,Tanmayi Tank,Safety,Safety Officer,31-08-2020
+EMP0347,Atharv Bansal,Operations Management,Plant Manager,05-06-2022
+EMP0348,Nikita Dass,Maintenance,Maintenance Supervisor,19-08-2020
+EMP0349,Yamini Das,Operations Management,Plant Manager,14-10-2019
+EMP0350,Urishilla Jha,Logistics,Logistics Coordinator,21-07-2022
+EMP0351,Pahal Chopra,Safety,Safety Officer,22-03-2023
+EMP0352,Bishakha Sahota,Operations Management,Operations Director,20-04-2020
+EMP0353,Hema Saraf,Quality,QA Inspector,30-08-2021
+EMP0354,Ishwar Bhatnagar,Safety,Safety Officer,04-03-2021
+EMP0355,Pahal Buch,Operations Management,Operations Director,13-09-2019
+EMP0356,Jeet Tak,Operations Management,Plant Manager,06-01-2021
+EMP0357,Rushil Thaman,Quality,Quality Engineer,18-01-2022
+EMP0358,Omya Narain,Quality,QA Inspector,10-03-2022
+EMP0359,Noah Brahmbhatt,HR,HR Business Partner,13-02-2021
+EMP0360,Qabil Krishnamurthy,Maintenance,Maintenance Supervisor,06-04-2018
+EMP0361,Ranbir Nath,HR,HR Business Partner,27-02-2021
+EMP0362,Fariq Roy,Quality,Quality Manager,26-02-2019
+EMP0363,Abha Bera,Quality,Quality Engineer,20-11-2022
+EMP0364,Anirudh Jain,Quality,Quality Manager,03-11-2018
+EMP0365,Anya Kanda,Operations Management,Operations Director,03-02-2022
+EMP0366,Bakhshi Dube,Logistics,Logistics Coordinator,20-08-2020
+EMP0367,Matthew Panchal,HR,HR Business Partner,03-10-2018
+EMP0368,Aarna Gaba,Operations Management,Plant Manager,02-08-2019
+EMP0369,Ekantika Dube,Logistics,Logistics Coordinator,14-01-2021
+EMP0370,Adya Reddy,HR,HR Business Partner,08-04-2021
+EMP0371,Osha Rana,Operations Management,Plant Manager,19-09-2020
+EMP0372,Frado Patla,Maintenance,Maintenance Engineer,04-08-2021
+EMP0373,Reyansh Dar,HR,HR Business Partner,09-09-2022
+EMP0374,Samaksh Chahal,Production,Operator,28-06-2022
+EMP0375,Saanvi Bir,HR,HR Business Partner,11-10-2018
+EMP0376,Neel Kakar,Operations Management,Operations Director,28-07-2018
+EMP0377,Ikshita Shere,Logistics,Logistics Coordinator,08-05-2019
+EMP0378,Lila Padmanabhan,Safety,Safety Officer,13-10-2019
+EMP0379,Unni Seshadri,Operations Management,Plant Manager,30-11-2018
+EMP0380,Nathaniel Thakur,HR,HR Business Partner,04-07-2021
+EMP0381,Isha Kuruvilla,Quality,QA Inspector,09-03-2022
+EMP0382,Timothy Hayre,Maintenance,Technician,22-06-2021
+EMP0383,Omya Sampath,Operations Management,Plant Manager,11-01-2023
+EMP0384,Vansha Sekhon,Quality,QA Inspector,29-11-2019
+EMP0385,Abdul Bhavsar,Operations Management,Operations Director,16-12-2022
+EMP0386,Guneet Magar,Operations Management,Operations Director,25-07-2020
+EMP0387,Nidra Rege,Maintenance,Maintenance Engineer,17-01-2019
+EMP0388,Samar Sura,Operations Management,Operations Director,25-12-2019
+EMP0389,Nirja Singhal,Maintenance,Technician,08-08-2019
+EMP0390,Ria Dada,Operations Management,Operations Director,09-01-2022
+EMP0391,Vrinda Vaidya,Quality,Quality Manager,14-03-2020
+EMP0392,Sathvik Varughese,Logistics,Logistics Coordinator,28-10-2022
+EMP0393,Eshana Barad,Maintenance,Maintenance Supervisor,22-11-2019
+EMP0394,Diya Wali,HR,HR Business Partner,12-11-2020
+EMP0395,Samesh Trivedi,Safety,Safety Officer,03-10-2019
+EMP0396,Lipika Barad,HR,HR Business Partner,15-09-2020
+EMP0397,Harrison Chhabra,Production,Production Manager,24-05-2021
+EMP0398,Bhanumati Das,Safety,Safety Officer,21-07-2018
+EMP0399,Odika Malhotra,Production,Operator,09-01-2022
+EMP0400,David More,Logistics,Warehouse Associate,24-10-2022
+EMP0401,Priya Garg,Quality,Quality Manager,08-03-2022
+EMP0402,Kamala Virk,Quality,QA Inspector,09-02-2023
+EMP0403,Yashvi Kurian,Safety,Safety Officer,27-12-2019
+EMP0404,Shaurya Sharaf,HR,HR Business Partner,15-12-2021
+EMP0405,Amruta Mutti,Logistics,Logistics Coordinator,26-12-2019
+EMP0406,Luke Bhatnagar,HR,HR Business Partner,18-01-2023
+EMP0407,Zaitra Peri,Production,Team Lead,06-10-2019
+EMP0408,Ladli Buch,HR,HR Business Partner,29-06-2018
+EMP0409,Chaaya Subramanian,HR,HR Business Partner,28-05-2018
+EMP0410,Dalaja Bhatnagar,Quality,Quality Manager,09-10-2019
+EMP0411,Aachal Padmanabhan,HR,HR Business Partner,31-10-2018
+EMP0412,Chatura Chana,Operations Management,Plant Manager,10-08-2022
+EMP0413,Rajeshri Kamdar,Logistics,Logistics Coordinator,17-07-2018
+EMP0414,Falan Dass,Logistics,Logistics Coordinator,23-05-2020
+EMP0415,Utkarsh Hari,HR,HR Business Partner,26-09-2020
+EMP0416,Andrew Subramanian,Logistics,Logistics Coordinator,20-03-2019
+EMP0417,Darsh Deshpande,HR,HR Business Partner,06-06-2019
+EMP0418,Aahana Bhat,Safety,Safety Officer,03-04-2019
+EMP0419,Brinda Dani,Quality,Quality Manager,30-09-2018
+EMP0420,Vidhi Madan,Maintenance,Technician,11-07-2019
+EMP0421,Hemani Bhatt,Quality,Quality Engineer,26-02-2023
+EMP0422,Ubika Bhattacharyya,Quality,QA Inspector,02-01-2023
+EMP0423,Girindra Puri,Quality,Quality Engineer,18-02-2021
+EMP0424,Maanas Mohanty,Maintenance,Maintenance Supervisor,31-05-2022
+EMP0425,Dev Kakar,Logistics,Warehouse Associate,05-08-2018
+EMP0426,Qarin Prasad,HR,HR Business Partner,08-12-2020
+EMP0427,Tanvi Murty,HR,HR Business Partner,11-12-2018
+EMP0428,Manan Bhasin,Production,Production Manager,23-03-2019
+EMP0429,Maanas Sanghvi,Logistics,Warehouse Associate,28-01-2022
+EMP0430,Orinder Anne,Operations Management,Plant Manager,19-12-2020
+EMP0431,Arunima Goel,Logistics,Warehouse Associate,14-02-2021
+EMP0432,Charles Bath,Production,Supervisor,03-06-2019
+EMP0433,Chasmum Sachar,Operations Management,Operations Director,15-06-2020
+EMP0434,Faris Subramanian,HR,HR Business Partner,23-06-2020
+EMP0435,Anay Chowdhury,Operations Management,Operations Director,18-08-2022
+EMP0436,Michael Murty,Safety,Safety Officer,11-11-2019
+EMP0437,Kritika Murty,Operations Management,Operations Director,31-07-2018
+EMP0438,Aarush Minhas,HR,HR Business Partner,16-02-2023
+EMP0439,Fiyaz Sandal,Safety,Safety Officer,06-10-2021
+EMP0440,Shravya Mangal,Maintenance,Maintenance Supervisor,16-04-2019
+EMP0441,Samar Trivedi,Operations Management,Operations Director,04-07-2020
+EMP0442,Advay Korpal,Logistics,Warehouse Associate,30-06-2022
+EMP0443,Daniel Sagar,Safety,Safety Officer,09-09-2019
+EMP0444,Aarav Issac,Operations Management,Operations Director,06-09-2020
+EMP0445,Vedhika Chacko,Production,Supervisor,04-01-2019
+EMP0446,Anjali Wagle,Logistics,Logistics Coordinator,14-01-2019
+EMP0447,Ekaraj Mangat,Quality,Quality Manager,01-03-2021
+EMP0448,Wishi Bhalla,Maintenance,Maintenance Supervisor,13-07-2022
+EMP0449,Pavani Rout,Maintenance,Maintenance Supervisor,20-03-2023
+EMP0450,Daksha Raja,Operations Management,Operations Director,09-03-2022
+EMP0451,Falguni Mitra,Maintenance,Maintenance Engineer,25-08-2020
+EMP0452,Urishilla Mukhopadhyay,Maintenance,Maintenance Supervisor,24-08-2020
+EMP0453,Sarthak Choudhry,Maintenance,Technician,13-11-2019
+EMP0454,Nitara Sengupta,Production,Supervisor,30-08-2022
+EMP0455,Bishakha Sabharwal,Logistics,Logistics Coordinator,12-09-2020
+EMP0456,Ayush Balakrishnan,Maintenance,Maintenance Supervisor,12-05-2020
+EMP0457,Gauri Modi,HR,HR Business Partner,28-11-2022
+EMP0458,Yagnesh Sundaram,Maintenance,Maintenance Supervisor,06-07-2021
+EMP0459,Chameli Jha,Production,Team Lead,08-11-2018
+EMP0460,Owen Sheth,Safety,Safety Officer,04-07-2018
+EMP0461,Gautam Narain,Logistics,Logistics Coordinator,16-10-2021
+EMP0462,Praneel Aurora,Quality,Quality Engineer,05-08-2018
+EMP0463,Chanchal Ahluwalia,Production,Operator,14-04-2019
+EMP0464,Ijaya Arora,Maintenance,Maintenance Supervisor,11-04-2018
+EMP0465,Oeshi Naidu,HR,HR Business Partner,13-03-2020
+EMP0466,Akshay Padmanabhan,Production,Production Manager,30-12-2019
+EMP0467,Isaac Patel,Production,Operator,02-12-2022
+EMP0468,Mekhala Kakar,HR,HR Business Partner,24-07-2019
+EMP0469,Tamanna Venkatesh,Safety,Safety Officer,11-04-2018
+EMP0470,Tanmayi Rajan,Operations Management,Operations Director,17-03-2023
+EMP0471,Gabriel Narayanan,Maintenance,Technician,31-12-2020
+EMP0472,Ekansh Devan,Production,Supervisor,06-11-2021
+EMP0473,Samaksh Trivedi,Production,Operator,28-08-2022
+EMP0474,Jyoti Kurian,Safety,Safety Officer,08-11-2019
+EMP0475,Tanvi Bal,Logistics,Warehouse Associate,17-07-2020
+EMP0476,Zaid Oza,Maintenance,Maintenance Engineer,21-10-2020
+EMP0477,Edhitha Thaman,Operations Management,Plant Manager,21-06-2020
+EMP0478,Unni Yohannan,Logistics,Logistics Coordinator,06-04-2018
+EMP0479,Matthew Boase,Maintenance,Maintenance Engineer,19-12-2020
+EMP0480,Januja Srinivasan,Logistics,Logistics Coordinator,26-08-2020
+EMP0481,Priya Parekh,Production,Production Manager,06-04-2021
+EMP0482,Daksha Sama,Quality,Quality Engineer,04-03-2019
+EMP0483,Daksh Dhar,Logistics,Warehouse Associate,18-08-2019
+EMP0484,Manya Kale,HR,HR Business Partner,07-09-2021
+EMP0485,Akshay Seth,HR,HR Business Partner,13-06-2021
+EMP0486,Harsh Divan,Maintenance,Maintenance Supervisor,26-05-2020
+EMP0487,Christopher Lad,Safety,Safety Officer,14-01-2023
+EMP0488,Urvi Bhat,Operations Management,Operations Director,14-04-2019
+EMP0489,Chatura Sane,HR,HR Business Partner,28-08-2020
+EMP0490,Kamya Setty,Quality,Quality Engineer,30-07-2019
+EMP0491,David Walla,Operations Management,Operations Director,08-05-2020
+EMP0492,Warda Dash,Maintenance,Maintenance Engineer,22-06-2021
+EMP0493,Vedant Ravi,Operations Management,Plant Manager,06-02-2021
+EMP0494,Nitara Merchant,Logistics,Warehouse Associate,21-04-2022
+EMP0495,Vasudha Parmar,Logistics,Logistics Coordinator,05-10-2019
+EMP0496,Warda Raju,Logistics,Warehouse Associate,29-11-2021
+EMP0497,Kevin Anand,Operations Management,Operations Director,16-03-2021
+EMP0498,Bhavini Mane,Logistics,Warehouse Associate,30-06-2020
+EMP0499,Neelima Nanda,Operations Management,Plant Manager,12-02-2019
+EMP0500,Alka Bhavsar,Safety,Safety Officer,16-02-2023
+EMP0501,Jalsa Mander,Logistics,Warehouse Associate,22-05-2022
+EMP0502,Vidhi Chakraborty,Production,Supervisor,04-08-2020
+EMP0503,Guneet Sarna,Logistics,Logistics Coordinator,07-06-2019
+EMP0504,Ayaan Kannan,Operations Management,Operations Director,10-01-2019
+EMP0505,Ucchal Ganguly,Safety,Safety Officer,02-10-2019
+EMP0506,Ucchal Jaggi,Safety,Safety Officer,10-06-2018
+EMP0507,Niharika Chandran,Operations Management,Operations Director,02-11-2020
+EMP0508,Ojasvi Bhakta,Logistics,Warehouse Associate,14-02-2022
+EMP0509,Brinda Mangal,Operations Management,Operations Director,28-09-2019
+EMP0510,Damini Subramanian,HR,HR Business Partner,12-11-2021
+EMP0511,Raagini Kale,Operations Management,Plant Manager,05-01-2021
+EMP0512,Warjas Viswanathan,HR,HR Business Partner,22-09-2022
+EMP0513,Nirja Nagarajan,Safety,Safety Officer,08-04-2019
+EMP0514,Isaac Tella,Safety,Safety Officer,29-07-2019
+EMP0515,Bhavani Mishra,HR,HR Business Partner,16-08-2022
+EMP0516,Siddharth Patel,Maintenance,Maintenance Engineer,07-06-2022
+EMP0517,Ojasvi Biswas,Production,Supervisor,01-07-2021
+EMP0518,Aahana Rattan,Logistics,Logistics Coordinator,16-05-2019
+EMP0519,Vinaya Dhawan,Production,Production Manager,22-01-2019
+EMP0520,Tristan Virk,Quality,Quality Engineer,14-06-2022
+EMP0521,Wishi Singhal,Safety,Safety Officer,18-07-2018
+EMP0522,Rehaan Dalal,Production,Operator,11-12-2020
+EMP0523,Samar Gandhi,HR,HR Business Partner,29-01-2022
+EMP0524,Sachi Tailor,HR,HR Business Partner,19-09-2021
+EMP0525,Raghav Bawa,Quality,Quality Manager,29-07-2018
+EMP0526,Adweta Rana,HR,HR Business Partner,02-01-2019
+EMP0527,Mahika Mistry,Production,Operator,03-02-2023
+EMP0528,Manbir Oak,Logistics,Warehouse Associate,31-08-2020
+EMP0529,Jacob Lad,Production,Team Lead,26-01-2021
+EMP0530,Amol Kalita,Quality,Quality Manager,09-05-2019
+EMP0531,Charita Chokshi,HR,HR Business Partner,31-12-2022
+EMP0532,Baghyawati Magar,Operations Management,Operations Director,14-03-2023
+EMP0533,Chakrika Guha,Quality,QA Inspector,18-12-2022
+EMP0534,Zaitra Dutta,Logistics,Warehouse Associate,17-04-2022
+EMP0535,Januja Master,HR,HR Business Partner,27-05-2022
+EMP0536,Baghyawati Nori,Logistics,Warehouse Associate,15-06-2020
+EMP0537,Upma Doctor,Maintenance,Maintenance Engineer,15-04-2020
+EMP0538,Janani Vaidya,Operations Management,Plant Manager,18-08-2020
+EMP0539,Farhan Kata,Production,Production Manager,26-09-2018
+EMP0540,Pahal Sood,Quality,Quality Manager,20-03-2020
+EMP0541,Wridesh Bhagat,HR,HR Business Partner,15-03-2020
+EMP0542,Chatura Kari,Operations Management,Plant Manager,04-02-2020
+EMP0543,Oni Patil,Production,Team Lead,16-02-2019
+EMP0544,Deepa Sahni,Logistics,Logistics Coordinator,28-05-2018
+EMP0545,Lakshit Chander,Operations Management,Operations Director,19-05-2022
+EMP0546,Yauvani Vasa,Maintenance,Maintenance Supervisor,21-12-2018
+EMP0547,Zayan Roy,Maintenance,Technician,07-10-2020
+EMP0548,Gaurang Prabhakar,Safety,Safety Officer,11-04-2022
+EMP0549,Zayyan Apte,HR,HR Business Partner,27-02-2021
+EMP0550,Rayaan Chopra,Operations Management,Operations Director,09-04-2021
+EMP0551,Nirja Karpe,Logistics,Warehouse Associate,11-04-2021
+EMP0552,Januja Patil,Quality,Quality Engineer,18-10-2018
+EMP0553,Zinal Nori,Production,Supervisor,31-07-2018
+EMP0554,Amol Dash,Safety,Safety Officer,28-07-2018
+EMP0555,Rajeshri Madan,Quality,Quality Engineer,01-03-2022
+EMP0556,Vanya Sathe,Operations Management,Operations Director,10-05-2022
+EMP0557,Shravya Rau,Quality,Quality Manager,17-05-2019
+EMP0558,Charles Suri,HR,HR Business Partner,01-04-2020
+EMP0559,Guneet Agrawal,Safety,Safety Officer,12-01-2022
+EMP0560,Balvan Balakrishnan,Maintenance,Maintenance Engineer,20-11-2020
+EMP0561,Dipta Apte,HR,HR Business Partner,07-07-2018
+EMP0562,Barkha Gulati,Production,Production Manager,03-04-2022
+EMP0563,Lavanya Bhagat,Safety,Safety Officer,07-11-2020
+EMP0564,Dakshesh Pillay,HR,HR Business Partner,10-09-2021
+EMP0565,Dhriti Atwal,Logistics,Logistics Coordinator,19-01-2023
+EMP0566,Logan Wagle,HR,HR Business Partner,16-08-2018
+EMP0567,Unnati Gour,Quality,Quality Engineer,24-11-2019
+EMP0568,Ansh Amble,HR,HR Business Partner,23-01-2023
+EMP0569,Warjas Bhatnagar,Production,Supervisor,06-01-2020
+EMP0570,Mohammed Upadhyay,Safety,Safety Officer,31-07-2020
+EMP0571,Madhav Mahal,HR,HR Business Partner,15-03-2020
+EMP0572,Charan Tandon,Operations Management,Plant Manager,06-09-2022
+EMP0573,Yachana Bir,Quality,QA Inspector,06-08-2020
+EMP0574,Ekalinga Mani,Production,Supervisor,11-10-2020
+EMP0575,Sudiksha Sha,Maintenance,Technician,11-11-2022
+EMP0576,Banjeet Pant,Quality,Quality Manager,25-07-2022
+EMP0577,Hemang Dua,Production,Team Lead,17-05-2019
+EMP0578,Rohan Sarma,Maintenance,Maintenance Supervisor,17-11-2022
+EMP0579,Chaitaly Kannan,Quality,Quality Engineer,01-06-2022
+EMP0580,Oni Sem,Maintenance,Maintenance Supervisor,23-01-2023
+EMP0581,Jonathan Saxena,HR,HR Business Partner,05-12-2018
+EMP0582,Aarna Narula,Maintenance,Technician,11-05-2021
+EMP0583,Ladli Mander,Operations Management,Plant Manager,29-03-2021
+EMP0584,Rohan Sharaf,Maintenance,Maintenance Engineer,30-09-2019
+EMP0585,Nathan Kumar,Safety,Safety Officer,25-02-2021
+EMP0586,Advika Contractor,Production,Team Lead,13-02-2019
+EMP0587,Isha Bawa,Quality,QA Inspector,30-09-2022
+EMP0588,Dominic Kapadia,Operations Management,Operations Director,25-03-2020
+EMP0589,Lavanya Rattan,Logistics,Warehouse Associate,13-07-2022
+EMP0590,Raghav Sheth,Logistics,Warehouse Associate,23-06-2018
+EMP0591,Wazir Dhawan,Operations Management,Operations Director,04-12-2022
+EMP0592,Robert Panchal,Maintenance,Technician,14-08-2018
+EMP0593,Azaan Natarajan,Safety,Safety Officer,15-08-2021
+EMP0594,Girish Bir,Safety,Safety Officer,25-04-2018
+EMP0595,Anirudh Parsa,Safety,Safety Officer,22-04-2018
+EMP0596,Faqid Lanka,Logistics,Warehouse Associate,02-09-2018
+EMP0597,Ojas Nagar,Logistics,Warehouse Associate,21-06-2019
+EMP0598,Ojasvi Sura,Operations Management,Plant Manager,07-03-2019
+EMP0599,Warinder Ram,Operations Management,Plant Manager,24-02-2021
+EMP0600,Girindra Krish,Safety,Safety Officer,08-11-2019
+EMP0601,Inaya Nagi,Maintenance,Technician,31-12-2021
+EMP0602,Sanaya Aurora,Quality,Quality Engineer,14-02-2019
+EMP0603,Eta Pandya,Quality,Quality Engineer,20-07-2021
+EMP0604,Warda Sarkar,Production,Team Lead,06-05-2022
+EMP0605,Pahal Salvi,Maintenance,Maintenance Engineer,02-07-2019
+EMP0606,Oscar Ram,Safety,Safety Officer,11-08-2021
+EMP0607,Wishi Barman,Operations Management,Plant Manager,04-12-2020
+EMP0608,Anmol Dube,HR,HR Business Partner,23-09-2018
+EMP0609,Madhavi Mody,HR,HR Business Partner,17-12-2019
+EMP0610,Jonathan Guha,Production,Operator,06-05-2018
+EMP0611,Harsh Khanna,Logistics,Warehouse Associate,26-08-2019
+EMP0612,Ekaraj Borah,Operations Management,Operations Director,02-09-2018
+EMP0613,Ekbal Jaggi,Safety,Safety Officer,14-05-2019
+EMP0614,Chandresh Gandhi,HR,HR Business Partner,21-05-2018
+EMP0615,Ekalinga Thakkar,Production,Production Manager,09-01-2023
+EMP0616,Triya Halder,HR,HR Business Partner,28-01-2022
+EMP0617,Sai Bahri,Production,Production Manager,18-08-2022
+EMP0618,Januja Gandhi,Maintenance,Maintenance Supervisor,02-07-2022
+EMP0619,Ansh Choudhury,Maintenance,Technician,13-12-2021
+EMP0620,Amruta Dhillon,Operations Management,Plant Manager,23-11-2019
+EMP0621,Lakshmi Sarma,Maintenance,Technician,24-09-2019
+EMP0622,Damini Dixit,Logistics,Logistics Coordinator,15-01-2019
+EMP0623,Manthan Bahl,Production,Production Manager,31-12-2022
+EMP0624,Brinda Gulati,Operations Management,Operations Director,08-03-2022
+EMP0625,Janani Lala,Quality,Quality Engineer,26-08-2020
+EMP0626,Praneel Chokshi,Operations Management,Operations Director,06-07-2022
+EMP0627,Jeremiah Sachdeva,Safety,Safety Officer,04-09-2020
+EMP0628,Vritti Kara,Logistics,Warehouse Associate,27-10-2022
+EMP0629,Ekansh Aggarwal,Operations Management,Operations Director,23-10-2020
+EMP0630,Advaith Tandon,Logistics,Warehouse Associate,02-12-2022
+EMP0631,Charita Rajagopal,Safety,Safety Officer,27-03-2021
+EMP0632,Aarini Dixit,HR,HR Business Partner,29-07-2022
+EMP0633,Gautam Chanda,Production,Operator,11-11-2018
+EMP0634,Avni Dass,HR,HR Business Partner,19-11-2022
+EMP0635,Pallavi Butala,Maintenance,Technician,01-05-2021
+EMP0636,Falak Mohanty,Operations Management,Operations Director,22-03-2022
+EMP0637,Riya Nagi,Maintenance,Maintenance Engineer,30-05-2020
+EMP0638,Aarnav Sheth,HR,HR Business Partner,25-03-2019
+EMP0639,Garima Bhavsar,Quality,Quality Engineer,23-11-2020
+EMP0640,Dalaja Luthra,HR,HR Business Partner,09-07-2019
+EMP0641,Deepa Khurana,Quality,Quality Manager,16-12-2022
+EMP0642,Bakhshi Prakash,Maintenance,Maintenance Engineer,12-04-2019
+EMP0643,Vihaan Cherian,Logistics,Logistics Coordinator,09-06-2022
+EMP0644,Nidhi Thaker,HR,HR Business Partner,12-10-2020
+EMP0645,Joshua Sanghvi,Operations Management,Operations Director,03-12-2020
+EMP0646,Darika Naik,HR,HR Business Partner,05-06-2021
+EMP0647,Garima Sachar,Maintenance,Maintenance Supervisor,27-03-2019
+EMP0648,Veda Kade,HR,HR Business Partner,02-11-2021
+EMP0649,Champak Shenoy,HR,HR Business Partner,21-09-2020
+EMP0650,Fariq Nagar,Logistics,Logistics Coordinator,10-05-2022
+EMP0651,Lucky Vig,Production,Supervisor,17-12-2022
+EMP0652,Qasim Anne,Operations Management,Operations Director,22-01-2022
+EMP0653,Samarth Raju,Production,Production Manager,22-02-2019
+EMP0654,Anita Kapadia,Operations Management,Operations Director,01-08-2018
+EMP0655,Lavanya Borra,Quality,Quality Engineer,30-12-2020
+EMP0656,Anusha Varughese,Logistics,Warehouse Associate,23-02-2022
+EMP0657,Arunima Singh,HR,HR Business Partner,08-10-2018
+EMP0658,Kritika Singh,HR,HR Business Partner,02-02-2020
+EMP0659,Ganga Sachar,Safety,Safety Officer,29-01-2022
+EMP0660,Nikita Sule,Maintenance,Maintenance Engineer,13-10-2019
+EMP0661,Niharika Sekhon,Maintenance,Maintenance Engineer,08-12-2021
+EMP0662,Elijah Sethi,HR,HR Business Partner,12-12-2019
+EMP0663,Darika Kuruvilla,Safety,Safety Officer,02-09-2020
+EMP0664,Jagdish Shenoy,Maintenance,Technician,27-03-2023
+EMP0665,Falan Mitter,HR,HR Business Partner,31-10-2019
+EMP0666,Harish Pai,Operations Management,Operations Director,12-01-2019
+EMP0667,Wakeeta Kata,Operations Management,Plant Manager,18-11-2021
+EMP0668,Patrick Rana,Operations Management,Plant Manager,13-09-2021
+EMP0669,Yochana Boase,Production,Team Lead,04-08-2022
+EMP0670,Maanas Chadha,Logistics,Warehouse Associate,29-05-2022
+EMP0671,Yatan Sura,Safety,Safety Officer,14-02-2020
+EMP0672,Yashica Desai,Operations Management,Operations Director,08-08-2021
+EMP0673,Upkaar Pall,Maintenance,Maintenance Supervisor,07-09-2022
+EMP0674,Harrison Bains,Safety,Safety Officer,05-05-2019
+EMP0675,Yasti Borah,Operations Management,Plant Manager,13-01-2020
+EMP0676,Netra Sundaram,Safety,Safety Officer,22-11-2021
+EMP0677,Henry Deep,Safety,Safety Officer,16-09-2021
+EMP0678,Ubika Patla,HR,HR Business Partner,24-02-2023
+EMP0679,Sara Shan,Operations Management,Operations Director,28-01-2020
+EMP0680,Chandani Kohli,Logistics,Logistics Coordinator,26-12-2018
+EMP0681,Praneel Kuruvilla,Operations Management,Operations Director,14-01-2022
+EMP0682,Brijesh Naidu,HR,HR Business Partner,21-12-2018
+EMP0683,Ucchal Dhar,Quality,Quality Engineer,12-10-2020
+EMP0684,Deepa Saran,Safety,Safety Officer,16-01-2021
+EMP0685,Rachana Sachar,Production,Team Lead,06-01-2022
+EMP0686,Onveer Loyal,Safety,Safety Officer,06-05-2019
+EMP0687,Sanya Ganguly,Quality,Quality Manager,12-04-2019
+EMP0688,Alka Sidhu,Safety,Safety Officer,20-09-2019
+EMP0689,Aarush Dasgupta,Logistics,Warehouse Associate,30-04-2020
+EMP0690,Benjamin Loyal,Quality,Quality Manager,29-10-2019
+EMP0691,Maya Sandal,Production,Supervisor,21-03-2023
+EMP0692,Janani Batta,Maintenance,Maintenance Engineer,30-01-2021
+EMP0693,Ekaja Loke,Maintenance,Maintenance Supervisor,22-01-2021
+EMP0694,Krishna Chakraborty,Safety,Safety Officer,20-07-2020
+EMP0695,Harish Kala,Safety,Safety Officer,16-08-2021
+EMP0696,Adweta Patla,Logistics,Logistics Coordinator,27-08-2019
+EMP0697,Jagvi Sant,HR,HR Business Partner,13-03-2022
+EMP0698,Rushil Ramachandran,Quality,Quality Manager,01-08-2019
+EMP0699,Vinaya Kar,Maintenance,Maintenance Engineer,18-05-2022
+EMP0700,Radha Bhalla,Quality,QA Inspector,12-12-2018
+EMP0701,Chatura Ben,Logistics,Warehouse Associate,24-01-2021
+EMP0702,Abhiram Contractor,Operations Management,Operations Director,08-12-2020
+EMP0703,Aarush Bains,Quality,QA Inspector,29-12-2020
+EMP0704,Kritika Randhawa,HR,HR Business Partner,19-01-2021
+EMP0705,Chaman Shenoy,Maintenance,Maintenance Engineer,26-05-2021
+EMP0706,Tanay Mohan,Production,Supervisor,23-03-2023
+EMP0707,Omisha Bawa,Maintenance,Maintenance Engineer,13-07-2018
+EMP0708,Chaitaly Wadhwa,Logistics,Logistics Coordinator,02-08-2020
+EMP0709,Urishilla Sarma,Quality,Quality Manager,25-05-2018
+EMP0710,Aarush Maharaj,Operations Management,Operations Director,03-05-2019
+EMP0711,Osha Bobal,Production,Operator,28-03-2020
+EMP0712,Abhiram Sant,Safety,Safety Officer,04-03-2023
+EMP0713,Hemani Master,HR,HR Business Partner,01-11-2021
+EMP0714,Brijesh Shankar,Production,Supervisor,28-07-2018
+EMP0715,Zarna Pandey,Maintenance,Technician,27-06-2018
+EMP0716,Ijaya Parikh,Quality,Quality Manager,13-06-2022
+EMP0717,Lakshit Pillai,HR,HR Business Partner,22-07-2018
+EMP0718,Praneel Swaminathan,Quality,Quality Manager,11-06-2020
+EMP0719,Kashish Vora,Maintenance,Technician,18-04-2022
+EMP0720,Fariq Chahal,Logistics,Warehouse Associate,02-05-2022
+EMP0721,Eta Chaudry,HR,HR Business Partner,19-05-2018
+EMP0722,Ekalinga Bajwa,Maintenance,Maintenance Supervisor,20-06-2020
+EMP0723,Peter Bedi,HR,HR Business Partner,19-06-2020
+EMP0724,Eta Anne,Production,Production Manager,22-06-2018
+EMP0725,Falguni Brahmbhatt,Maintenance,Maintenance Engineer,28-12-2018
+EMP0726,Bina Loyal,Maintenance,Maintenance Engineer,26-02-2022
+EMP0727,Abdul Master,HR,HR Business Partner,11-04-2020
+EMP0728,William Korpal,Logistics,Warehouse Associate,22-12-2020
+EMP0729,Ira Pillay,HR,HR Business Partner,10-06-2019
+EMP0730,Rishi Patla,Production,Supervisor,15-11-2021
+EMP0731,Falan Deshmukh,Production,Supervisor,28-06-2022
+EMP0732,Zinal Mand,Quality,Quality Engineer,23-04-2019
+EMP0733,Luke Venkataraman,Production,Team Lead,21-11-2019
+EMP0734,Keya Sule,Maintenance,Maintenance Engineer,17-10-2021
+EMP0735,Tripti Shetty,Maintenance,Technician,19-11-2020
+EMP0736,Rayaan Sharma,Operations Management,Plant Manager,11-08-2021
+EMP0737,Vincent Som,Production,Team Lead,16-08-2020
+EMP0738,Aashi Gour,Quality,QA Inspector,25-11-2018
+EMP0739,Chanakya Prabhakar,Logistics,Logistics Coordinator,02-06-2022
+EMP0740,Aradhana Khurana,Production,Team Lead,08-07-2021
+EMP0741,Ishani Nori,Operations Management,Plant Manager,25-10-2022
+EMP0742,Sai Mangal,Operations Management,Plant Manager,07-02-2023
+EMP0743,Oliver Suri,Maintenance,Technician,17-04-2021
+EMP0744,Januja Narang,Logistics,Warehouse Associate,26-05-2020
+EMP0745,Vincent Bava,Maintenance,Technician,12-01-2023
+EMP0746,Chaitaly Kashyap,Operations Management,Plant Manager,17-07-2018
+EMP0747,Isaac Shetty,Quality,Quality Manager,23-02-2021
+EMP0748,Indira Lala,Maintenance,Technician,31-07-2019
+EMP0749,Yatan Prasad,Safety,Safety Officer,20-09-2019
+EMP0750,Nathaniel Raju,Production,Team Lead,02-11-2019
