@@ -1,0 +1,441 @@
+gl_account,account_description,account_group,account_type
+100000,Cash Account 100000,ASSET,Balance Sheet
+100001,Cash Account 100001,ASSET,Balance Sheet
+100002,Cash Account 100002,ASSET,Balance Sheet
+100003,Cash Account 100003,ASSET,Balance Sheet
+100004,Cash Account 100004,ASSET,Balance Sheet
+100005,Cash Account 100005,ASSET,Balance Sheet
+100006,Cash Account 100006,ASSET,Balance Sheet
+100007,Cash Account 100007,ASSET,Balance Sheet
+100008,Cash Account 100008,ASSET,Balance Sheet
+100009,Cash Account 100009,ASSET,Balance Sheet
+100010,Cash Account 100010,ASSET,Balance Sheet
+100011,Cash Account 100011,ASSET,Balance Sheet
+100012,Cash Account 100012,ASSET,Balance Sheet
+100013,Cash Account 100013,ASSET,Balance Sheet
+100014,Cash Account 100014,ASSET,Balance Sheet
+100015,Cash Account 100015,ASSET,Balance Sheet
+100016,Cash Account 100016,ASSET,Balance Sheet
+100017,Cash Account 100017,ASSET,Balance Sheet
+100018,Cash Account 100018,ASSET,Balance Sheet
+100019,Cash Account 100019,ASSET,Balance Sheet
+110000,Receivables Account 110000,ASSET,Balance Sheet
+110001,Receivables Account 110001,ASSET,Balance Sheet
+110002,Receivables Account 110002,ASSET,Balance Sheet
+110003,Receivables Account 110003,ASSET,Balance Sheet
+110004,Receivables Account 110004,ASSET,Balance Sheet
+110005,Receivables Account 110005,ASSET,Balance Sheet
+110006,Receivables Account 110006,ASSET,Balance Sheet
+110007,Receivables Account 110007,ASSET,Balance Sheet
+110008,Receivables Account 110008,ASSET,Balance Sheet
+110009,Receivables Account 110009,ASSET,Balance Sheet
+110010,Receivables Account 110010,ASSET,Balance Sheet
+110011,Receivables Account 110011,ASSET,Balance Sheet
+110012,Receivables Account 110012,ASSET,Balance Sheet
+110013,Receivables Account 110013,ASSET,Balance Sheet
+110014,Receivables Account 110014,ASSET,Balance Sheet
+110015,Receivables Account 110015,ASSET,Balance Sheet
+110016,Receivables Account 110016,ASSET,Balance Sheet
+110017,Receivables Account 110017,ASSET,Balance Sheet
+110018,Receivables Account 110018,ASSET,Balance Sheet
+110019,Receivables Account 110019,ASSET,Balance Sheet
+120000,Inventory Account 120000,ASSET,Balance Sheet
+120001,Inventory Account 120001,ASSET,Balance Sheet
+120002,Inventory Account 120002,ASSET,Balance Sheet
+120003,Inventory Account 120003,ASSET,Balance Sheet
+120004,Inventory Account 120004,ASSET,Balance Sheet
+120005,Inventory Account 120005,ASSET,Balance Sheet
+120006,Inventory Account 120006,ASSET,Balance Sheet
+120007,Inventory Account 120007,ASSET,Balance Sheet
+120008,Inventory Account 120008,ASSET,Balance Sheet
+120009,Inventory Account 120009,ASSET,Balance Sheet
+120010,Inventory Account 120010,ASSET,Balance Sheet
+120011,Inventory Account 120011,ASSET,Balance Sheet
+120012,Inventory Account 120012,ASSET,Balance Sheet
+120013,Inventory Account 120013,ASSET,Balance Sheet
+120014,Inventory Account 120014,ASSET,Balance Sheet
+120015,Inventory Account 120015,ASSET,Balance Sheet
+120016,Inventory Account 120016,ASSET,Balance Sheet
+120017,Inventory Account 120017,ASSET,Balance Sheet
+120018,Inventory Account 120018,ASSET,Balance Sheet
+120019,Inventory Account 120019,ASSET,Balance Sheet
+130000,Fixed Assets Gross Account 130000,ASSET,Balance Sheet
+130001,Fixed Assets Gross Account 130001,ASSET,Balance Sheet
+130002,Fixed Assets Gross Account 130002,ASSET,Balance Sheet
+130003,Fixed Assets Gross Account 130003,ASSET,Balance Sheet
+130004,Fixed Assets Gross Account 130004,ASSET,Balance Sheet
+130005,Fixed Assets Gross Account 130005,ASSET,Balance Sheet
+130006,Fixed Assets Gross Account 130006,ASSET,Balance Sheet
+130007,Fixed Assets Gross Account 130007,ASSET,Balance Sheet
+130008,Fixed Assets Gross Account 130008,ASSET,Balance Sheet
+130009,Fixed Assets Gross Account 130009,ASSET,Balance Sheet
+130010,Fixed Assets Gross Account 130010,ASSET,Balance Sheet
+130011,Fixed Assets Gross Account 130011,ASSET,Balance Sheet
+130012,Fixed Assets Gross Account 130012,ASSET,Balance Sheet
+130013,Fixed Assets Gross Account 130013,ASSET,Balance Sheet
+130014,Fixed Assets Gross Account 130014,ASSET,Balance Sheet
+130015,Fixed Assets Gross Account 130015,ASSET,Balance Sheet
+130016,Fixed Assets Gross Account 130016,ASSET,Balance Sheet
+130017,Fixed Assets Gross Account 130017,ASSET,Balance Sheet
+130018,Fixed Assets Gross Account 130018,ASSET,Balance Sheet
+130019,Fixed Assets Gross Account 130019,ASSET,Balance Sheet
+140000,Accumulated Depreciation Account 140000,ASSET,Balance Sheet
+140001,Accumulated Depreciation Account 140001,ASSET,Balance Sheet
+140002,Accumulated Depreciation Account 140002,ASSET,Balance Sheet
+140003,Accumulated Depreciation Account 140003,ASSET,Balance Sheet
+140004,Accumulated Depreciation Account 140004,ASSET,Balance Sheet
+140005,Accumulated Depreciation Account 140005,ASSET,Balance Sheet
+140006,Accumulated Depreciation Account 140006,ASSET,Balance Sheet
+140007,Accumulated Depreciation Account 140007,ASSET,Balance Sheet
+140008,Accumulated Depreciation Account 140008,ASSET,Balance Sheet
+140009,Accumulated Depreciation Account 140009,ASSET,Balance Sheet
+140010,Accumulated Depreciation Account 140010,ASSET,Balance Sheet
+140011,Accumulated Depreciation Account 140011,ASSET,Balance Sheet
+140012,Accumulated Depreciation Account 140012,ASSET,Balance Sheet
+140013,Accumulated Depreciation Account 140013,ASSET,Balance Sheet
+140014,Accumulated Depreciation Account 140014,ASSET,Balance Sheet
+140015,Accumulated Depreciation Account 140015,ASSET,Balance Sheet
+140016,Accumulated Depreciation Account 140016,ASSET,Balance Sheet
+140017,Accumulated Depreciation Account 140017,ASSET,Balance Sheet
+140018,Accumulated Depreciation Account 140018,ASSET,Balance Sheet
+140019,Accumulated Depreciation Account 140019,ASSET,Balance Sheet
+150000,Other Current Assets Account 150000,ASSET,Balance Sheet
+150001,Other Current Assets Account 150001,ASSET,Balance Sheet
+150002,Other Current Assets Account 150002,ASSET,Balance Sheet
+150003,Other Current Assets Account 150003,ASSET,Balance Sheet
+150004,Other Current Assets Account 150004,ASSET,Balance Sheet
+150005,Other Current Assets Account 150005,ASSET,Balance Sheet
+150006,Other Current Assets Account 150006,ASSET,Balance Sheet
+150007,Other Current Assets Account 150007,ASSET,Balance Sheet
+150008,Other Current Assets Account 150008,ASSET,Balance Sheet
+150009,Other Current Assets Account 150009,ASSET,Balance Sheet
+150010,Other Current Assets Account 150010,ASSET,Balance Sheet
+150011,Other Current Assets Account 150011,ASSET,Balance Sheet
+150012,Other Current Assets Account 150012,ASSET,Balance Sheet
+150013,Other Current Assets Account 150013,ASSET,Balance Sheet
+150014,Other Current Assets Account 150014,ASSET,Balance Sheet
+150015,Other Current Assets Account 150015,ASSET,Balance Sheet
+150016,Other Current Assets Account 150016,ASSET,Balance Sheet
+150017,Other Current Assets Account 150017,ASSET,Balance Sheet
+150018,Other Current Assets Account 150018,ASSET,Balance Sheet
+150019,Other Current Assets Account 150019,ASSET,Balance Sheet
+160000,Other Non-Current Assets Account 160000,ASSET,Balance Sheet
+160001,Other Non-Current Assets Account 160001,ASSET,Balance Sheet
+160002,Other Non-Current Assets Account 160002,ASSET,Balance Sheet
+160003,Other Non-Current Assets Account 160003,ASSET,Balance Sheet
+160004,Other Non-Current Assets Account 160004,ASSET,Balance Sheet
+160005,Other Non-Current Assets Account 160005,ASSET,Balance Sheet
+160006,Other Non-Current Assets Account 160006,ASSET,Balance Sheet
+160007,Other Non-Current Assets Account 160007,ASSET,Balance Sheet
+160008,Other Non-Current Assets Account 160008,ASSET,Balance Sheet
+160009,Other Non-Current Assets Account 160009,ASSET,Balance Sheet
+160010,Other Non-Current Assets Account 160010,ASSET,Balance Sheet
+160011,Other Non-Current Assets Account 160011,ASSET,Balance Sheet
+160012,Other Non-Current Assets Account 160012,ASSET,Balance Sheet
+160013,Other Non-Current Assets Account 160013,ASSET,Balance Sheet
+160014,Other Non-Current Assets Account 160014,ASSET,Balance Sheet
+160015,Other Non-Current Assets Account 160015,ASSET,Balance Sheet
+160016,Other Non-Current Assets Account 160016,ASSET,Balance Sheet
+160017,Other Non-Current Assets Account 160017,ASSET,Balance Sheet
+160018,Other Non-Current Assets Account 160018,ASSET,Balance Sheet
+160019,Other Non-Current Assets Account 160019,ASSET,Balance Sheet
+200000,Payables Account 200000,LIABILITY,Balance Sheet
+200001,Payables Account 200001,LIABILITY,Balance Sheet
+200002,Payables Account 200002,LIABILITY,Balance Sheet
+200003,Payables Account 200003,LIABILITY,Balance Sheet
+200004,Payables Account 200004,LIABILITY,Balance Sheet
+200005,Payables Account 200005,LIABILITY,Balance Sheet
+200006,Payables Account 200006,LIABILITY,Balance Sheet
+200007,Payables Account 200007,LIABILITY,Balance Sheet
+200008,Payables Account 200008,LIABILITY,Balance Sheet
+200009,Payables Account 200009,LIABILITY,Balance Sheet
+200010,Payables Account 200010,LIABILITY,Balance Sheet
+200011,Payables Account 200011,LIABILITY,Balance Sheet
+200012,Payables Account 200012,LIABILITY,Balance Sheet
+200013,Payables Account 200013,LIABILITY,Balance Sheet
+200014,Payables Account 200014,LIABILITY,Balance Sheet
+200015,Payables Account 200015,LIABILITY,Balance Sheet
+200016,Payables Account 200016,LIABILITY,Balance Sheet
+200017,Payables Account 200017,LIABILITY,Balance Sheet
+200018,Payables Account 200018,LIABILITY,Balance Sheet
+200019,Payables Account 200019,LIABILITY,Balance Sheet
+210000,Short-Term Debt Account 210000,LIABILITY,Balance Sheet
+210001,Short-Term Debt Account 210001,LIABILITY,Balance Sheet
+210002,Short-Term Debt Account 210002,LIABILITY,Balance Sheet
+210003,Short-Term Debt Account 210003,LIABILITY,Balance Sheet
+210004,Short-Term Debt Account 210004,LIABILITY,Balance Sheet
+210005,Short-Term Debt Account 210005,LIABILITY,Balance Sheet
+210006,Short-Term Debt Account 210006,LIABILITY,Balance Sheet
+210007,Short-Term Debt Account 210007,LIABILITY,Balance Sheet
+210008,Short-Term Debt Account 210008,LIABILITY,Balance Sheet
+210009,Short-Term Debt Account 210009,LIABILITY,Balance Sheet
+210010,Short-Term Debt Account 210010,LIABILITY,Balance Sheet
+210011,Short-Term Debt Account 210011,LIABILITY,Balance Sheet
+210012,Short-Term Debt Account 210012,LIABILITY,Balance Sheet
+210013,Short-Term Debt Account 210013,LIABILITY,Balance Sheet
+210014,Short-Term Debt Account 210014,LIABILITY,Balance Sheet
+210015,Short-Term Debt Account 210015,LIABILITY,Balance Sheet
+210016,Short-Term Debt Account 210016,LIABILITY,Balance Sheet
+210017,Short-Term Debt Account 210017,LIABILITY,Balance Sheet
+210018,Short-Term Debt Account 210018,LIABILITY,Balance Sheet
+210019,Short-Term Debt Account 210019,LIABILITY,Balance Sheet
+220000,Accrued Expenses Account 220000,LIABILITY,Balance Sheet
+220001,Accrued Expenses Account 220001,LIABILITY,Balance Sheet
+220002,Accrued Expenses Account 220002,LIABILITY,Balance Sheet
+220003,Accrued Expenses Account 220003,LIABILITY,Balance Sheet
+220004,Accrued Expenses Account 220004,LIABILITY,Balance Sheet
+220005,Accrued Expenses Account 220005,LIABILITY,Balance Sheet
+220006,Accrued Expenses Account 220006,LIABILITY,Balance Sheet
+220007,Accrued Expenses Account 220007,LIABILITY,Balance Sheet
+220008,Accrued Expenses Account 220008,LIABILITY,Balance Sheet
+220009,Accrued Expenses Account 220009,LIABILITY,Balance Sheet
+220010,Accrued Expenses Account 220010,LIABILITY,Balance Sheet
+220011,Accrued Expenses Account 220011,LIABILITY,Balance Sheet
+220012,Accrued Expenses Account 220012,LIABILITY,Balance Sheet
+220013,Accrued Expenses Account 220013,LIABILITY,Balance Sheet
+220014,Accrued Expenses Account 220014,LIABILITY,Balance Sheet
+220015,Accrued Expenses Account 220015,LIABILITY,Balance Sheet
+220016,Accrued Expenses Account 220016,LIABILITY,Balance Sheet
+220017,Accrued Expenses Account 220017,LIABILITY,Balance Sheet
+220018,Accrued Expenses Account 220018,LIABILITY,Balance Sheet
+220019,Accrued Expenses Account 220019,LIABILITY,Balance Sheet
+230000,Long-Term Debt Account 230000,LIABILITY,Balance Sheet
+230001,Long-Term Debt Account 230001,LIABILITY,Balance Sheet
+230002,Long-Term Debt Account 230002,LIABILITY,Balance Sheet
+230003,Long-Term Debt Account 230003,LIABILITY,Balance Sheet
+230004,Long-Term Debt Account 230004,LIABILITY,Balance Sheet
+230005,Long-Term Debt Account 230005,LIABILITY,Balance Sheet
+230006,Long-Term Debt Account 230006,LIABILITY,Balance Sheet
+230007,Long-Term Debt Account 230007,LIABILITY,Balance Sheet
+230008,Long-Term Debt Account 230008,LIABILITY,Balance Sheet
+230009,Long-Term Debt Account 230009,LIABILITY,Balance Sheet
+230010,Long-Term Debt Account 230010,LIABILITY,Balance Sheet
+230011,Long-Term Debt Account 230011,LIABILITY,Balance Sheet
+230012,Long-Term Debt Account 230012,LIABILITY,Balance Sheet
+230013,Long-Term Debt Account 230013,LIABILITY,Balance Sheet
+230014,Long-Term Debt Account 230014,LIABILITY,Balance Sheet
+230015,Long-Term Debt Account 230015,LIABILITY,Balance Sheet
+230016,Long-Term Debt Account 230016,LIABILITY,Balance Sheet
+230017,Long-Term Debt Account 230017,LIABILITY,Balance Sheet
+230018,Long-Term Debt Account 230018,LIABILITY,Balance Sheet
+230019,Long-Term Debt Account 230019,LIABILITY,Balance Sheet
+240000,Other Liabilities Account 240000,LIABILITY,Balance Sheet
+240001,Other Liabilities Account 240001,LIABILITY,Balance Sheet
+240002,Other Liabilities Account 240002,LIABILITY,Balance Sheet
+240003,Other Liabilities Account 240003,LIABILITY,Balance Sheet
+240004,Other Liabilities Account 240004,LIABILITY,Balance Sheet
+240005,Other Liabilities Account 240005,LIABILITY,Balance Sheet
+240006,Other Liabilities Account 240006,LIABILITY,Balance Sheet
+240007,Other Liabilities Account 240007,LIABILITY,Balance Sheet
+240008,Other Liabilities Account 240008,LIABILITY,Balance Sheet
+240009,Other Liabilities Account 240009,LIABILITY,Balance Sheet
+240010,Other Liabilities Account 240010,LIABILITY,Balance Sheet
+240011,Other Liabilities Account 240011,LIABILITY,Balance Sheet
+240012,Other Liabilities Account 240012,LIABILITY,Balance Sheet
+240013,Other Liabilities Account 240013,LIABILITY,Balance Sheet
+240014,Other Liabilities Account 240014,LIABILITY,Balance Sheet
+240015,Other Liabilities Account 240015,LIABILITY,Balance Sheet
+240016,Other Liabilities Account 240016,LIABILITY,Balance Sheet
+240017,Other Liabilities Account 240017,LIABILITY,Balance Sheet
+240018,Other Liabilities Account 240018,LIABILITY,Balance Sheet
+240019,Other Liabilities Account 240019,LIABILITY,Balance Sheet
+300000,Share Capital Account 300000,EQUITY,Balance Sheet
+300001,Share Capital Account 300001,EQUITY,Balance Sheet
+300002,Share Capital Account 300002,EQUITY,Balance Sheet
+300003,Share Capital Account 300003,EQUITY,Balance Sheet
+300004,Share Capital Account 300004,EQUITY,Balance Sheet
+300005,Share Capital Account 300005,EQUITY,Balance Sheet
+300006,Share Capital Account 300006,EQUITY,Balance Sheet
+300007,Share Capital Account 300007,EQUITY,Balance Sheet
+300008,Share Capital Account 300008,EQUITY,Balance Sheet
+300009,Share Capital Account 300009,EQUITY,Balance Sheet
+300010,Share Capital Account 300010,EQUITY,Balance Sheet
+300011,Share Capital Account 300011,EQUITY,Balance Sheet
+300012,Share Capital Account 300012,EQUITY,Balance Sheet
+300013,Share Capital Account 300013,EQUITY,Balance Sheet
+300014,Share Capital Account 300014,EQUITY,Balance Sheet
+300015,Share Capital Account 300015,EQUITY,Balance Sheet
+300016,Share Capital Account 300016,EQUITY,Balance Sheet
+300017,Share Capital Account 300017,EQUITY,Balance Sheet
+300018,Share Capital Account 300018,EQUITY,Balance Sheet
+300019,Share Capital Account 300019,EQUITY,Balance Sheet
+310000,Retained Earnings Account 310000,EQUITY,Balance Sheet
+310001,Retained Earnings Account 310001,EQUITY,Balance Sheet
+310002,Retained Earnings Account 310002,EQUITY,Balance Sheet
+310003,Retained Earnings Account 310003,EQUITY,Balance Sheet
+310004,Retained Earnings Account 310004,EQUITY,Balance Sheet
+310005,Retained Earnings Account 310005,EQUITY,Balance Sheet
+310006,Retained Earnings Account 310006,EQUITY,Balance Sheet
+310007,Retained Earnings Account 310007,EQUITY,Balance Sheet
+310008,Retained Earnings Account 310008,EQUITY,Balance Sheet
+310009,Retained Earnings Account 310009,EQUITY,Balance Sheet
+310010,Retained Earnings Account 310010,EQUITY,Balance Sheet
+310011,Retained Earnings Account 310011,EQUITY,Balance Sheet
+310012,Retained Earnings Account 310012,EQUITY,Balance Sheet
+310013,Retained Earnings Account 310013,EQUITY,Balance Sheet
+310014,Retained Earnings Account 310014,EQUITY,Balance Sheet
+310015,Retained Earnings Account 310015,EQUITY,Balance Sheet
+310016,Retained Earnings Account 310016,EQUITY,Balance Sheet
+310017,Retained Earnings Account 310017,EQUITY,Balance Sheet
+310018,Retained Earnings Account 310018,EQUITY,Balance Sheet
+310019,Retained Earnings Account 310019,EQUITY,Balance Sheet
+400000,Sales Revenue Account 400000,REVENUE,P&L
+400001,Sales Revenue Account 400001,REVENUE,P&L
+400002,Sales Revenue Account 400002,REVENUE,P&L
+400003,Sales Revenue Account 400003,REVENUE,P&L
+400004,Sales Revenue Account 400004,REVENUE,P&L
+400005,Sales Revenue Account 400005,REVENUE,P&L
+400006,Sales Revenue Account 400006,REVENUE,P&L
+400007,Sales Revenue Account 400007,REVENUE,P&L
+400008,Sales Revenue Account 400008,REVENUE,P&L
+400009,Sales Revenue Account 400009,REVENUE,P&L
+400010,Sales Revenue Account 400010,REVENUE,P&L
+400011,Sales Revenue Account 400011,REVENUE,P&L
+400012,Sales Revenue Account 400012,REVENUE,P&L
+400013,Sales Revenue Account 400013,REVENUE,P&L
+400014,Sales Revenue Account 400014,REVENUE,P&L
+400015,Sales Revenue Account 400015,REVENUE,P&L
+400016,Sales Revenue Account 400016,REVENUE,P&L
+400017,Sales Revenue Account 400017,REVENUE,P&L
+400018,Sales Revenue Account 400018,REVENUE,P&L
+400019,Sales Revenue Account 400019,REVENUE,P&L
+410000,Other Revenue Account 410000,REVENUE,P&L
+410001,Other Revenue Account 410001,REVENUE,P&L
+410002,Other Revenue Account 410002,REVENUE,P&L
+410003,Other Revenue Account 410003,REVENUE,P&L
+410004,Other Revenue Account 410004,REVENUE,P&L
+410005,Other Revenue Account 410005,REVENUE,P&L
+410006,Other Revenue Account 410006,REVENUE,P&L
+410007,Other Revenue Account 410007,REVENUE,P&L
+410008,Other Revenue Account 410008,REVENUE,P&L
+410009,Other Revenue Account 410009,REVENUE,P&L
+410010,Other Revenue Account 410010,REVENUE,P&L
+410011,Other Revenue Account 410011,REVENUE,P&L
+410012,Other Revenue Account 410012,REVENUE,P&L
+410013,Other Revenue Account 410013,REVENUE,P&L
+410014,Other Revenue Account 410014,REVENUE,P&L
+410015,Other Revenue Account 410015,REVENUE,P&L
+410016,Other Revenue Account 410016,REVENUE,P&L
+410017,Other Revenue Account 410017,REVENUE,P&L
+410018,Other Revenue Account 410018,REVENUE,P&L
+410019,Other Revenue Account 410019,REVENUE,P&L
+500000,COGS Account 500000,EXPENSE,P&L
+500001,COGS Account 500001,EXPENSE,P&L
+500002,COGS Account 500002,EXPENSE,P&L
+500003,COGS Account 500003,EXPENSE,P&L
+500004,COGS Account 500004,EXPENSE,P&L
+500005,COGS Account 500005,EXPENSE,P&L
+500006,COGS Account 500006,EXPENSE,P&L
+500007,COGS Account 500007,EXPENSE,P&L
+500008,COGS Account 500008,EXPENSE,P&L
+500009,COGS Account 500009,EXPENSE,P&L
+500010,COGS Account 500010,EXPENSE,P&L
+500011,COGS Account 500011,EXPENSE,P&L
+500012,COGS Account 500012,EXPENSE,P&L
+500013,COGS Account 500013,EXPENSE,P&L
+500014,COGS Account 500014,EXPENSE,P&L
+500015,COGS Account 500015,EXPENSE,P&L
+500016,COGS Account 500016,EXPENSE,P&L
+500017,COGS Account 500017,EXPENSE,P&L
+500018,COGS Account 500018,EXPENSE,P&L
+500019,COGS Account 500019,EXPENSE,P&L
+510000,Operating Expenses Account 510000,EXPENSE,P&L
+510001,Operating Expenses Account 510001,EXPENSE,P&L
+510002,Operating Expenses Account 510002,EXPENSE,P&L
+510003,Operating Expenses Account 510003,EXPENSE,P&L
+510004,Operating Expenses Account 510004,EXPENSE,P&L
+510005,Operating Expenses Account 510005,EXPENSE,P&L
+510006,Operating Expenses Account 510006,EXPENSE,P&L
+510007,Operating Expenses Account 510007,EXPENSE,P&L
+510008,Operating Expenses Account 510008,EXPENSE,P&L
+510009,Operating Expenses Account 510009,EXPENSE,P&L
+510010,Operating Expenses Account 510010,EXPENSE,P&L
+510011,Operating Expenses Account 510011,EXPENSE,P&L
+510012,Operating Expenses Account 510012,EXPENSE,P&L
+510013,Operating Expenses Account 510013,EXPENSE,P&L
+510014,Operating Expenses Account 510014,EXPENSE,P&L
+510015,Operating Expenses Account 510015,EXPENSE,P&L
+510016,Operating Expenses Account 510016,EXPENSE,P&L
+510017,Operating Expenses Account 510017,EXPENSE,P&L
+510018,Operating Expenses Account 510018,EXPENSE,P&L
+510019,Operating Expenses Account 510019,EXPENSE,P&L
+600000,Depreciation Expense Account 600000,EXPENSE,P&L
+600001,Depreciation Expense Account 600001,EXPENSE,P&L
+600002,Depreciation Expense Account 600002,EXPENSE,P&L
+600003,Depreciation Expense Account 600003,EXPENSE,P&L
+600004,Depreciation Expense Account 600004,EXPENSE,P&L
+600005,Depreciation Expense Account 600005,EXPENSE,P&L
+600006,Depreciation Expense Account 600006,EXPENSE,P&L
+600007,Depreciation Expense Account 600007,EXPENSE,P&L
+600008,Depreciation Expense Account 600008,EXPENSE,P&L
+600009,Depreciation Expense Account 600009,EXPENSE,P&L
+600010,Depreciation Expense Account 600010,EXPENSE,P&L
+600011,Depreciation Expense Account 600011,EXPENSE,P&L
+600012,Depreciation Expense Account 600012,EXPENSE,P&L
+600013,Depreciation Expense Account 600013,EXPENSE,P&L
+600014,Depreciation Expense Account 600014,EXPENSE,P&L
+600015,Depreciation Expense Account 600015,EXPENSE,P&L
+600016,Depreciation Expense Account 600016,EXPENSE,P&L
+600017,Depreciation Expense Account 600017,EXPENSE,P&L
+600018,Depreciation Expense Account 600018,EXPENSE,P&L
+600019,Depreciation Expense Account 600019,EXPENSE,P&L
+610000,Interest Expense Account 610000,EXPENSE,P&L
+610001,Interest Expense Account 610001,EXPENSE,P&L
+610002,Interest Expense Account 610002,EXPENSE,P&L
+610003,Interest Expense Account 610003,EXPENSE,P&L
+610004,Interest Expense Account 610004,EXPENSE,P&L
+610005,Interest Expense Account 610005,EXPENSE,P&L
+610006,Interest Expense Account 610006,EXPENSE,P&L
+610007,Interest Expense Account 610007,EXPENSE,P&L
+610008,Interest Expense Account 610008,EXPENSE,P&L
+610009,Interest Expense Account 610009,EXPENSE,P&L
+610010,Interest Expense Account 610010,EXPENSE,P&L
+610011,Interest Expense Account 610011,EXPENSE,P&L
+610012,Interest Expense Account 610012,EXPENSE,P&L
+610013,Interest Expense Account 610013,EXPENSE,P&L
+610014,Interest Expense Account 610014,EXPENSE,P&L
+610015,Interest Expense Account 610015,EXPENSE,P&L
+610016,Interest Expense Account 610016,EXPENSE,P&L
+610017,Interest Expense Account 610017,EXPENSE,P&L
+610018,Interest Expense Account 610018,EXPENSE,P&L
+610019,Interest Expense Account 610019,EXPENSE,P&L
+620000,Tax Expense Account 620000,EXPENSE,P&L
+620001,Tax Expense Account 620001,EXPENSE,P&L
+620002,Tax Expense Account 620002,EXPENSE,P&L
+620003,Tax Expense Account 620003,EXPENSE,P&L
+620004,Tax Expense Account 620004,EXPENSE,P&L
+620005,Tax Expense Account 620005,EXPENSE,P&L
+620006,Tax Expense Account 620006,EXPENSE,P&L
+620007,Tax Expense Account 620007,EXPENSE,P&L
+620008,Tax Expense Account 620008,EXPENSE,P&L
+620009,Tax Expense Account 620009,EXPENSE,P&L
+620010,Tax Expense Account 620010,EXPENSE,P&L
+620011,Tax Expense Account 620011,EXPENSE,P&L
+620012,Tax Expense Account 620012,EXPENSE,P&L
+620013,Tax Expense Account 620013,EXPENSE,P&L
+620014,Tax Expense Account 620014,EXPENSE,P&L
+620015,Tax Expense Account 620015,EXPENSE,P&L
+620016,Tax Expense Account 620016,EXPENSE,P&L
+620017,Tax Expense Account 620017,EXPENSE,P&L
+620018,Tax Expense Account 620018,EXPENSE,P&L
+620019,Tax Expense Account 620019,EXPENSE,P&L
+630000,Other Expenses Account 630000,EXPENSE,P&L
+630001,Other Expenses Account 630001,EXPENSE,P&L
+630002,Other Expenses Account 630002,EXPENSE,P&L
+630003,Other Expenses Account 630003,EXPENSE,P&L
+630004,Other Expenses Account 630004,EXPENSE,P&L
+630005,Other Expenses Account 630005,EXPENSE,P&L
+630006,Other Expenses Account 630006,EXPENSE,P&L
+630007,Other Expenses Account 630007,EXPENSE,P&L
+630008,Other Expenses Account 630008,EXPENSE,P&L
+630009,Other Expenses Account 630009,EXPENSE,P&L
+630010,Other Expenses Account 630010,EXPENSE,P&L
+630011,Other Expenses Account 630011,EXPENSE,P&L
+630012,Other Expenses Account 630012,EXPENSE,P&L
+630013,Other Expenses Account 630013,EXPENSE,P&L
+630014,Other Expenses Account 630014,EXPENSE,P&L
+630015,Other Expenses Account 630015,EXPENSE,P&L
+630016,Other Expenses Account 630016,EXPENSE,P&L
+630017,Other Expenses Account 630017,EXPENSE,P&L
+630018,Other Expenses Account 630018,EXPENSE,P&L
+630019,Other Expenses Account 630019,EXPENSE,P&L

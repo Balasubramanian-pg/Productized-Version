@@ -1,0 +1,4 @@
+company_code,company_name,country,currency,chart_of_accounts
+US01,Global Corp US,USA,USD,INT
+DE01,Global Corp DE,GER,EUR,INT
+IN01,Global Corp IN,IND,INR,INT
