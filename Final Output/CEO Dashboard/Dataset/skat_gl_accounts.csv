@@ -1,0 +1,16 @@
+gl_account,account_description,account_group,account_type,profit_center_relevant
+4000000,Product Sales Revenue,REVENUE,Revenue,True
+4010000,Service Revenue,REVENUE,Revenue,True
+4020000,Other Revenue,REVENUE,Revenue,True
+5000000,Cost of Goods Sold,COGS,Expense,True
+5010000,Material Costs,COGS,Expense,True
+5020000,Labor Costs,COGS,Expense,True
+6000000,Sales & Marketing,OPEX,Expense,True
+6010000,Research & Development,OPEX,Expense,True
+6020000,General & Administrative,OPEX,Expense,True
+6030000,Employee Costs,OPEX,Expense,True
+1000000,Cash and Cash Equivalents,ASSET,Asset,False
+1100000,Accounts Receivable,ASSET,Asset,False
+1200000,Inventory,ASSET,Asset,False
+2000000,Accounts Payable,LIABILITY,Liability,False
+2100000,Accrued Expenses,LIABILITY,Liability,False
