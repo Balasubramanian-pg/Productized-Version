@@ -1,0 +1,6 @@
+plant_id,plant_name,region,is_active
+1,Plant 1,East,True
+2,Plant 2,North,True
+3,Plant 3,South,True
+4,Plant 4,North,True
+5,Plant 5,East,True

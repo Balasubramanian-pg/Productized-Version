@@ -1,0 +1,5001 @@
+customer_id,customer_name,customer_tier,payment_terms
+CUST-00001,Kramer-Brooks,C,NET45
+CUST-00002,Lowe-Roach,B,NET30
+CUST-00003,Herman-Adams,B,NET30
+CUST-00004,Wright-Pope,C,NET30
+CUST-00005,Smith Inc,A,NET30
+CUST-00006,Guerrero Group,A,NET30
+CUST-00007,Foster-Wilson,B,NET30
+CUST-00008,Brown Ltd,C,NET30
+CUST-00009,"Moon, Rogers and Martinez",C,NET30
+CUST-00010,Castro Ltd,C,NET30
+CUST-00011,Bailey Ltd,A,NET30
+CUST-00012,"Campos, Rivera and Taylor",C,NET45
+CUST-00013,"Brennan, Cook and Franco",C,NET30
+CUST-00014,Neal-Morrow,B,NET30
+CUST-00015,"Smith, Anderson and Martinez",A,NET60
+CUST-00016,Montgomery-Moore,C,NET30
+CUST-00017,Castillo-Mooney,A,NET30
+CUST-00018,Lang-Lopez,C,NET30
+CUST-00019,Jones LLC,A,NET30
+CUST-00020,Brown PLC,A,NET60
+CUST-00021,"Rice, Hendricks and Cannon",B,NET45
+CUST-00022,Grimes Ltd,A,NET60
+CUST-00023,"Wright, Taylor and Howard",C,NET30
+CUST-00024,Rodriguez-Dunlap,C,NET30
+CUST-00025,Cohen-Miles,C,NET30
+CUST-00026,Leonard-Miles,B,NET30
+CUST-00027,Schmitt-Sutton,B,NET45
+CUST-00028,"Myers, Harding and Vaughn",B,NET60
+CUST-00029,"Ellis, Thompson and Brown",A,NET45
+CUST-00030,"Johnson, Hernandez and Lopez",C,NET60
+CUST-00031,Myers-Lopez,C,NET30
+CUST-00032,Herrera Group,A,NET30
+CUST-00033,Santos Group,B,NET30
+CUST-00034,Washington LLC,B,NET30
+CUST-00035,Robinson-Nelson,B,NET30
+CUST-00036,Wagner-Kaufman,C,NET30
+CUST-00037,Sweeney-Mejia,C,NET30
+CUST-00038,"Carter, Eaton and Brown",A,NET30
+CUST-00039,"Castillo, Wright and Coleman",A,NET45
+CUST-00040,Reid Ltd,A,NET45
+CUST-00041,Weber Ltd,B,NET30
+CUST-00042,Harmon-Flores,A,NET30
+CUST-00043,Johnson Inc,C,NET45
+CUST-00044,Ayala-Pearson,B,NET30
+CUST-00045,"Morales, Dudley and Morris",B,NET30
+CUST-00046,"White, Arnold and Phillips",B,NET45
+CUST-00047,Giles-Powell,C,NET30
+CUST-00048,Fitzpatrick-Martinez,A,NET30
+CUST-00049,"Guzman, Snow and Bright",C,NET30
+CUST-00050,Lewis-Crosby,A,NET30
+CUST-00051,Good-Martinez,C,NET30
+CUST-00052,"Davila, Payne and Campbell",B,NET30
+CUST-00053,"Cook, Perkins and Jones",B,NET60
+CUST-00054,"Lewis, Scott and Spencer",B,NET60
+CUST-00055,Parker and Sons,B,NET45
+CUST-00056,Sanchez Ltd,B,NET30
+CUST-00057,"Morse, Russell and Adkins",B,NET30
+CUST-00058,Davidson-Branch,A,NET30
+CUST-00059,"Hansen, Smith and Barnett",C,NET45
+CUST-00060,Anderson PLC,C,NET30
+CUST-00061,"Peterson, King and Carpenter",A,NET30
+CUST-00062,Lynch Group,B,NET30
+CUST-00063,Buckley and Sons,C,NET30
+CUST-00064,"Kemp, Taylor and Hernandez",C,NET30
+CUST-00065,Valdez Group,C,NET30
+CUST-00066,"Jenkins, Perez and Gibson",C,NET30
+CUST-00067,Hernandez-Jones,C,NET60
+CUST-00068,Mason-Daniels,C,NET60
+CUST-00069,Scott Ltd,B,NET60
+CUST-00070,"Williams, Jones and Richards",C,NET45
+CUST-00071,"Stout, Ramos and Maddox",C,NET60
+CUST-00072,"Ford, Melton and Rose",B,NET45
+CUST-00073,Dyer Group,C,NET30
+CUST-00074,Deleon-Marquez,B,NET30
+CUST-00075,"Erickson, Thomas and Cox",A,NET30
+CUST-00076,Elliott-Mcguire,C,NET30
+CUST-00077,"Russo, Martin and Martin",C,NET30
+CUST-00078,Morris-Pollard,C,NET45
+CUST-00079,Adams Inc,C,NET30
+CUST-00080,Bryant-Camacho,C,NET30
+CUST-00081,"Williamson, Sosa and Ingram",C,NET45
+CUST-00082,Sweeney-White,C,NET30
+CUST-00083,Allen-Clark,A,NET30
+CUST-00084,Peterson Group,C,NET30
+CUST-00085,Walsh Ltd,A,NET45
+CUST-00086,Pham PLC,C,NET30
+CUST-00087,"Watson, Montgomery and Phillips",C,NET30
+CUST-00088,Knox-Fernandez,C,NET30
+CUST-00089,Obrien Ltd,A,NET30
+CUST-00090,Jones and Sons,B,NET30
+CUST-00091,Costa PLC,C,NET30
+CUST-00092,"Murphy, Pacheco and Mills",B,NET45
+CUST-00093,"Hinton, White and Coleman",C,NET30
+CUST-00094,"Miller, Carter and Hall",C,NET30
+CUST-00095,Montoya-Hanson,C,NET30
+CUST-00096,Austin LLC,B,NET45
+CUST-00097,Rivas-Lee,C,NET30
+CUST-00098,"Gordon, Hall and Wilson",C,NET60
+CUST-00099,"Woods, Olson and Jackson",A,NET60
+CUST-00100,Cross PLC,B,NET45
+CUST-00101,Patterson-Paul,B,NET30
+CUST-00102,Williams-Martin,B,NET30
+CUST-00103,Watson-Taylor,B,NET30
+CUST-00104,Noble-Robinson,B,NET45
+CUST-00105,"Figueroa, Harmon and Alexander",C,NET30
+CUST-00106,Joyce-Farmer,C,NET30
+CUST-00107,Brown-Barber,C,NET30
+CUST-00108,Dixon Inc,C,NET45
+CUST-00109,Garcia-Schwartz,B,NET30
+CUST-00110,Moyer-Contreras,B,NET30
+CUST-00111,Murray Ltd,A,NET45
+CUST-00112,"Riley, Miller and Miller",C,NET60
+CUST-00113,"Ingram, Cook and Powell",C,NET45
+CUST-00114,Yang and Sons,C,NET30
+CUST-00115,Salinas and Sons,C,NET30
+CUST-00116,Sexton PLC,C,NET30
+CUST-00117,Smith LLC,A,NET45
+CUST-00118,Phelps Ltd,B,NET45
+CUST-00119,Stewart-Alvarado,C,NET30
+CUST-00120,"Parker, Cuevas and Patel",B,NET30
+CUST-00121,"Colon, Wallace and Wolf",B,NET30
+CUST-00122,"Campbell, Edwards and Cherry",B,NET45
+CUST-00123,"Adams, Mcdonald and Lee",B,NET45
+CUST-00124,"Williams, Lopez and Floyd",C,NET30
+CUST-00125,"Simon, Woods and Wolfe",A,NET30
+CUST-00126,"Joseph, Miles and Meza",B,NET30
+CUST-00127,"Riley, Moreno and Myers",A,NET30
+CUST-00128,Allen PLC,C,NET45
+CUST-00129,"Andrews, Higgins and Duarte",C,NET60
+CUST-00130,Patrick-Tapia,A,NET45
+CUST-00131,Austin and Sons,C,NET30
+CUST-00132,Hill and Sons,B,NET30
+CUST-00133,Holland and Sons,B,NET45
+CUST-00134,"Cruz, Haynes and Walker",C,NET60
+CUST-00135,"Holmes, Conner and Valencia",C,NET30
+CUST-00136,"Mccormick, Mcmillan and Brooks",C,NET30
+CUST-00137,Clayton Inc,A,NET30
+CUST-00138,Howell Ltd,C,NET30
+CUST-00139,"Rodriguez, Moore and Zuniga",B,NET45
+CUST-00140,Oneill LLC,B,NET60
+CUST-00141,Lewis-Huerta,B,NET30
+CUST-00142,Cruz-Bell,C,NET30
+CUST-00143,Wilkins Inc,A,NET30
+CUST-00144,Miller LLC,C,NET45
+CUST-00145,"Soto, Hawkins and Flowers",A,NET30
+CUST-00146,"Walters, Pittman and Salazar",C,NET30
+CUST-00147,Levy-Robinson,B,NET30
+CUST-00148,Wise-Shelton,C,NET30
+CUST-00149,"Mclean, Cruz and Hall",B,NET30
+CUST-00150,Miller-Chandler,B,NET30
+CUST-00151,Pollard-Diaz,C,NET30
+CUST-00152,Thompson-Carter,A,NET60
+CUST-00153,Kirk-Carr,B,NET45
+CUST-00154,Potts LLC,C,NET30
+CUST-00155,Ashley Inc,C,NET30
+CUST-00156,Martinez PLC,C,NET30
+CUST-00157,"Sherman, Foley and Koch",C,NET30
+CUST-00158,"Williams, Edwards and Castro",C,NET30
+CUST-00159,Turner-Higgins,C,NET45
+CUST-00160,"Johnson, Watson and Sanchez",A,NET45
+CUST-00161,"Green, Morris and Davis",B,NET30
+CUST-00162,Garcia and Sons,C,NET30
+CUST-00163,Bruce-Gonzales,A,NET60
+CUST-00164,Norman LLC,C,NET30
+CUST-00165,"Best, Dixon and Walker",C,NET60
+CUST-00166,Petty-Erickson,A,NET45
+CUST-00167,Thomas Ltd,A,NET30
+CUST-00168,Brown-Pace,C,NET45
+CUST-00169,Silva Group,C,NET30
+CUST-00170,"Hanson, Kerr and Ellis",B,NET45
+CUST-00171,Washington Ltd,B,NET30
+CUST-00172,"Sawyer, Thornton and Brown",C,NET60
+CUST-00173,"Mckee, Taylor and Pierce",C,NET30
+CUST-00174,Anderson and Sons,B,NET45
+CUST-00175,"Gross, Ward and Collins",C,NET30
+CUST-00176,Nunez-Frazier,C,NET45
+CUST-00177,Davis Ltd,C,NET45
+CUST-00178,Sanchez-Lee,A,NET45
+CUST-00179,"Adams, Williams and Ortiz",A,NET30
+CUST-00180,Nelson-Mitchell,B,NET45
+CUST-00181,Taylor-Ortiz,C,NET30
+CUST-00182,"Hughes, Morris and Russell",A,NET30
+CUST-00183,Arnold Inc,C,NET30
+CUST-00184,Robinson-Meyer,C,NET60
+CUST-00185,Chapman and Sons,B,NET30
+CUST-00186,"Estrada, Meyers and Rodriguez",A,NET45
+CUST-00187,Martin-Cohen,C,NET60
+CUST-00188,"Phillips, Soto and Mcdaniel",C,NET30
+CUST-00189,Valdez-Lee,C,NET30
+CUST-00190,Ferguson PLC,B,NET30
+CUST-00191,"Mcintosh, Kennedy and Bennett",B,NET60
+CUST-00192,"Anderson, Alvarado and Davis",A,NET45
+CUST-00193,"Blackburn, Oneal and Edwards",C,NET30
+CUST-00194,Pena and Sons,C,NET30
+CUST-00195,Jackson-Rivera,C,NET30
+CUST-00196,Wade-Castro,C,NET30
+CUST-00197,Sullivan-Davies,C,NET30
+CUST-00198,"Allen, Holmes and Cox",B,NET45
+CUST-00199,"Blevins, Kennedy and Jones",B,NET30
+CUST-00200,Cabrera Group,A,NET30
+CUST-00201,"Williams, Graves and Simpson",C,NET45
+CUST-00202,Rivera-Guzman,C,NET30
+CUST-00203,Schmidt-Lopez,A,NET45
+CUST-00204,Bond-Green,C,NET45
+CUST-00205,Moreno Inc,C,NET45
+CUST-00206,Martinez-Hammond,C,NET30
+CUST-00207,Franco Inc,A,NET30
+CUST-00208,Turner Inc,B,NET30
+CUST-00209,Johnson-Meyer,C,NET30
+CUST-00210,Anderson-Malone,B,NET30
+CUST-00211,"Wood, Hayes and Ramirez",C,NET30
+CUST-00212,"Lee, Villarreal and Mcguire",C,NET30
+CUST-00213,Bishop Group,B,NET45
+CUST-00214,"Small, Maldonado and Edwards",B,NET45
+CUST-00215,Mcdonald Group,B,NET30
+CUST-00216,Lee-Lloyd,B,NET45
+CUST-00217,Perez-Smith,B,NET30
+CUST-00218,Foster-Sanchez,C,NET30
+CUST-00219,Turner-Smith,C,NET60
+CUST-00220,Fleming and Sons,B,NET30
+CUST-00221,"Harris, Whitaker and Stewart",A,NET60
+CUST-00222,Leon Ltd,C,NET30
+CUST-00223,"Zuniga, Moss and Madden",C,NET45
+CUST-00224,Bridges Inc,C,NET60
+CUST-00225,"Graham, Rodriguez and Sanders",B,NET30
+CUST-00226,"Wilson, Thomas and Shaw",C,NET60
+CUST-00227,"Wilkins, Wagner and Jimenez",C,NET30
+CUST-00228,Gonzalez Group,B,NET30
+CUST-00229,Ballard Group,A,NET60
+CUST-00230,Golden-Swanson,A,NET30
+CUST-00231,Bell PLC,C,NET30
+CUST-00232,"Adams, Hayes and Anderson",C,NET60
+CUST-00233,Rocha Group,C,NET30
+CUST-00234,Rivers-Smith,B,NET30
+CUST-00235,Medina-Sanchez,C,NET30
+CUST-00236,Mejia and Sons,C,NET30
+CUST-00237,Peterson-Daniels,B,NET30
+CUST-00238,Glass-Snyder,A,NET30
+CUST-00239,Anderson PLC,C,NET60
+CUST-00240,"Nielsen, Mcneil and Flores",C,NET30
+CUST-00241,Gutierrez LLC,C,NET30
+CUST-00242,Doyle and Sons,C,NET30
+CUST-00243,Stafford Inc,C,NET45
+CUST-00244,Rodriguez Ltd,C,NET30
+CUST-00245,Hill-Jones,C,NET45
+CUST-00246,Perez Inc,C,NET45
+CUST-00247,Martin-Hanson,C,NET30
+CUST-00248,"Hood, Sanford and Rivera",C,NET30
+CUST-00249,Myers-Stein,B,NET30
+CUST-00250,"Ayala, Smith and Irwin",B,NET30
+CUST-00251,Brown PLC,B,NET30
+CUST-00252,Miller Ltd,A,NET30
+CUST-00253,Galvan PLC,C,NET30
+CUST-00254,Hawkins-Taylor,C,NET30
+CUST-00255,Miller and Sons,A,NET30
+CUST-00256,Sanchez-Cowan,C,NET30
+CUST-00257,Anderson-Church,B,NET30
+CUST-00258,"Duncan, Hartman and Hernandez",C,NET30
+CUST-00259,Conner PLC,C,NET30
+CUST-00260,Castro-Alvarez,C,NET45
+CUST-00261,Foster-Joseph,C,NET45
+CUST-00262,Smith-Mclean,C,NET30
+CUST-00263,Jackson PLC,C,NET30
+CUST-00264,Bonilla Ltd,C,NET30
+CUST-00265,"Espinoza, Bowen and Gregory",C,NET30
+CUST-00266,Page-Hart,A,NET30
+CUST-00267,"Drake, Hines and Elliott",A,NET30
+CUST-00268,Woods Ltd,A,NET30
+CUST-00269,Mason-Martinez,B,NET60
+CUST-00270,Cobb-Cantrell,C,NET45
+CUST-00271,"Kelly, Garrett and Cobb",C,NET30
+CUST-00272,Boyd-Vaughn,A,NET45
+CUST-00273,Cruz-Harris,C,NET30
+CUST-00274,Moran Group,B,NET30
+CUST-00275,Brock PLC,A,NET30
+CUST-00276,"Lyons, Herring and Medina",B,NET45
+CUST-00277,Thomas Inc,C,NET30
+CUST-00278,Andrews-Lowe,B,NET30
+CUST-00279,Schwartz-Wagner,C,NET30
+CUST-00280,"Lopez, Holmes and Wade",B,NET45
+CUST-00281,Mays-Sims,B,NET45
+CUST-00282,Huang-Francis,B,NET30
+CUST-00283,"Jackson, Harris and Wise",C,NET45
+CUST-00284,Sims-Cardenas,B,NET60
+CUST-00285,"Bennett, Martinez and Brown",C,NET45
+CUST-00286,"Thompson, Thompson and Hall",C,NET30
+CUST-00287,"David, Macias and Sanchez",C,NET30
+CUST-00288,"Cunningham, Solomon and Molina",A,NET30
+CUST-00289,Castaneda and Sons,C,NET30
+CUST-00290,Farmer PLC,C,NET45
+CUST-00291,Murphy-Casey,C,NET30
+CUST-00292,Young Ltd,B,NET30
+CUST-00293,"Jackson, Hayes and Burke",B,NET30
+CUST-00294,"Barron, Medina and Ballard",A,NET30
+CUST-00295,"Chandler, Matthews and Waters",C,NET30
+CUST-00296,Sanders LLC,A,NET45
+CUST-00297,Guerrero PLC,B,NET30
+CUST-00298,Harper-Pope,B,NET60
+CUST-00299,Brooks-Garcia,C,NET30
+CUST-00300,"Salazar, Griffin and Peterson",C,NET30
+CUST-00301,Miller PLC,B,NET30
+CUST-00302,"Chase, Ferrell and Campbell",B,NET30
+CUST-00303,"Lewis, Nolan and Wilson",C,NET60
+CUST-00304,"Weaver, Stewart and Robinson",C,NET30
+CUST-00305,"Atkinson, Stone and Phillips",B,NET30
+CUST-00306,Nolan Inc,C,NET60
+CUST-00307,Finley Group,A,NET30
+CUST-00308,Johnson-Mosley,C,NET45
+CUST-00309,"Gutierrez, Robertson and Crawford",A,NET30
+CUST-00310,"Williamson, Bradley and Pearson",B,NET30
+CUST-00311,Peterson Group,C,NET30
+CUST-00312,Macdonald Group,A,NET30
+CUST-00313,Rivera-May,C,NET30
+CUST-00314,"Carroll, Jenkins and Hammond",B,NET60
+CUST-00315,Rodriguez-Burke,C,NET30
+CUST-00316,"Randall, Simpson and Castillo",A,NET30
+CUST-00317,"Adkins, Cohen and Brown",C,NET30
+CUST-00318,Cooke-Fisher,C,NET30
+CUST-00319,"Wood, Sanchez and Glover",B,NET45
+CUST-00320,Cochran-Lee,C,NET30
+CUST-00321,"Smith, Kidd and Rivers",B,NET30
+CUST-00322,Murray-Lee,A,NET30
+CUST-00323,Potts-Evans,A,NET45
+CUST-00324,Hurley-Santiago,B,NET60
+CUST-00325,Meadows-French,A,NET30
+CUST-00326,Holt LLC,B,NET30
+CUST-00327,Anderson-Esparza,C,NET30
+CUST-00328,Olsen Ltd,A,NET30
+CUST-00329,Lucas Group,C,NET30
+CUST-00330,Sanchez-Stewart,C,NET30
+CUST-00331,Jackson-Long,B,NET30
+CUST-00332,"Garza, Jones and Garrett",C,NET30
+CUST-00333,"Smith, Day and Davis",B,NET60
+CUST-00334,Peters PLC,A,NET30
+CUST-00335,Underwood-Gregory,B,NET30
+CUST-00336,"Moyer, Simmons and Davis",C,NET30
+CUST-00337,"Mitchell, Mercado and Villa",A,NET30
+CUST-00338,Hernandez-Woods,C,NET30
+CUST-00339,Benitez-Gonzalez,B,NET30
+CUST-00340,Jones PLC,B,NET30
+CUST-00341,Mejia-Simpson,C,NET45
+CUST-00342,Beltran and Sons,C,NET60
+CUST-00343,Smith-Fernandez,B,NET30
+CUST-00344,Mcpherson Inc,C,NET30
+CUST-00345,"Jordan, Davis and Miller",C,NET30
+CUST-00346,"Lopez, Bentley and Webster",B,NET30
+CUST-00347,"Garcia, Pierce and Hines",C,NET45
+CUST-00348,"Reynolds, Lane and Padilla",B,NET30
+CUST-00349,Alvarado Ltd,A,NET30
+CUST-00350,"Garcia, Hernandez and Meyer",C,NET30
+CUST-00351,Williams PLC,C,NET60
+CUST-00352,"Mathews, Hopkins and Cunningham",B,NET30
+CUST-00353,Scott Inc,B,NET30
+CUST-00354,Mckinney Ltd,C,NET30
+CUST-00355,"Brown, Garcia and Smith",A,NET30
+CUST-00356,Miller-Shields,C,NET30
+CUST-00357,"Young, Baker and Cordova",C,NET30
+CUST-00358,"Garcia, Jackson and Hoffman",A,NET30
+CUST-00359,Alvarado-Taylor,B,NET30
+CUST-00360,Barajas Inc,C,NET30
+CUST-00361,Adkins-Mendoza,A,NET30
+CUST-00362,Adams Ltd,C,NET30
+CUST-00363,Fowler PLC,B,NET30
+CUST-00364,Martinez LLC,C,NET45
+CUST-00365,"Buchanan, Salas and Diaz",A,NET30
+CUST-00366,"Odonnell, Simpson and Brown",C,NET30
+CUST-00367,Johnson PLC,C,NET30
+CUST-00368,"Miller, Porter and Booth",C,NET60
+CUST-00369,Fitzpatrick-Young,A,NET30
+CUST-00370,"Ibarra, Mayo and Gomez",C,NET30
+CUST-00371,Rocha and Sons,B,NET60
+CUST-00372,Baker PLC,B,NET30
+CUST-00373,Garcia LLC,C,NET45
+CUST-00374,Baker Group,B,NET30
+CUST-00375,"Ayala, Bishop and Preston",A,NET45
+CUST-00376,"Ingram, Bishop and Willis",C,NET30
+CUST-00377,Wilkinson Ltd,C,NET30
+CUST-00378,Gordon LLC,B,NET45
+CUST-00379,Miller-Obrien,C,NET45
+CUST-00380,"Price, Adams and Silva",C,NET30
+CUST-00381,Powell-Jackson,B,NET30
+CUST-00382,Harmon PLC,C,NET45
+CUST-00383,Warren and Sons,A,NET30
+CUST-00384,Garcia-Lopez,C,NET60
+CUST-00385,Hahn-Smith,A,NET30
+CUST-00386,Wade-Roberts,C,NET30
+CUST-00387,Best and Sons,A,NET45
+CUST-00388,Klein-Garcia,A,NET60
+CUST-00389,Reed-Smith,A,NET30
+CUST-00390,"Morrison, Montoya and Smith",A,NET30
+CUST-00391,"Griffin, Gaines and Soto",A,NET45
+CUST-00392,"Strickland, Rollins and Hanson",B,NET30
+CUST-00393,Obrien-Romero,C,NET30
+CUST-00394,Edwards-Johnson,B,NET30
+CUST-00395,Clark-Galvan,C,NET30
+CUST-00396,Mclaughlin Group,B,NET30
+CUST-00397,"Aguilar, Ortiz and Robinson",A,NET30
+CUST-00398,Lambert-Reed,B,NET30
+CUST-00399,Barron Ltd,B,NET45
+CUST-00400,"Davis, Taylor and Stewart",C,NET30
+CUST-00401,"Moyer, Hendrix and Turner",B,NET45
+CUST-00402,Lewis Group,A,NET60
+CUST-00403,Thomas and Sons,C,NET45
+CUST-00404,"Jackson, Ross and Lee",C,NET30
+CUST-00405,Shields-Davies,C,NET30
+CUST-00406,Brown Ltd,C,NET45
+CUST-00407,Meadows-Flores,A,NET30
+CUST-00408,"Mcdonald, Serrano and Perry",A,NET60
+CUST-00409,"Henderson, Baker and Clark",C,NET45
+CUST-00410,"Hale, Martin and Watson",C,NET30
+CUST-00411,"Burgess, Bryant and Gibson",A,NET30
+CUST-00412,"Juarez, Durham and Ibarra",B,NET30
+CUST-00413,"Myers, Winters and Duncan",B,NET60
+CUST-00414,Bradshaw Group,C,NET45
+CUST-00415,Price-Bauer,B,NET45
+CUST-00416,Parker-Johnson,B,NET30
+CUST-00417,"Eaton, Parker and Garcia",A,NET45
+CUST-00418,Martin-Ellis,A,NET60
+CUST-00419,King Group,A,NET30
+CUST-00420,Martin PLC,B,NET30
+CUST-00421,Lucas-Fry,C,NET30
+CUST-00422,Diaz-Williamson,B,NET30
+CUST-00423,Wall-Morales,C,NET45
+CUST-00424,Randolph-Wilson,A,NET60
+CUST-00425,"Guzman, Salas and Andrews",C,NET30
+CUST-00426,Brown Group,A,NET30
+CUST-00427,Bailey LLC,C,NET45
+CUST-00428,Taylor-Floyd,C,NET30
+CUST-00429,Guerrero PLC,A,NET30
+CUST-00430,Chavez-Sandoval,B,NET45
+CUST-00431,Taylor and Sons,B,NET60
+CUST-00432,Garcia Inc,C,NET30
+CUST-00433,Guerrero-Powell,C,NET30
+CUST-00434,"Phillips, Daugherty and Nichols",A,NET45
+CUST-00435,Hill Inc,C,NET30
+CUST-00436,Nelson LLC,A,NET30
+CUST-00437,"Johns, Cannon and Benson",B,NET60
+CUST-00438,Wong-Cohen,C,NET45
+CUST-00439,Lucas-Lyons,B,NET30
+CUST-00440,"Maxwell, Clark and Massey",B,NET30
+CUST-00441,Powers LLC,C,NET30
+CUST-00442,Miller Ltd,C,NET60
+CUST-00443,Rodriguez-Cunningham,C,NET45
+CUST-00444,Oconnell-Thompson,C,NET45
+CUST-00445,Anderson and Sons,A,NET45
+CUST-00446,"Brewer, Young and Murphy",C,NET45
+CUST-00447,"Nguyen, Andrews and Woods",A,NET30
+CUST-00448,Bowers-Buckley,C,NET45
+CUST-00449,Maynard LLC,A,NET60
+CUST-00450,Love Ltd,B,NET45
+CUST-00451,Chang-Carter,C,NET45
+CUST-00452,"Wheeler, Velazquez and Meadows",C,NET30
+CUST-00453,"Fisher, Patterson and Black",C,NET30
+CUST-00454,Jones-Bowman,A,NET30
+CUST-00455,Barton Ltd,B,NET60
+CUST-00456,"Diaz, Torres and Tucker",B,NET30
+CUST-00457,Hansen Inc,A,NET45
+CUST-00458,"Robinson, Bolton and Ortiz",C,NET30
+CUST-00459,Mueller-Grimes,C,NET30
+CUST-00460,Mitchell-Lynch,C,NET30
+CUST-00461,"Rocha, Wilson and Jones",A,NET45
+CUST-00462,"Jordan, Molina and Richardson",C,NET30
+CUST-00463,Hardin PLC,A,NET60
+CUST-00464,"Hudson, Anderson and Brooks",B,NET30
+CUST-00465,"Davis, Stanley and Scott",A,NET30
+CUST-00466,Smith-Dixon,B,NET30
+CUST-00467,"Brown, Hicks and Miles",B,NET30
+CUST-00468,"Ritter, Johnson and Peterson",C,NET60
+CUST-00469,Lee LLC,C,NET30
+CUST-00470,"Ramos, Simpson and Williams",C,NET30
+CUST-00471,"Townsend, Carroll and Reeves",C,NET45
+CUST-00472,Choi-David,C,NET30
+CUST-00473,Johnson PLC,C,NET30
+CUST-00474,Petersen Group,C,NET30
+CUST-00475,Berg-Campbell,B,NET30
+CUST-00476,Andersen PLC,C,NET45
+CUST-00477,Bonilla PLC,C,NET30
+CUST-00478,Torres-Hill,A,NET30
+CUST-00479,Hayes-White,C,NET30
+CUST-00480,Potter Group,B,NET60
+CUST-00481,Juarez Ltd,B,NET30
+CUST-00482,Sloan-Mccullough,C,NET45
+CUST-00483,Williams PLC,B,NET30
+CUST-00484,Black-Tucker,C,NET30
+CUST-00485,"King, Wilcox and Small",C,NET30
+CUST-00486,Mclaughlin-Conrad,C,NET30
+CUST-00487,"Franklin, Perez and Harris",A,NET30
+CUST-00488,"Tapia, Keller and Cobb",C,NET30
+CUST-00489,Harris-Burns,A,NET30
+CUST-00490,Rogers-Phillips,C,NET30
+CUST-00491,Nelson-Wilson,C,NET30
+CUST-00492,Davila-Lam,C,NET45
+CUST-00493,Henderson-Richards,A,NET30
+CUST-00494,"Thomas, Ruiz and Briggs",B,NET30
+CUST-00495,Chang Inc,B,NET30
+CUST-00496,"Watson, Dennis and Blanchard",C,NET30
+CUST-00497,"Williams, Marshall and Rhodes",A,NET30
+CUST-00498,Mcclain and Sons,B,NET30
+CUST-00499,"Velez, Williams and Lee",C,NET30
+CUST-00500,"Berg, Hunt and Smith",B,NET30
+CUST-00501,Mitchell-Buck,B,NET30
+CUST-00502,Williams-Thomas,B,NET30
+CUST-00503,"Soto, Robertson and Harper",C,NET30
+CUST-00504,"Thompson, Tucker and Stewart",B,NET30
+CUST-00505,"Jones, Flores and Johnson",C,NET30
+CUST-00506,Ballard PLC,B,NET30
+CUST-00507,Shah Group,A,NET30
+CUST-00508,Kelley Inc,B,NET30
+CUST-00509,Davis-Clements,C,NET45
+CUST-00510,Mcdaniel-Gonzalez,A,NET30
+CUST-00511,Reid Inc,B,NET30
+CUST-00512,"Evans, Cruz and Reed",C,NET45
+CUST-00513,Davis Inc,A,NET30
+CUST-00514,Marsh-Lee,A,NET30
+CUST-00515,"Adams, Ruiz and Herrera",C,NET30
+CUST-00516,Williams Ltd,C,NET30
+CUST-00517,Wheeler PLC,B,NET45
+CUST-00518,Davis-Swanson,C,NET30
+CUST-00519,"Campos, Lewis and Rangel",B,NET30
+CUST-00520,"Whitehead, Haney and Bowen",C,NET30
+CUST-00521,Barnes-Petersen,C,NET30
+CUST-00522,Holmes-Moore,B,NET45
+CUST-00523,Campbell Ltd,A,NET60
+CUST-00524,"Rojas, Johnson and Morales",B,NET30
+CUST-00525,Terry-Hatfield,B,NET30
+CUST-00526,Thompson-Harris,C,NET30
+CUST-00527,Tucker-Washington,C,NET30
+CUST-00528,Hunter-Turner,B,NET30
+CUST-00529,Fields Inc,C,NET30
+CUST-00530,"Thomas, Melton and Mendoza",C,NET30
+CUST-00531,Moore-Taylor,A,NET45
+CUST-00532,"Henderson, Goodman and Gill",C,NET45
+CUST-00533,Tanner PLC,B,NET30
+CUST-00534,Manning Group,B,NET45
+CUST-00535,Cannon Inc,C,NET45
+CUST-00536,"Anderson, Mcgee and Baker",C,NET30
+CUST-00537,"Franco, Sullivan and Moore",B,NET60
+CUST-00538,"Boone, Collins and Ewing",C,NET45
+CUST-00539,"Ramirez, Cunningham and Cooper",C,NET30
+CUST-00540,"Garcia, Pope and Rivera",A,NET30
+CUST-00541,"Haley, Cobb and Ramirez",A,NET30
+CUST-00542,"Miller, Taylor and Hill",A,NET30
+CUST-00543,Stein-Drake,C,NET30
+CUST-00544,Zimmerman-Mcclure,C,NET30
+CUST-00545,Pierce-Duke,A,NET45
+CUST-00546,Smith Inc,C,NET30
+CUST-00547,Rhodes-Smith,A,NET30
+CUST-00548,Perry Group,C,NET30
+CUST-00549,"Lane, Jackson and Mccann",B,NET60
+CUST-00550,Garza PLC,B,NET45
+CUST-00551,Patterson Group,C,NET30
+CUST-00552,Hayes and Sons,C,NET30
+CUST-00553,Maldonado-Robinson,A,NET30
+CUST-00554,Escobar-Ochoa,B,NET45
+CUST-00555,Wang PLC,C,NET30
+CUST-00556,Black-Price,C,NET30
+CUST-00557,Orozco LLC,C,NET30
+CUST-00558,"Strickland, Castillo and Mcclure",C,NET30
+CUST-00559,Douglas Group,B,NET45
+CUST-00560,"Mitchell, Pham and Shelton",C,NET45
+CUST-00561,"Howell, Moore and Bennett",C,NET60
+CUST-00562,Scott PLC,A,NET30
+CUST-00563,Palmer-Owen,B,NET45
+CUST-00564,"Higgins, Hughes and Alvarez",C,NET30
+CUST-00565,Hernandez Ltd,A,NET45
+CUST-00566,Howard Inc,C,NET45
+CUST-00567,Robertson-Sparks,C,NET45
+CUST-00568,Lang Ltd,B,NET30
+CUST-00569,Wallace-King,C,NET30
+CUST-00570,Scott-Mcdonald,C,NET60
+CUST-00571,Snyder-Tapia,A,NET30
+CUST-00572,Delacruz-Scott,C,NET30
+CUST-00573,Clark-Kennedy,C,NET30
+CUST-00574,Dickson PLC,A,NET30
+CUST-00575,Moore-Shields,B,NET30
+CUST-00576,"Mccormick, Sanchez and Harmon",C,NET60
+CUST-00577,"Powell, Martinez and Miller",C,NET60
+CUST-00578,Avila and Sons,C,NET30
+CUST-00579,Morris Inc,B,NET30
+CUST-00580,Gutierrez PLC,C,NET30
+CUST-00581,"Reid, Weeks and Fox",C,NET30
+CUST-00582,"Lozano, Hart and Doyle",C,NET30
+CUST-00583,"Roberts, Bradford and Arnold",B,NET30
+CUST-00584,Randolph-Mays,C,NET30
+CUST-00585,Brown-Richardson,C,NET30
+CUST-00586,Santos-Allen,B,NET30
+CUST-00587,"Osborne, Jones and Thomas",A,NET30
+CUST-00588,Perez-Burke,B,NET30
+CUST-00589,"Cruz, Hernandez and Coleman",C,NET30
+CUST-00590,Lewis-Hardin,C,NET30
+CUST-00591,"Armstrong, Goodwin and Armstrong",B,NET30
+CUST-00592,"Robinson, Peters and Hunter",C,NET30
+CUST-00593,"Allison, Mahoney and Rivera",C,NET30
+CUST-00594,"Moreno, Smith and Fields",C,NET30
+CUST-00595,Carr-Chapman,C,NET30
+CUST-00596,"Burton, Moody and Harmon",C,NET30
+CUST-00597,Thomas-Powell,B,NET30
+CUST-00598,"Washington, Smith and Santos",C,NET30
+CUST-00599,"Davis, Smith and Keith",B,NET45
+CUST-00600,Williamson and Sons,B,NET30
+CUST-00601,"Griffin, Dean and Chan",C,NET30
+CUST-00602,Williams and Sons,C,NET60
+CUST-00603,Graves Group,C,NET30
+CUST-00604,Chaney-Dyer,C,NET30
+CUST-00605,Benson Ltd,C,NET60
+CUST-00606,Torres-Smith,C,NET30
+CUST-00607,Ellison LLC,B,NET30
+CUST-00608,"Roberts, Rodriguez and Miller",A,NET30
+CUST-00609,"Patton, Garcia and Perkins",B,NET30
+CUST-00610,Carrillo and Sons,B,NET30
+CUST-00611,"Henderson, Morris and Pacheco",C,NET45
+CUST-00612,Hill PLC,C,NET30
+CUST-00613,Archer-Sherman,B,NET45
+CUST-00614,"Simmons, Blake and King",C,NET30
+CUST-00615,Butler-Freeman,C,NET45
+CUST-00616,Curtis-Willis,B,NET30
+CUST-00617,Barrera-Garrett,C,NET30
+CUST-00618,"Romero, Martin and Fleming",C,NET30
+CUST-00619,Adams Group,C,NET30
+CUST-00620,Freeman Ltd,A,NET30
+CUST-00621,Johnson Group,A,NET45
+CUST-00622,Gill-Simon,C,NET30
+CUST-00623,Lambert Ltd,A,NET45
+CUST-00624,Brock-Price,C,NET30
+CUST-00625,Francis PLC,A,NET30
+CUST-00626,"Howell, Whitaker and Lopez",B,NET60
+CUST-00627,Murray-Hill,B,NET30
+CUST-00628,"Hernandez, Guerrero and Monroe",C,NET30
+CUST-00629,Long-Green,C,NET45
+CUST-00630,"White, Rodriguez and Scott",B,NET60
+CUST-00631,Wilson LLC,C,NET30
+CUST-00632,Henson PLC,A,NET30
+CUST-00633,"Williams, Murphy and Sanchez",C,NET30
+CUST-00634,Nixon-Brown,A,NET45
+CUST-00635,"Byrd, Smith and Baker",C,NET60
+CUST-00636,"Rivera, Jordan and Anderson",C,NET30
+CUST-00637,Baldwin and Sons,C,NET45
+CUST-00638,Duran-Davila,C,NET30
+CUST-00639,Franklin-Smith,C,NET30
+CUST-00640,Johnson-Rasmussen,B,NET30
+CUST-00641,"Campbell, Li and James",C,NET30
+CUST-00642,Hanna Group,C,NET45
+CUST-00643,Anderson and Sons,B,NET45
+CUST-00644,Bush Group,C,NET60
+CUST-00645,"Phillips, Bell and Richards",C,NET60
+CUST-00646,"Buchanan, Molina and Kelly",B,NET45
+CUST-00647,Murphy-Hicks,C,NET30
+CUST-00648,Durham-Hayes,C,NET45
+CUST-00649,"Fuller, Key and Marshall",B,NET60
+CUST-00650,Roberts Inc,C,NET30
+CUST-00651,Fowler Group,A,NET30
+CUST-00652,Higgins-Benson,B,NET60
+CUST-00653,Schmidt-Simpson,C,NET30
+CUST-00654,Nicholson-Taylor,C,NET30
+CUST-00655,Jones-Murray,C,NET30
+CUST-00656,"Hall, Hawkins and Johns",C,NET30
+CUST-00657,Ryan-Mata,C,NET30
+CUST-00658,"Robertson, Fields and Barber",C,NET30
+CUST-00659,Beltran Inc,C,NET30
+CUST-00660,"Galloway, Tyler and Richardson",C,NET45
+CUST-00661,Arnold-Fowler,C,NET30
+CUST-00662,Stone Group,C,NET45
+CUST-00663,"Carter, West and Lawson",C,NET30
+CUST-00664,"Shannon, Shepherd and Wright",C,NET30
+CUST-00665,Harris Group,B,NET45
+CUST-00666,"Wells, Bender and Howard",A,NET60
+CUST-00667,Anderson-Burton,C,NET30
+CUST-00668,Smith-Stephens,A,NET45
+CUST-00669,Williams and Sons,A,NET30
+CUST-00670,Shaffer-Peterson,C,NET45
+CUST-00671,Simmons-Bowers,B,NET30
+CUST-00672,"Gregory, Graham and Rosales",B,NET30
+CUST-00673,Anderson PLC,C,NET30
+CUST-00674,Holloway PLC,A,NET30
+CUST-00675,Rivera-Davis,C,NET30
+CUST-00676,Navarro-Ross,B,NET30
+CUST-00677,"Santos, Bray and Zimmerman",B,NET45
+CUST-00678,"Moreno, Hernandez and Washington",C,NET45
+CUST-00679,Alvarez Inc,A,NET30
+CUST-00680,"Perez, Adams and Palmer",A,NET45
+CUST-00681,Ortega-Allen,B,NET30
+CUST-00682,Valentine-Davis,A,NET30
+CUST-00683,Miller-Brady,C,NET30
+CUST-00684,Pruitt-Farmer,C,NET45
+CUST-00685,Kelly-Elliott,C,NET30
+CUST-00686,Schmidt LLC,B,NET30
+CUST-00687,Hinton-Hill,C,NET30
+CUST-00688,"Rodriguez, Harris and Acevedo",B,NET30
+CUST-00689,Price-Pope,C,NET30
+CUST-00690,Hancock Ltd,B,NET30
+CUST-00691,Sanchez PLC,B,NET45
+CUST-00692,"Marks, Horn and West",A,NET60
+CUST-00693,Cunningham-Hicks,A,NET30
+CUST-00694,Rodriguez-Roberson,C,NET45
+CUST-00695,Daniels LLC,B,NET30
+CUST-00696,Smith Inc,C,NET30
+CUST-00697,Stewart Ltd,A,NET45
+CUST-00698,Kelly-Hickman,B,NET30
+CUST-00699,Walker-Jimenez,B,NET30
+CUST-00700,Larson and Sons,B,NET30
+CUST-00701,"Hammond, Collins and Jensen",B,NET30
+CUST-00702,Gonzales LLC,B,NET30
+CUST-00703,Morgan-Vang,C,NET30
+CUST-00704,Wiggins-Riley,C,NET45
+CUST-00705,"Jackson, Adams and Todd",C,NET30
+CUST-00706,Smith PLC,C,NET45
+CUST-00707,Vargas Ltd,C,NET30
+CUST-00708,"Matthews, Vasquez and Valencia",A,NET30
+CUST-00709,Smith-Adams,C,NET30
+CUST-00710,Gallegos-Jackson,B,NET30
+CUST-00711,Lutz-Bautista,C,NET45
+CUST-00712,Wagner Ltd,C,NET45
+CUST-00713,Rodriguez LLC,C,NET30
+CUST-00714,"Brooks, Allen and Hess",C,NET60
+CUST-00715,"Welch, Perkins and Brown",C,NET30
+CUST-00716,"Munoz, Clark and Patel",B,NET60
+CUST-00717,Bowers LLC,C,NET30
+CUST-00718,"Johnson, Hamilton and Allen",C,NET60
+CUST-00719,Cannon-Sanders,B,NET45
+CUST-00720,"Nichols, Watts and Kaufman",C,NET45
+CUST-00721,"Mitchell, Robles and Richardson",B,NET30
+CUST-00722,Johnson Group,C,NET45
+CUST-00723,"Harris, Austin and Ford",C,NET30
+CUST-00724,Wilson Inc,B,NET30
+CUST-00725,"Green, Neal and Roberts",C,NET45
+CUST-00726,Smith PLC,B,NET30
+CUST-00727,Russell PLC,A,NET30
+CUST-00728,Bryan-Cline,C,NET45
+CUST-00729,"Fletcher, Taylor and Bowen",A,NET30
+CUST-00730,White LLC,C,NET30
+CUST-00731,Olson-Martin,C,NET30
+CUST-00732,Bush and Sons,A,NET45
+CUST-00733,Conrad LLC,C,NET45
+CUST-00734,"Donaldson, Washington and Barnes",C,NET30
+CUST-00735,Ramos PLC,A,NET30
+CUST-00736,Wells and Sons,A,NET45
+CUST-00737,"Jordan, Higgins and Scott",C,NET30
+CUST-00738,Harris Inc,C,NET60
+CUST-00739,"Baker, Webster and Smith",C,NET30
+CUST-00740,Briggs and Sons,B,NET30
+CUST-00741,"Castillo, Perez and Andrews",A,NET30
+CUST-00742,Hall LLC,C,NET45
+CUST-00743,Anthony-Mosley,C,NET30
+CUST-00744,Friedman Inc,C,NET30
+CUST-00745,Moody Group,C,NET45
+CUST-00746,"Keller, Jenkins and Roberts",C,NET30
+CUST-00747,Torres-Chandler,C,NET30
+CUST-00748,Freeman PLC,C,NET30
+CUST-00749,Davis-Marshall,A,NET30
+CUST-00750,Wilkins-Erickson,B,NET30
+CUST-00751,White-Stephens,B,NET30
+CUST-00752,Pitts PLC,A,NET30
+CUST-00753,Barnes and Sons,A,NET30
+CUST-00754,Clay-Miller,C,NET30
+CUST-00755,"Allen, Sexton and Owens",C,NET60
+CUST-00756,Lewis Group,C,NET60
+CUST-00757,Brooks-Jordan,B,NET30
+CUST-00758,Leach PLC,B,NET30
+CUST-00759,"Holmes, Figueroa and Diaz",B,NET45
+CUST-00760,"Rodriguez, Howe and Miller",C,NET45
+CUST-00761,Sparks Group,B,NET30
+CUST-00762,Ramos-Johnson,A,NET30
+CUST-00763,"Miller, Allen and Stout",C,NET30
+CUST-00764,Sherman LLC,C,NET45
+CUST-00765,Wiley Inc,C,NET45
+CUST-00766,Sanders and Sons,C,NET30
+CUST-00767,Garcia Ltd,C,NET30
+CUST-00768,Miller Group,C,NET30
+CUST-00769,Navarro-Peters,C,NET30
+CUST-00770,Keller-Hammond,A,NET30
+CUST-00771,Carpenter-Mason,C,NET30
+CUST-00772,Campbell Inc,A,NET30
+CUST-00773,"Santiago, Carter and Torres",C,NET60
+CUST-00774,West-Harris,B,NET60
+CUST-00775,Wilkins Group,A,NET30
+CUST-00776,Bates PLC,C,NET45
+CUST-00777,Mckinney Inc,B,NET30
+CUST-00778,"Washington, Allen and James",B,NET45
+CUST-00779,Jones Ltd,C,NET30
+CUST-00780,Reed and Sons,B,NET30
+CUST-00781,Velez Inc,C,NET30
+CUST-00782,"Schwartz, Knight and Jenkins",A,NET30
+CUST-00783,Avery Group,B,NET30
+CUST-00784,Wright-Edwards,C,NET30
+CUST-00785,Garner Inc,C,NET30
+CUST-00786,Ray LLC,C,NET30
+CUST-00787,Horne Ltd,A,NET30
+CUST-00788,Anderson-Carroll,C,NET30
+CUST-00789,Cochran LLC,C,NET30
+CUST-00790,"Chen, Padilla and Clark",C,NET45
+CUST-00791,"Shepard, Cook and Gordon",C,NET30
+CUST-00792,"Bailey, Zhang and Walker",B,NET30
+CUST-00793,"Mendez, Hoffman and Soto",C,NET30
+CUST-00794,"Lowery, Zavala and Leonard",C,NET45
+CUST-00795,"Stevens, Martinez and Flores",C,NET30
+CUST-00796,Smith LLC,A,NET60
+CUST-00797,Gonzalez-Clayton,A,NET30
+CUST-00798,"Patterson, Johnson and Moreno",C,NET30
+CUST-00799,Henson Inc,C,NET30
+CUST-00800,Nelson-Valdez,C,NET30
+CUST-00801,Sosa and Sons,B,NET30
+CUST-00802,Jones-Shields,C,NET45
+CUST-00803,Ray-Arellano,C,NET30
+CUST-00804,"Harris, Flores and Rodgers",B,NET45
+CUST-00805,"Jones, Webb and Harris",B,NET45
+CUST-00806,Davidson Group,C,NET30
+CUST-00807,Jones and Sons,C,NET30
+CUST-00808,Richardson PLC,A,NET30
+CUST-00809,Anderson Inc,B,NET30
+CUST-00810,Padilla Group,C,NET60
+CUST-00811,"Thompson, Green and Lopez",A,NET30
+CUST-00812,Young-Simpson,A,NET30
+CUST-00813,Allen Ltd,C,NET30
+CUST-00814,Smith-Harvey,C,NET60
+CUST-00815,Nichols-Wilson,C,NET60
+CUST-00816,Parker-Singh,C,NET45
+CUST-00817,Miller Group,C,NET30
+CUST-00818,Mccann Group,B,NET30
+CUST-00819,Bowen Ltd,C,NET30
+CUST-00820,"Aguirre, Brown and Sanders",B,NET30
+CUST-00821,Hughes LLC,A,NET30
+CUST-00822,Hill LLC,A,NET30
+CUST-00823,Smith PLC,C,NET30
+CUST-00824,Snyder Inc,B,NET30
+CUST-00825,Pierce LLC,B,NET45
+CUST-00826,Jones-Russell,A,NET30
+CUST-00827,Moon-Terry,C,NET30
+CUST-00828,Cordova-Moore,A,NET60
+CUST-00829,Hernandez-Anderson,C,NET30
+CUST-00830,"Garcia, Fitzgerald and Clark",C,NET60
+CUST-00831,Simmons Ltd,B,NET45
+CUST-00832,"Berry, Miller and Anderson",B,NET45
+CUST-00833,Henderson Group,C,NET30
+CUST-00834,"Solomon, Williams and Clark",B,NET30
+CUST-00835,Lambert PLC,C,NET60
+CUST-00836,Hall-Thornton,C,NET30
+CUST-00837,Dodson Ltd,B,NET30
+CUST-00838,Harris-Bentley,B,NET30
+CUST-00839,"Gill, Dixon and Terrell",B,NET30
+CUST-00840,Taylor PLC,A,NET45
+CUST-00841,"Figueroa, Hoffman and Vance",B,NET45
+CUST-00842,Hicks PLC,B,NET30
+CUST-00843,Howe Inc,C,NET30
+CUST-00844,Haas Inc,B,NET30
+CUST-00845,Ramos-Clements,C,NET60
+CUST-00846,Davis PLC,A,NET30
+CUST-00847,"Peterson, Reyes and Smith",C,NET30
+CUST-00848,"Olson, Woodward and Grant",C,NET60
+CUST-00849,Black PLC,B,NET30
+CUST-00850,Reynolds LLC,B,NET30
+CUST-00851,Ryan and Sons,B,NET30
+CUST-00852,"Williamson, Guerrero and Boyd",C,NET30
+CUST-00853,"Young, Hernandez and Clark",A,NET30
+CUST-00854,"Lowery, Booth and Owens",C,NET30
+CUST-00855,Rodriguez-Bell,C,NET45
+CUST-00856,Cox-Parks,C,NET30
+CUST-00857,"Wilson, Salazar and Franco",A,NET45
+CUST-00858,"Smith, Acevedo and Powell",C,NET30
+CUST-00859,Palmer-Fritz,B,NET30
+CUST-00860,"Henderson, Blair and Werner",C,NET30
+CUST-00861,"Hughes, Tran and Rodriguez",A,NET30
+CUST-00862,Owens Inc,A,NET30
+CUST-00863,"Bird, Nguyen and Sanchez",A,NET30
+CUST-00864,Nelson PLC,C,NET45
+CUST-00865,Williams-Dorsey,A,NET30
+CUST-00866,Wilson-Gonzalez,C,NET30
+CUST-00867,"Guerrero, Stark and Smith",B,NET30
+CUST-00868,Krueger-Saunders,C,NET30
+CUST-00869,"Ross, Ramsey and Lopez",C,NET30
+CUST-00870,Mann Group,C,NET45
+CUST-00871,Hill and Sons,C,NET45
+CUST-00872,"Reed, Watson and Kennedy",C,NET30
+CUST-00873,Ferguson Group,B,NET30
+CUST-00874,Moreno LLC,C,NET60
+CUST-00875,"Lee, Christensen and Deleon",B,NET30
+CUST-00876,Smith-Murray,B,NET30
+CUST-00877,Wilson Inc,C,NET60
+CUST-00878,Mckinney PLC,C,NET60
+CUST-00879,"Bishop, Maynard and Gonzalez",B,NET30
+CUST-00880,Dominguez-Avila,B,NET30
+CUST-00881,Garza-Perez,C,NET45
+CUST-00882,Thomas Group,B,NET45
+CUST-00883,"Carter, Chapman and Evans",C,NET45
+CUST-00884,"Cohen, Reyes and Watson",C,NET30
+CUST-00885,"Watson, Smith and Jackson",C,NET30
+CUST-00886,"Flowers, Burke and Hardin",C,NET45
+CUST-00887,Miller-Long,C,NET60
+CUST-00888,Fitzpatrick Inc,A,NET60
+CUST-00889,"Williams, Murray and Burns",C,NET30
+CUST-00890,Vargas-Soto,B,NET45
+CUST-00891,Miller-Francis,A,NET30
+CUST-00892,"Strickland, Griffin and Williams",C,NET30
+CUST-00893,Flores-Hill,C,NET60
+CUST-00894,Jefferson and Sons,C,NET45
+CUST-00895,Miles Inc,C,NET30
+CUST-00896,"Atkins, Morris and Garza",B,NET30
+CUST-00897,Smith-Lam,B,NET60
+CUST-00898,Carlson-Phillips,B,NET30
+CUST-00899,"Mcgee, Coleman and Ward",B,NET45
+CUST-00900,"Campbell, Ramirez and Bates",A,NET30
+CUST-00901,"Washington, Meyer and Contreras",B,NET30
+CUST-00902,"James, Gutierrez and Riley",A,NET45
+CUST-00903,Perez Inc,B,NET45
+CUST-00904,"Duncan, Meyers and Baker",C,NET30
+CUST-00905,"Duncan, Benitez and Blair",B,NET30
+CUST-00906,Moore-Chambers,B,NET30
+CUST-00907,"Park, Clayton and Vargas",B,NET30
+CUST-00908,Wallace-Russo,A,NET30
+CUST-00909,Edwards and Sons,C,NET45
+CUST-00910,"Williams, Ramirez and Anderson",B,NET30
+CUST-00911,Hunt-Murphy,C,NET30
+CUST-00912,Peterson PLC,C,NET45
+CUST-00913,Austin-Hall,C,NET45
+CUST-00914,"Newman, Delgado and Cunningham",C,NET30
+CUST-00915,Shaw LLC,B,NET30
+CUST-00916,"Lee, Harmon and Lamb",C,NET30
+CUST-00917,Gonzalez-Torres,A,NET30
+CUST-00918,Wilkerson LLC,C,NET45
+CUST-00919,Payne-Keller,B,NET30
+CUST-00920,"Graham, Mckee and Guzman",C,NET30
+CUST-00921,Mathis and Sons,C,NET30
+CUST-00922,"Martinez, Thompson and Henderson",C,NET45
+CUST-00923,"Downs, Lewis and Barnes",B,NET30
+CUST-00924,Clark-Ewing,C,NET45
+CUST-00925,Blackwell Inc,C,NET30
+CUST-00926,Donaldson PLC,B,NET30
+CUST-00927,Sweeney and Sons,C,NET45
+CUST-00928,"Baker, Davis and Ferrell",B,NET30
+CUST-00929,"Ramsey, Reed and Ramirez",B,NET45
+CUST-00930,"Baldwin, Garcia and Cantu",C,NET30
+CUST-00931,Hurst PLC,C,NET45
+CUST-00932,Norman PLC,A,NET60
+CUST-00933,Bailey Inc,A,NET30
+CUST-00934,Harrison-Cummings,A,NET45
+CUST-00935,Moore-Walker,C,NET30
+CUST-00936,Morton-Burns,B,NET30
+CUST-00937,"Hawkins, Smith and Edwards",A,NET60
+CUST-00938,Jones Inc,B,NET30
+CUST-00939,Guerrero-Dean,C,NET60
+CUST-00940,Duncan-Hobbs,A,NET30
+CUST-00941,"Gonzalez, Adams and Ramos",B,NET30
+CUST-00942,Martin and Sons,C,NET30
+CUST-00943,"Horton, Castillo and Shannon",C,NET30
+CUST-00944,Thomas Ltd,B,NET30
+CUST-00945,Howell-Delgado,B,NET45
+CUST-00946,Rowe and Sons,B,NET30
+CUST-00947,Brooks Inc,A,NET45
+CUST-00948,Castro Ltd,C,NET45
+CUST-00949,"Bryan, Keller and Horton",A,NET30
+CUST-00950,Blair and Sons,A,NET30
+CUST-00951,Stevenson PLC,C,NET30
+CUST-00952,Palmer and Sons,A,NET45
+CUST-00953,Mcdonald-Jones,C,NET30
+CUST-00954,Reed-Martin,A,NET45
+CUST-00955,Baker-Stewart,C,NET30
+CUST-00956,Evans-Mcneil,A,NET30
+CUST-00957,Wilson-Murphy,B,NET30
+CUST-00958,Lopez Group,A,NET30
+CUST-00959,Bradshaw PLC,C,NET30
+CUST-00960,Vazquez Inc,C,NET45
+CUST-00961,Dennis and Sons,C,NET30
+CUST-00962,"Smith, Alvarez and Smith",A,NET30
+CUST-00963,Savage Group,C,NET30
+CUST-00964,Miller-Christian,C,NET30
+CUST-00965,Brown Group,B,NET30
+CUST-00966,Briggs-Morris,A,NET45
+CUST-00967,"Clark, Snyder and French",B,NET30
+CUST-00968,"Jordan, Fisher and Moore",C,NET30
+CUST-00969,Sanders-Hansen,C,NET30
+CUST-00970,Smith Inc,A,NET30
+CUST-00971,Cole Inc,C,NET30
+CUST-00972,Thomas Ltd,C,NET60
+CUST-00973,Beard LLC,C,NET30
+CUST-00974,Anderson-Smith,C,NET30
+CUST-00975,Sanford LLC,A,NET45
+CUST-00976,"Hale, West and Zimmerman",C,NET30
+CUST-00977,"Martinez, Trujillo and Wells",B,NET30
+CUST-00978,Conner PLC,C,NET60
+CUST-00979,"Mccarthy, Miller and Sweeney",B,NET30
+CUST-00980,"Deleon, Davis and Crawford",B,NET30
+CUST-00981,Price and Sons,C,NET30
+CUST-00982,"Morrison, Sampson and Wilson",B,NET30
+CUST-00983,"Frank, Gentry and Adams",B,NET30
+CUST-00984,Bean Inc,A,NET45
+CUST-00985,"Williams, Martin and Cunningham",B,NET45
+CUST-00986,Lopez-Walker,C,NET60
+CUST-00987,"Norris, Holt and Walters",C,NET45
+CUST-00988,"Juarez, Gray and Ruiz",B,NET30
+CUST-00989,Schmitt Ltd,A,NET30
+CUST-00990,Garrison-Torres,A,NET45
+CUST-00991,West-Juarez,B,NET30
+CUST-00992,Porter-Miller,C,NET45
+CUST-00993,Sutton-Hunter,A,NET30
+CUST-00994,Thomas Ltd,C,NET30
+CUST-00995,Lewis LLC,C,NET30
+CUST-00996,Contreras-Kerr,A,NET30
+CUST-00997,Brown PLC,B,NET45
+CUST-00998,"Bennett, Black and Grimes",A,NET30
+CUST-00999,"Mcpherson, Taylor and Hicks",C,NET30
+CUST-01000,Fowler-Allen,C,NET30
+CUST-01001,King-Moreno,C,NET45
+CUST-01002,Jones LLC,C,NET30
+CUST-01003,Johnson Ltd,C,NET45
+CUST-01004,"Williams, Parker and Moreno",C,NET45
+CUST-01005,Smith LLC,B,NET45
+CUST-01006,"Lowe, Fowler and Lawrence",A,NET30
+CUST-01007,"Foster, Smith and Hansen",C,NET45
+CUST-01008,"Hampton, Gray and Lucero",B,NET30
+CUST-01009,Torres-Fisher,C,NET60
+CUST-01010,"Jones, Flores and Greene",C,NET30
+CUST-01011,Rios-Anderson,B,NET45
+CUST-01012,Davis-Lewis,C,NET30
+CUST-01013,"Carter, Preston and Lee",C,NET60
+CUST-01014,Sheppard LLC,C,NET30
+CUST-01015,Harris PLC,C,NET45
+CUST-01016,Smith PLC,A,NET30
+CUST-01017,Williams Group,A,NET30
+CUST-01018,Noble Group,B,NET45
+CUST-01019,Mitchell-Jones,B,NET30
+CUST-01020,"Flores, Horne and Osborne",C,NET45
+CUST-01021,"Adams, Stewart and Sharp",B,NET45
+CUST-01022,"Bennett, Johnson and Jones",C,NET30
+CUST-01023,"Cooper, Morse and Benitez",B,NET30
+CUST-01024,"Frazier, Smith and Bradshaw",A,NET30
+CUST-01025,"Ryan, Frost and Hurst",C,NET30
+CUST-01026,Norris-Meadows,C,NET30
+CUST-01027,Vincent-Bailey,C,NET30
+CUST-01028,Gray-Rhodes,A,NET30
+CUST-01029,Moss-Arroyo,A,NET45
+CUST-01030,Walsh-Smith,C,NET30
+CUST-01031,"Turner, Costa and Copeland",C,NET45
+CUST-01032,"Rogers, Figueroa and Collins",B,NET30
+CUST-01033,Christian-Harrington,B,NET60
+CUST-01034,Jefferson Inc,A,NET45
+CUST-01035,Berg-Roberts,C,NET30
+CUST-01036,Adams PLC,B,NET30
+CUST-01037,Warren Ltd,C,NET30
+CUST-01038,Thomas Group,B,NET60
+CUST-01039,Riley-Mendoza,B,NET30
+CUST-01040,Mitchell Ltd,B,NET30
+CUST-01041,"Gordon, Rodriguez and Buckley",C,NET30
+CUST-01042,Hubbard-Pratt,C,NET30
+CUST-01043,"Massey, Fuentes and Clark",B,NET30
+CUST-01044,Guerra and Sons,C,NET45
+CUST-01045,Francis and Sons,B,NET30
+CUST-01046,Brooks and Sons,B,NET30
+CUST-01047,Hernandez PLC,C,NET30
+CUST-01048,Carter-Gonzalez,B,NET45
+CUST-01049,Hartman-Yu,B,NET30
+CUST-01050,Vincent-Huber,B,NET30
+CUST-01051,"Gray, Alexander and Lynch",C,NET30
+CUST-01052,Smith Ltd,C,NET30
+CUST-01053,Jimenez Ltd,C,NET30
+CUST-01054,Moore-Sandoval,C,NET45
+CUST-01055,Stone Ltd,C,NET30
+CUST-01056,"Warren, Pitts and Castro",B,NET45
+CUST-01057,"Morris, Gilbert and Sandoval",C,NET60
+CUST-01058,Harris LLC,A,NET30
+CUST-01059,Garcia Ltd,B,NET30
+CUST-01060,"Lewis, Solomon and Lawson",B,NET45
+CUST-01061,"Thompson, Mendoza and Allen",B,NET60
+CUST-01062,"Kaiser, Garcia and Brown",C,NET30
+CUST-01063,"Cortez, Fisher and Mccormick",C,NET30
+CUST-01064,Gordon and Sons,C,NET30
+CUST-01065,Wells-Mitchell,A,NET30
+CUST-01066,Stewart-Wheeler,C,NET45
+CUST-01067,"Mcdonald, Dawson and Ray",A,NET30
+CUST-01068,"Alexander, Weiss and Hunter",A,NET30
+CUST-01069,Miller-Bates,A,NET30
+CUST-01070,Wong-Young,C,NET45
+CUST-01071,Duke PLC,B,NET30
+CUST-01072,"Sullivan, Hancock and Madden",A,NET45
+CUST-01073,Bates-Gonzalez,B,NET30
+CUST-01074,Butler LLC,A,NET45
+CUST-01075,Woodard-Carey,A,NET30
+CUST-01076,Ayala-Bean,B,NET30
+CUST-01077,Simmons-Castillo,C,NET30
+CUST-01078,"Baker, Bell and Lamb",C,NET30
+CUST-01079,Hayes Inc,C,NET30
+CUST-01080,"Armstrong, Benton and Parsons",C,NET30
+CUST-01081,Smith Inc,C,NET30
+CUST-01082,Barr-Brooks,C,NET30
+CUST-01083,Williamson-Park,C,NET30
+CUST-01084,"Norris, Rivera and Moore",C,NET60
+CUST-01085,Alexander-Roach,B,NET30
+CUST-01086,Hughes-Stout,B,NET30
+CUST-01087,Parker-Walter,C,NET45
+CUST-01088,"Miller, Armstrong and Morgan",C,NET60
+CUST-01089,Hill Ltd,B,NET60
+CUST-01090,Edwards-Becker,A,NET45
+CUST-01091,Mason-Escobar,C,NET30
+CUST-01092,Jones-Vance,C,NET30
+CUST-01093,"Jones, Rocha and Mathews",B,NET30
+CUST-01094,Bradley-Hodges,A,NET60
+CUST-01095,Welch Ltd,A,NET30
+CUST-01096,Brennan Ltd,B,NET45
+CUST-01097,Tate PLC,A,NET30
+CUST-01098,Wolf-Gross,A,NET30
+CUST-01099,Rosales-Martin,C,NET30
+CUST-01100,Simmons-Larson,C,NET30
+CUST-01101,"Cisneros, Livingston and Huang",B,NET30
+CUST-01102,Nielsen-Payne,B,NET30
+CUST-01103,Dunn-James,C,NET30
+CUST-01104,Jordan-Johnson,C,NET30
+CUST-01105,Gomez-Brown,C,NET30
+CUST-01106,Reynolds-Warner,A,NET30
+CUST-01107,Moore Group,A,NET60
+CUST-01108,Wilson and Sons,B,NET30
+CUST-01109,Hayes-Phillips,C,NET30
+CUST-01110,Taylor-Coleman,C,NET30
+CUST-01111,Briggs-Stevens,B,NET30
+CUST-01112,Cox-Flores,C,NET45
+CUST-01113,Hayden-Ellis,B,NET60
+CUST-01114,"Lopez, Rodriguez and Reeves",C,NET30
+CUST-01115,"Bennett, Chen and Diaz",A,NET30
+CUST-01116,"Lopez, Lee and Martinez",C,NET30
+CUST-01117,Wells Ltd,C,NET30
+CUST-01118,"Harris, Simpson and Schaefer",B,NET30
+CUST-01119,Hill Inc,B,NET30
+CUST-01120,Mitchell and Sons,A,NET30
+CUST-01121,Christensen-Mcpherson,A,NET45
+CUST-01122,Williams-Yates,B,NET45
+CUST-01123,Carroll Ltd,C,NET30
+CUST-01124,"Marks, Watson and Jordan",C,NET30
+CUST-01125,Robinson-Williams,C,NET30
+CUST-01126,Miller Group,C,NET45
+CUST-01127,Hansen and Sons,C,NET30
+CUST-01128,Kelley-Owens,C,NET60
+CUST-01129,Hill Inc,C,NET30
+CUST-01130,Stewart LLC,C,NET45
+CUST-01131,Mills-Jones,C,NET30
+CUST-01132,"Rasmussen, Rush and Wright",C,NET30
+CUST-01133,"Cruz, Sanchez and Gonzales",C,NET30
+CUST-01134,"King, Byrd and Davis",C,NET30
+CUST-01135,Cross-Bass,B,NET30
+CUST-01136,"Lyons, Mitchell and Arnold",B,NET30
+CUST-01137,Henson-Carter,C,NET30
+CUST-01138,"Garcia, James and Silva",A,NET30
+CUST-01139,Harper LLC,A,NET30
+CUST-01140,"Silva, Blanchard and Haley",A,NET30
+CUST-01141,Holt-Kane,C,NET30
+CUST-01142,Huber-Mccarty,C,NET45
+CUST-01143,Marshall Ltd,C,NET30
+CUST-01144,Mccoy-Simpson,B,NET30
+CUST-01145,Molina-Taylor,B,NET30
+CUST-01146,"Carlson, Edwards and Davis",C,NET30
+CUST-01147,Hardy PLC,C,NET30
+CUST-01148,Schmidt LLC,A,NET60
+CUST-01149,Baird Group,C,NET60
+CUST-01150,Collins PLC,B,NET45
+CUST-01151,Bradley LLC,A,NET45
+CUST-01152,Johnson Ltd,C,NET30
+CUST-01153,Haynes-Bowman,C,NET30
+CUST-01154,"Brown, Ferrell and Russell",A,NET30
+CUST-01155,Livingston Group,C,NET30
+CUST-01156,Schneider Ltd,B,NET45
+CUST-01157,Brandt-Aguilar,B,NET30
+CUST-01158,Murphy Ltd,C,NET60
+CUST-01159,Hamilton-Knight,B,NET30
+CUST-01160,Ferguson PLC,C,NET30
+CUST-01161,Martin-Riley,C,NET30
+CUST-01162,"Haynes, Moyer and Aguilar",C,NET30
+CUST-01163,Duncan-Johnson,B,NET45
+CUST-01164,"Tucker, Rivera and Luna",A,NET30
+CUST-01165,"Ochoa, Allen and Brown",C,NET30
+CUST-01166,Caldwell-Mitchell,C,NET60
+CUST-01167,Collins Group,B,NET30
+CUST-01168,Harris-Kerr,B,NET30
+CUST-01169,West-Christensen,B,NET60
+CUST-01170,Davis-English,C,NET30
+CUST-01171,"Cobb, Evans and Jones",A,NET30
+CUST-01172,Taylor Inc,A,NET30
+CUST-01173,Stewart Group,C,NET30
+CUST-01174,Smith Ltd,C,NET30
+CUST-01175,Warren PLC,C,NET60
+CUST-01176,Charles-Scott,C,NET60
+CUST-01177,Williams LLC,C,NET30
+CUST-01178,Kelley Ltd,C,NET30
+CUST-01179,"Smith, Stokes and Hester",A,NET45
+CUST-01180,Moore LLC,B,NET30
+CUST-01181,"Horn, Sanchez and White",C,NET45
+CUST-01182,Davis PLC,B,NET30
+CUST-01183,Miller-Morris,C,NET45
+CUST-01184,Brown LLC,C,NET30
+CUST-01185,"Diaz, Gomez and Mitchell",C,NET30
+CUST-01186,Whitney-Morris,B,NET30
+CUST-01187,Valentine-Meyer,C,NET30
+CUST-01188,"Farmer, Flores and Ramos",C,NET30
+CUST-01189,Levine Inc,B,NET30
+CUST-01190,"Wong, Harmon and Davidson",B,NET30
+CUST-01191,Lawrence-Webb,C,NET45
+CUST-01192,Anderson LLC,A,NET30
+CUST-01193,Williams-Keller,C,NET30
+CUST-01194,Clark-Parker,B,NET30
+CUST-01195,"Hooper, Reed and Smith",C,NET30
+CUST-01196,Pena-Peters,C,NET30
+CUST-01197,"Preston, Taylor and White",B,NET30
+CUST-01198,"Hernandez, Anderson and Weeks",C,NET30
+CUST-01199,"Watkins, Stevens and Gonzalez",A,NET45
+CUST-01200,Cunningham Group,C,NET30
+CUST-01201,"Ho, Adkins and Peters",C,NET30
+CUST-01202,Jones LLC,B,NET30
+CUST-01203,Shepherd Ltd,C,NET30
+CUST-01204,"Christian, Fisher and King",A,NET60
+CUST-01205,Warner-Valenzuela,B,NET45
+CUST-01206,Ruiz-Lynch,C,NET60
+CUST-01207,Perez and Sons,B,NET45
+CUST-01208,Harris PLC,C,NET30
+CUST-01209,Haley PLC,B,NET30
+CUST-01210,Ross and Sons,C,NET30
+CUST-01211,Phillips-Hall,B,NET30
+CUST-01212,Adkins-Blackwell,B,NET30
+CUST-01213,Lang-Beck,C,NET45
+CUST-01214,Wallace LLC,B,NET60
+CUST-01215,"Crawford, Patrick and Wolfe",B,NET30
+CUST-01216,"Mcneil, Cox and Aguilar",B,NET30
+CUST-01217,"Castaneda, Moran and Craig",C,NET30
+CUST-01218,"Mathis, Arroyo and Riggs",B,NET30
+CUST-01219,Garcia-Graham,C,NET30
+CUST-01220,Arnold Ltd,B,NET30
+CUST-01221,"Rangel, Brown and Mcpherson",A,NET30
+CUST-01222,"Lambert, Kirby and Phillips",A,NET30
+CUST-01223,Garcia Ltd,C,NET30
+CUST-01224,"Walton, Moore and Snow",B,NET30
+CUST-01225,Castaneda LLC,A,NET30
+CUST-01226,"Camacho, Payne and Reeves",B,NET30
+CUST-01227,Mccarthy-Copeland,B,NET60
+CUST-01228,Collins LLC,B,NET60
+CUST-01229,"Young, Fischer and Simmons",B,NET30
+CUST-01230,"Rivera, Reed and Werner",A,NET45
+CUST-01231,"Yoder, Brewer and Stone",C,NET45
+CUST-01232,Norris and Sons,A,NET45
+CUST-01233,"Baker, Stewart and White",C,NET30
+CUST-01234,Lopez-Ward,A,NET30
+CUST-01235,"Patterson, Gibson and Weaver",B,NET30
+CUST-01236,Gonzalez-Downs,C,NET30
+CUST-01237,Taylor-Mills,C,NET45
+CUST-01238,Oneal LLC,C,NET30
+CUST-01239,Martinez-Smith,C,NET45
+CUST-01240,"Rodriguez, Owens and Phillips",C,NET45
+CUST-01241,Chapman-Moses,B,NET30
+CUST-01242,Payne-Evans,C,NET30
+CUST-01243,Stephenson-Richardson,C,NET60
+CUST-01244,Jordan and Sons,B,NET30
+CUST-01245,Gonzalez-Howard,C,NET30
+CUST-01246,Johnson-Garcia,A,NET30
+CUST-01247,Edwards-Perry,C,NET30
+CUST-01248,Cook Inc,B,NET45
+CUST-01249,"Butler, Rodriguez and Diaz",C,NET45
+CUST-01250,"Simpson, Gordon and Lee",B,NET30
+CUST-01251,Elliott and Sons,B,NET30
+CUST-01252,"Thomas, Carey and Johnson",B,NET60
+CUST-01253,Burke and Sons,C,NET60
+CUST-01254,Harding-Williams,C,NET30
+CUST-01255,Turner-Roman,B,NET60
+CUST-01256,"Koch, Hughes and Mcpherson",A,NET30
+CUST-01257,Hamilton Group,A,NET30
+CUST-01258,Montgomery-Rogers,C,NET45
+CUST-01259,"Hughes, Anderson and Mitchell",C,NET45
+CUST-01260,"Sanders, Foster and Davidson",A,NET30
+CUST-01261,"Johnson, Tran and Butler",C,NET30
+CUST-01262,"Johnson, Fisher and Norton",C,NET30
+CUST-01263,Lowe Inc,A,NET60
+CUST-01264,Garcia-Carter,C,NET30
+CUST-01265,"Mcdowell, Howell and Nelson",B,NET60
+CUST-01266,"Stephens, Mueller and Beard",C,NET30
+CUST-01267,Snyder LLC,B,NET30
+CUST-01268,"Johnston, Martinez and Taylor",C,NET30
+CUST-01269,Tyler Inc,C,NET45
+CUST-01270,Mathis PLC,B,NET30
+CUST-01271,Murray-Grant,B,NET30
+CUST-01272,Thomas-Stanley,C,NET45
+CUST-01273,Brooks PLC,A,NET45
+CUST-01274,Stone-Reed,A,NET30
+CUST-01275,Wells Ltd,C,NET30
+CUST-01276,Williams-Johnson,B,NET30
+CUST-01277,Thomas Inc,C,NET60
+CUST-01278,Dillon-Jenkins,C,NET30
+CUST-01279,Moses and Sons,C,NET30
+CUST-01280,Green-Davila,A,NET30
+CUST-01281,Walton-Gomez,A,NET30
+CUST-01282,"Morris, Vega and Jones",B,NET30
+CUST-01283,Ramirez Inc,B,NET30
+CUST-01284,"Munoz, Dudley and Bennett",B,NET45
+CUST-01285,"Simmons, Gonzalez and Rodriguez",B,NET60
+CUST-01286,Maldonado-Huff,C,NET30
+CUST-01287,"Wong, Harris and Johnson",B,NET30
+CUST-01288,Burns-Dixon,B,NET45
+CUST-01289,Floyd-Jordan,C,NET30
+CUST-01290,Hunter-Clark,B,NET30
+CUST-01291,"Gonzalez, Brooks and Rice",C,NET30
+CUST-01292,Brown-Hudson,C,NET30
+CUST-01293,"Russell, Abbott and Foster",B,NET30
+CUST-01294,Moore-Williams,A,NET45
+CUST-01295,"Meadows, Medina and Bullock",A,NET30
+CUST-01296,Powell PLC,C,NET30
+CUST-01297,"Wolfe, Walker and Wilkins",C,NET30
+CUST-01298,Miller-Montoya,C,NET45
+CUST-01299,Berry-Flores,C,NET45
+CUST-01300,Moore-Navarro,A,NET45
+CUST-01301,Shepherd-Walls,A,NET30
+CUST-01302,"Ramirez, Baker and Vazquez",A,NET30
+CUST-01303,Garcia Ltd,A,NET60
+CUST-01304,Jenkins-Parker,C,NET30
+CUST-01305,Hines Inc,C,NET30
+CUST-01306,"Thomas, Walters and Wright",A,NET30
+CUST-01307,"Mclaughlin, Lewis and Smith",B,NET30
+CUST-01308,Logan-Berry,C,NET30
+CUST-01309,Figueroa PLC,A,NET30
+CUST-01310,Scott-King,B,NET30
+CUST-01311,Kelly-Mendoza,A,NET30
+CUST-01312,Castillo PLC,C,NET45
+CUST-01313,Ryan Group,C,NET30
+CUST-01314,"Austin, Foster and Berry",B,NET30
+CUST-01315,"Wright, Larsen and Williams",B,NET30
+CUST-01316,"Martinez, Jenkins and Green",B,NET45
+CUST-01317,Hernandez Inc,C,NET30
+CUST-01318,Long-Morris,A,NET30
+CUST-01319,Burton PLC,C,NET30
+CUST-01320,Montoya LLC,A,NET30
+CUST-01321,Mitchell-Bennett,C,NET60
+CUST-01322,Wright PLC,C,NET30
+CUST-01323,"Berg, Ellis and Carlson",B,NET30
+CUST-01324,Gonzalez LLC,B,NET30
+CUST-01325,"Shepard, Mcdowell and Ramirez",C,NET30
+CUST-01326,"Duncan, May and Terry",C,NET60
+CUST-01327,Hicks Inc,B,NET45
+CUST-01328,Anderson LLC,B,NET30
+CUST-01329,"Mercado, Meyers and Jackson",C,NET30
+CUST-01330,Lambert-Daugherty,C,NET30
+CUST-01331,Clark LLC,A,NET30
+CUST-01332,Bishop Group,C,NET30
+CUST-01333,Russell-Smith,C,NET30
+CUST-01334,Nelson-Bryan,C,NET60
+CUST-01335,Gregory PLC,C,NET60
+CUST-01336,Tanner and Sons,C,NET30
+CUST-01337,Barnett-Simmons,C,NET30
+CUST-01338,Morris PLC,B,NET30
+CUST-01339,Blackburn-Wiley,B,NET30
+CUST-01340,"Henderson, Ewing and Little",C,NET45
+CUST-01341,Austin Group,C,NET60
+CUST-01342,Brown-Lopez,B,NET30
+CUST-01343,Bennett-Garcia,B,NET30
+CUST-01344,Harrington-Turner,B,NET30
+CUST-01345,Perez and Sons,B,NET30
+CUST-01346,Smith-Novak,A,NET30
+CUST-01347,Rush and Sons,C,NET45
+CUST-01348,"Carlson, Smith and Hale",C,NET30
+CUST-01349,"Hayes, Moore and Carrillo",B,NET30
+CUST-01350,Morris-Greene,B,NET30
+CUST-01351,Johnson-Kidd,A,NET30
+CUST-01352,Byrd-Jones,C,NET45
+CUST-01353,"Perez, Smith and Bell",C,NET60
+CUST-01354,Martin-Ferguson,B,NET30
+CUST-01355,"Koch, Lawrence and Carr",A,NET30
+CUST-01356,"Young, Ward and Ferguson",B,NET60
+CUST-01357,Simon-Davis,B,NET30
+CUST-01358,"Schneider, James and Moore",B,NET30
+CUST-01359,Cruz Ltd,A,NET30
+CUST-01360,"Gutierrez, Simpson and Gay",B,NET45
+CUST-01361,Carter-Mcdaniel,B,NET30
+CUST-01362,Harris-Cervantes,C,NET30
+CUST-01363,Mccoy PLC,B,NET30
+CUST-01364,Hamilton Group,A,NET30
+CUST-01365,Brown LLC,C,NET30
+CUST-01366,Mercado Ltd,B,NET30
+CUST-01367,Richmond-Dillon,B,NET45
+CUST-01368,"Allen, Cervantes and Wilson",B,NET30
+CUST-01369,"Gonzalez, Jenkins and Crawford",B,NET30
+CUST-01370,"Miles, Lyons and Hendricks",B,NET30
+CUST-01371,"Kramer, Burgess and Pierce",C,NET45
+CUST-01372,Barnes PLC,C,NET30
+CUST-01373,White-Foster,C,NET45
+CUST-01374,"Soto, Cohen and Cooley",C,NET60
+CUST-01375,Wood PLC,B,NET30
+CUST-01376,"Robertson, Graves and Robinson",C,NET45
+CUST-01377,Palmer-Moore,C,NET30
+CUST-01378,Johnson-Salas,B,NET45
+CUST-01379,Smith-Lewis,C,NET45
+CUST-01380,Owen-Richardson,A,NET30
+CUST-01381,"Ellis, Jones and Fitzgerald",B,NET30
+CUST-01382,"Howard, Baker and Gamble",C,NET30
+CUST-01383,Davis-Baker,C,NET30
+CUST-01384,Huerta and Sons,B,NET30
+CUST-01385,Dunn-Spencer,C,NET30
+CUST-01386,Stevens Ltd,A,NET30
+CUST-01387,"Jones, Barker and Williams",A,NET30
+CUST-01388,Huang and Sons,A,NET30
+CUST-01389,"Miller, Bishop and Shaw",C,NET30
+CUST-01390,Howard-Gonzalez,A,NET30
+CUST-01391,Perez-Morgan,A,NET30
+CUST-01392,Keller Inc,B,NET45
+CUST-01393,"Harrison, Brown and Buchanan",C,NET30
+CUST-01394,"Powell, Melendez and Lara",C,NET60
+CUST-01395,Mcdonald Inc,B,NET30
+CUST-01396,Munoz LLC,A,NET30
+CUST-01397,Greene-Flores,B,NET30
+CUST-01398,Smith-Payne,B,NET30
+CUST-01399,Davis-Rhodes,B,NET45
+CUST-01400,Hoffman-Martinez,C,NET30
+CUST-01401,"Rivera, Garza and Bryant",C,NET30
+CUST-01402,Willis-Hines,B,NET30
+CUST-01403,Mills PLC,C,NET30
+CUST-01404,Stout-Brown,B,NET45
+CUST-01405,Nelson and Sons,C,NET30
+CUST-01406,Tran LLC,C,NET30
+CUST-01407,"Avila, Johnson and Morris",A,NET30
+CUST-01408,"Garrison, Jones and Thomas",C,NET30
+CUST-01409,"Sanders, Aguirre and Mercer",A,NET30
+CUST-01410,White Ltd,B,NET45
+CUST-01411,"Ramirez, Hogan and Smith",A,NET45
+CUST-01412,"Hansen, Moore and Murphy",C,NET30
+CUST-01413,Ramirez PLC,C,NET30
+CUST-01414,Martinez Inc,C,NET30
+CUST-01415,"Cohen, Weiss and Green",A,NET30
+CUST-01416,Massey Inc,C,NET30
+CUST-01417,"Rodriguez, Martinez and Baker",B,NET30
+CUST-01418,"Huber, Walker and Dyer",C,NET30
+CUST-01419,Adams PLC,B,NET45
+CUST-01420,Phillips-Kelly,C,NET45
+CUST-01421,Robbins PLC,A,NET30
+CUST-01422,Johnson LLC,B,NET45
+CUST-01423,"Smith, Ross and Berry",C,NET30
+CUST-01424,"Jenkins, Beck and Fernandez",C,NET45
+CUST-01425,Kerr-Jackson,C,NET30
+CUST-01426,"Walton, Davenport and Rodriguez",B,NET30
+CUST-01427,Chaney and Sons,C,NET30
+CUST-01428,"Diaz, Perez and Reynolds",B,NET45
+CUST-01429,Holland-Carroll,B,NET30
+CUST-01430,Weiss Group,C,NET60
+CUST-01431,"French, Irwin and Armstrong",A,NET30
+CUST-01432,Bray and Sons,C,NET30
+CUST-01433,Woods Group,C,NET30
+CUST-01434,Rodgers-Morrison,B,NET30
+CUST-01435,"Romero, Pearson and Barron",C,NET30
+CUST-01436,Lambert LLC,A,NET30
+CUST-01437,Hamilton Ltd,C,NET30
+CUST-01438,"Burns, Munoz and Shepard",C,NET30
+CUST-01439,Allen-Garrison,B,NET45
+CUST-01440,Johnson-Lester,A,NET60
+CUST-01441,"Gonzalez, Welch and Wood",C,NET60
+CUST-01442,"Mccarthy, Scott and Tucker",B,NET30
+CUST-01443,Porter-Smith,A,NET45
+CUST-01444,Hardy-Simmons,B,NET30
+CUST-01445,White LLC,A,NET45
+CUST-01446,"Ortiz, Mckee and Johnson",C,NET60
+CUST-01447,Hernandez-Melton,A,NET30
+CUST-01448,Owens Group,A,NET30
+CUST-01449,Townsend-Powell,C,NET30
+CUST-01450,Garcia LLC,B,NET30
+CUST-01451,Green-Smith,C,NET45
+CUST-01452,Mccoy Group,B,NET45
+CUST-01453,Kent-Cain,A,NET30
+CUST-01454,"Jimenez, Navarro and Mccarthy",A,NET45
+CUST-01455,Austin-Allen,A,NET30
+CUST-01456,"Fischer, Brooks and Miller",C,NET30
+CUST-01457,Byrd and Sons,C,NET30
+CUST-01458,Beck Group,C,NET30
+CUST-01459,Cooper LLC,C,NET30
+CUST-01460,"Turner, Andrews and Kline",A,NET30
+CUST-01461,"James, Cordova and Weaver",C,NET30
+CUST-01462,Ortiz-Paul,C,NET45
+CUST-01463,Andrade and Sons,C,NET60
+CUST-01464,Watson-Mcdowell,A,NET30
+CUST-01465,Miles-Mendez,B,NET30
+CUST-01466,Morgan-Newman,C,NET30
+CUST-01467,"King, Tucker and Moreno",C,NET30
+CUST-01468,Brooks-Romero,C,NET30
+CUST-01469,"Gray, Bautista and Garcia",C,NET30
+CUST-01470,Mcdowell-Green,B,NET30
+CUST-01471,"Daniels, Osborn and Serrano",A,NET30
+CUST-01472,"Johnson, Gomez and Malone",C,NET30
+CUST-01473,"Gomez, Mills and Cruz",B,NET30
+CUST-01474,"Brown, Garcia and Scott",A,NET30
+CUST-01475,Davenport-Ford,C,NET30
+CUST-01476,"Johnson, Guzman and Garcia",B,NET60
+CUST-01477,Mcneil-Simpson,B,NET30
+CUST-01478,Goodman-Perkins,B,NET60
+CUST-01479,Ramirez-Greene,C,NET60
+CUST-01480,"Tyler, Bryant and Thomas",A,NET60
+CUST-01481,"Daniels, Nunez and Phelps",A,NET45
+CUST-01482,Mcdonald-Gonzalez,B,NET30
+CUST-01483,Fletcher and Sons,C,NET45
+CUST-01484,Olsen Inc,B,NET30
+CUST-01485,Farley-Jenkins,C,NET60
+CUST-01486,"Campbell, Russell and Gutierrez",C,NET30
+CUST-01487,"Henry, Saunders and Johnson",C,NET30
+CUST-01488,Castaneda-Bray,A,NET30
+CUST-01489,Hall-Gonzalez,A,NET45
+CUST-01490,Hogan Inc,B,NET30
+CUST-01491,Miller Ltd,B,NET30
+CUST-01492,Rodriguez-Edwards,B,NET30
+CUST-01493,Harris Group,A,NET30
+CUST-01494,White and Sons,C,NET30
+CUST-01495,Morris-Holder,B,NET45
+CUST-01496,Cunningham-Scott,A,NET45
+CUST-01497,"Torres, Gutierrez and Johnson",A,NET45
+CUST-01498,"Phillips, Walker and Dougherty",C,NET60
+CUST-01499,Green Inc,C,NET30
+CUST-01500,"Brown, Salinas and Guzman",B,NET30
+CUST-01501,Mata-Bennett,C,NET30
+CUST-01502,Hernandez Group,C,NET30
+CUST-01503,"Carter, Smith and Garcia",C,NET30
+CUST-01504,"Baldwin, Gonzalez and Cross",B,NET30
+CUST-01505,"Compton, Hunter and Arnold",C,NET60
+CUST-01506,Hensley-Garcia,B,NET30
+CUST-01507,"Davila, Patterson and Navarro",C,NET45
+CUST-01508,Hunter-Smith,C,NET30
+CUST-01509,Flores Inc,B,NET30
+CUST-01510,Matthews-Payne,C,NET30
+CUST-01511,Lewis-Moore,A,NET30
+CUST-01512,Hale PLC,C,NET30
+CUST-01513,Phillips PLC,A,NET45
+CUST-01514,Smith-Harris,C,NET30
+CUST-01515,"Cummings, Hernandez and Hayes",A,NET45
+CUST-01516,Torres-Morton,C,NET30
+CUST-01517,Thomas-Guzman,B,NET30
+CUST-01518,"Baker, Johnson and Davidson",B,NET60
+CUST-01519,Valentine-Hanson,A,NET30
+CUST-01520,"Mcbride, Johnson and Watts",C,NET30
+CUST-01521,"Jones, Holland and Jones",C,NET30
+CUST-01522,Hawkins-Thomas,C,NET45
+CUST-01523,Williams-Oneill,C,NET30
+CUST-01524,Mcmahon Ltd,C,NET30
+CUST-01525,Solis-Frazier,B,NET30
+CUST-01526,"Dunn, Hardin and Mccullough",B,NET30
+CUST-01527,"Fields, Williams and Wolfe",C,NET30
+CUST-01528,Hernandez-Shields,A,NET45
+CUST-01529,Richardson PLC,C,NET45
+CUST-01530,"Bauer, Hobbs and Burns",B,NET30
+CUST-01531,Barrett-Mccarthy,B,NET30
+CUST-01532,"Davis, Davies and Harris",C,NET30
+CUST-01533,Smith LLC,A,NET30
+CUST-01534,"Randolph, Steele and Green",C,NET60
+CUST-01535,Summers PLC,A,NET30
+CUST-01536,"Moran, Garner and Barajas",C,NET30
+CUST-01537,"Vincent, Smith and Carlson",C,NET60
+CUST-01538,Miller Group,B,NET45
+CUST-01539,Brooks LLC,B,NET30
+CUST-01540,Garcia-Rogers,C,NET45
+CUST-01541,Burns Ltd,C,NET30
+CUST-01542,Richardson-Evans,B,NET30
+CUST-01543,"Cook, Gonzalez and Morgan",A,NET30
+CUST-01544,Burton-Duffy,A,NET30
+CUST-01545,"Davila, Day and Martin",B,NET45
+CUST-01546,Grant PLC,C,NET30
+CUST-01547,Bowen and Sons,C,NET30
+CUST-01548,Berry-Powell,A,NET45
+CUST-01549,Smith-Tyler,C,NET45
+CUST-01550,Pitts-Wilson,C,NET30
+CUST-01551,"Benson, Hunter and Allen",A,NET45
+CUST-01552,"Rose, Lane and Moody",C,NET30
+CUST-01553,Rivers and Sons,B,NET30
+CUST-01554,Hartman Ltd,C,NET30
+CUST-01555,"Kelly, Johnson and Allen",A,NET30
+CUST-01556,Martin-Clark,C,NET30
+CUST-01557,"Nelson, West and Pollard",B,NET60
+CUST-01558,"Horn, Evans and Rhodes",A,NET30
+CUST-01559,"Beltran, Boyer and Sullivan",C,NET30
+CUST-01560,"Martinez, Gaines and Barnes",B,NET30
+CUST-01561,Rogers Inc,B,NET30
+CUST-01562,Nelson-Hernandez,C,NET30
+CUST-01563,"Harper, Walters and May",C,NET30
+CUST-01564,Gibson-Simon,A,NET30
+CUST-01565,"Allen, Hale and Lopez",A,NET30
+CUST-01566,Arroyo-Casey,B,NET30
+CUST-01567,Zamora-Castillo,B,NET45
+CUST-01568,Taylor Inc,A,NET30
+CUST-01569,"Holmes, Fitzgerald and Randall",C,NET30
+CUST-01570,"Brown, Smith and Smith",B,NET30
+CUST-01571,"Murray, Johnson and Henderson",B,NET30
+CUST-01572,Jackson-Black,B,NET30
+CUST-01573,Carlson-Hopkins,C,NET30
+CUST-01574,"Beck, Saunders and Nash",B,NET30
+CUST-01575,Ball-White,B,NET30
+CUST-01576,Harris LLC,C,NET30
+CUST-01577,Salinas PLC,B,NET60
+CUST-01578,Jones and Sons,C,NET30
+CUST-01579,"Gillespie, Hunt and Taylor",C,NET30
+CUST-01580,"Harrell, Schmidt and Kelley",C,NET30
+CUST-01581,Jenkins-Cox,B,NET30
+CUST-01582,Ayers-Gallagher,C,NET30
+CUST-01583,Peters-Green,C,NET30
+CUST-01584,Vargas Group,B,NET30
+CUST-01585,Mann-Stanley,C,NET30
+CUST-01586,Foster-Duke,B,NET45
+CUST-01587,"Wolf, Michael and Douglas",B,NET30
+CUST-01588,Combs Inc,C,NET30
+CUST-01589,"Davis, Hendricks and Miller",C,NET45
+CUST-01590,"Herring, Alvarez and Morgan",C,NET45
+CUST-01591,Terry-Jackson,C,NET30
+CUST-01592,Brown-Lucas,C,NET30
+CUST-01593,"Thompson, Robinson and Carr",B,NET45
+CUST-01594,Horn Group,B,NET30
+CUST-01595,Roberts Group,B,NET30
+CUST-01596,Cooper-Smith,C,NET30
+CUST-01597,Humphrey Group,A,NET45
+CUST-01598,Foster-Murray,C,NET30
+CUST-01599,Brown-Lloyd,C,NET30
+CUST-01600,"Moran, Tucker and Simpson",B,NET45
+CUST-01601,Joseph Group,C,NET30
+CUST-01602,"Sanders, Fernandez and Stanley",C,NET30
+CUST-01603,"Ray, Moore and Garcia",C,NET60
+CUST-01604,"Gross, Moore and Lopez",A,NET30
+CUST-01605,Salazar and Sons,A,NET30
+CUST-01606,Scott and Sons,B,NET30
+CUST-01607,Garcia PLC,A,NET30
+CUST-01608,"Hill, Sosa and Burns",B,NET45
+CUST-01609,"Romero, Weber and Berg",C,NET30
+CUST-01610,Lopez-Dillon,B,NET30
+CUST-01611,Baker and Sons,C,NET30
+CUST-01612,"Chandler, Chapman and Shepard",A,NET30
+CUST-01613,Jacobs-Reyes,B,NET30
+CUST-01614,Padilla Ltd,C,NET30
+CUST-01615,"Collins, Wade and Francis",C,NET30
+CUST-01616,Mclaughlin Inc,C,NET30
+CUST-01617,"Snyder, Lane and Roman",C,NET45
+CUST-01618,"Perry, Farley and Gomez",A,NET30
+CUST-01619,Daniels LLC,C,NET60
+CUST-01620,Thomas-Ray,C,NET30
+CUST-01621,Mendoza LLC,C,NET30
+CUST-01622,Watson-Buchanan,C,NET30
+CUST-01623,Torres-Turner,C,NET30
+CUST-01624,Bell Group,B,NET45
+CUST-01625,"Shaw, Brown and Smith",C,NET30
+CUST-01626,Burns and Sons,C,NET60
+CUST-01627,"Holland, Jones and James",A,NET45
+CUST-01628,"Smith, Scott and Holmes",A,NET30
+CUST-01629,Benton Ltd,C,NET30
+CUST-01630,"Moyer, Anderson and Hodges",B,NET30
+CUST-01631,Sanchez-Kerr,C,NET30
+CUST-01632,Curtis-Smith,B,NET30
+CUST-01633,Miller Ltd,C,NET45
+CUST-01634,Price-Burke,C,NET30
+CUST-01635,Bell-Gould,B,NET45
+CUST-01636,Leonard-Hudson,C,NET60
+CUST-01637,Cole Ltd,C,NET30
+CUST-01638,Miller-Gonzales,A,NET30
+CUST-01639,Watkins-Kelley,C,NET30
+CUST-01640,Morgan-Watson,B,NET30
+CUST-01641,White Ltd,B,NET30
+CUST-01642,"Mclaughlin, Ryan and Jones",A,NET45
+CUST-01643,"Hoffman, Johnson and Avila",C,NET45
+CUST-01644,Oliver PLC,A,NET45
+CUST-01645,Griffin-Moore,C,NET45
+CUST-01646,Rodriguez-Farmer,B,NET60
+CUST-01647,Foster-Matthews,A,NET30
+CUST-01648,"Grimes, Tucker and Atkins",C,NET30
+CUST-01649,"Clayton, Brown and Savage",B,NET30
+CUST-01650,"Short, Rojas and Mayo",B,NET45
+CUST-01651,Walker-Moore,C,NET30
+CUST-01652,"Morris, Smith and Alvarado",C,NET60
+CUST-01653,Savage-Graham,B,NET45
+CUST-01654,Lee LLC,B,NET30
+CUST-01655,"Brown, Bryant and Stone",B,NET30
+CUST-01656,Porter-Walker,A,NET30
+CUST-01657,Campbell Inc,A,NET30
+CUST-01658,"Hill, Hill and Barnes",C,NET45
+CUST-01659,Henry-Anderson,A,NET60
+CUST-01660,Ramos Group,B,NET30
+CUST-01661,Cook PLC,A,NET45
+CUST-01662,Collins Group,C,NET30
+CUST-01663,"Terry, Wilkins and Reid",C,NET60
+CUST-01664,Morrison and Sons,A,NET30
+CUST-01665,Wheeler PLC,A,NET60
+CUST-01666,Young-Ford,C,NET45
+CUST-01667,Washington-Allen,B,NET30
+CUST-01668,Smith Inc,C,NET45
+CUST-01669,Green Inc,A,NET30
+CUST-01670,Johnson-Lopez,C,NET60
+CUST-01671,Mendoza Inc,C,NET30
+CUST-01672,Hall LLC,B,NET30
+CUST-01673,Sanders-Jones,A,NET30
+CUST-01674,Ross LLC,C,NET45
+CUST-01675,Smith-Kim,B,NET30
+CUST-01676,Pena-Wells,C,NET30
+CUST-01677,Morgan LLC,A,NET60
+CUST-01678,"Blair, Walker and Palmer",C,NET30
+CUST-01679,"Stein, White and Johnson",B,NET30
+CUST-01680,Small LLC,B,NET30
+CUST-01681,Burns-Floyd,B,NET30
+CUST-01682,Hall-Jefferson,C,NET30
+CUST-01683,"Hines, Contreras and Hill",A,NET30
+CUST-01684,Bryant Group,B,NET30
+CUST-01685,"Lawson, Ward and Oliver",C,NET60
+CUST-01686,"Torres, Herring and Watson",C,NET45
+CUST-01687,Thompson-Hubbard,C,NET30
+CUST-01688,Castillo-Michael,B,NET60
+CUST-01689,George LLC,A,NET30
+CUST-01690,Williams-Cook,A,NET30
+CUST-01691,"Smith, Ellis and Hubbard",C,NET30
+CUST-01692,Greene PLC,A,NET30
+CUST-01693,"Butler, Dickson and White",B,NET60
+CUST-01694,"Rivera, Jones and White",C,NET30
+CUST-01695,Hernandez and Sons,C,NET30
+CUST-01696,Morris Ltd,A,NET30
+CUST-01697,Fields Ltd,A,NET30
+CUST-01698,Dickerson-Fuller,C,NET45
+CUST-01699,Knox Inc,C,NET30
+CUST-01700,Schultz-Burton,C,NET30
+CUST-01701,Collins and Sons,C,NET30
+CUST-01702,"Clarke, Blanchard and Travis",A,NET30
+CUST-01703,York and Sons,C,NET30
+CUST-01704,Skinner-Brown,A,NET30
+CUST-01705,Marshall and Sons,B,NET30
+CUST-01706,Proctor Ltd,A,NET30
+CUST-01707,"Watts, Mullen and Bennett",B,NET30
+CUST-01708,Cummings-Guzman,C,NET30
+CUST-01709,"Hickman, Sanchez and Lewis",B,NET30
+CUST-01710,"Goodman, Stanley and Livingston",C,NET30
+CUST-01711,"Barnes, Williamson and Lewis",B,NET45
+CUST-01712,Velez-Grimes,B,NET30
+CUST-01713,"Grant, Martinez and Villarreal",C,NET45
+CUST-01714,Myers-Skinner,A,NET30
+CUST-01715,Jones-Moore,C,NET30
+CUST-01716,Ramos-Bowen,A,NET30
+CUST-01717,Wallace Ltd,C,NET60
+CUST-01718,Jordan-Montoya,C,NET30
+CUST-01719,"Carlson, Sanchez and Schroeder",A,NET30
+CUST-01720,Bell PLC,A,NET30
+CUST-01721,Rocha PLC,B,NET30
+CUST-01722,Cortez LLC,C,NET30
+CUST-01723,Wolfe-Hale,C,NET30
+CUST-01724,"Bryant, Johnson and Jones",A,NET45
+CUST-01725,Smith-House,C,NET30
+CUST-01726,Ruiz-Wood,A,NET30
+CUST-01727,Jones-Jones,B,NET60
+CUST-01728,Simmons-Davis,B,NET30
+CUST-01729,"Davis, Shaffer and Stephens",C,NET30
+CUST-01730,Sellers-Boyd,C,NET30
+CUST-01731,"Rowe, Lewis and Harris",C,NET30
+CUST-01732,"Smith, Sanders and Graham",A,NET30
+CUST-01733,Spencer-Arroyo,C,NET30
+CUST-01734,Hall-Shields,C,NET30
+CUST-01735,"Wilson, Green and Andersen",B,NET30
+CUST-01736,"Hogan, Buckley and Murphy",B,NET30
+CUST-01737,"Peterson, Hunter and Quinn",C,NET30
+CUST-01738,Chavez LLC,A,NET30
+CUST-01739,"Valenzuela, Robinson and Jimenez",B,NET30
+CUST-01740,Stanley-Wagner,C,NET30
+CUST-01741,"Lowe, Hernandez and Gomez",C,NET30
+CUST-01742,Huang-Miller,A,NET30
+CUST-01743,Cooley Inc,C,NET30
+CUST-01744,Robinson-Lawson,B,NET30
+CUST-01745,"Roth, Li and Rodriguez",C,NET30
+CUST-01746,"Hawkins, Morton and Scott",A,NET45
+CUST-01747,Brown-Wagner,B,NET30
+CUST-01748,Chavez-Parsons,C,NET30
+CUST-01749,"Butler, Jenkins and Hamilton",B,NET30
+CUST-01750,Reese Inc,B,NET30
+CUST-01751,Johnson PLC,A,NET60
+CUST-01752,Carroll LLC,B,NET45
+CUST-01753,"Dodson, Wilkerson and Morris",B,NET30
+CUST-01754,"Moreno, Heath and King",C,NET30
+CUST-01755,Beck LLC,B,NET30
+CUST-01756,Jones Ltd,C,NET30
+CUST-01757,Rojas Group,C,NET30
+CUST-01758,Singleton-Duarte,C,NET30
+CUST-01759,Lee-Phillips,C,NET60
+CUST-01760,Wilkins Group,C,NET30
+CUST-01761,Sims PLC,C,NET45
+CUST-01762,Huang LLC,C,NET30
+CUST-01763,Smith-Silva,A,NET30
+CUST-01764,"Johnson, Mcdowell and Davis",C,NET30
+CUST-01765,Rodriguez-Nichols,B,NET30
+CUST-01766,Thomas LLC,A,NET30
+CUST-01767,"Montoya, Walsh and Wilson",C,NET30
+CUST-01768,"Liu, Patterson and Atkinson",C,NET30
+CUST-01769,Snyder-Adams,A,NET30
+CUST-01770,"Miller, Henry and Hall",B,NET45
+CUST-01771,Anderson Group,C,NET30
+CUST-01772,Wilson and Sons,C,NET30
+CUST-01773,"Wheeler, Moore and Smith",C,NET30
+CUST-01774,Perez LLC,B,NET45
+CUST-01775,"Wallace, Mathews and Campbell",B,NET45
+CUST-01776,Cline LLC,A,NET30
+CUST-01777,Hall Ltd,C,NET30
+CUST-01778,Hawkins-White,C,NET30
+CUST-01779,Ellis Group,B,NET45
+CUST-01780,"Sullivan, Murphy and Hardin",C,NET30
+CUST-01781,Oliver PLC,B,NET30
+CUST-01782,Black-Turner,A,NET30
+CUST-01783,Russell-Contreras,C,NET30
+CUST-01784,White-Wade,C,NET30
+CUST-01785,"Smith, Bailey and Leonard",C,NET30
+CUST-01786,Paul and Sons,B,NET30
+CUST-01787,"White, Lewis and Barrett",C,NET45
+CUST-01788,Diaz-Baldwin,C,NET30
+CUST-01789,Gibson Inc,A,NET45
+CUST-01790,"Knight, White and Bennett",C,NET30
+CUST-01791,"Weaver, Buckley and Sanchez",C,NET30
+CUST-01792,Garcia-Boyd,A,NET30
+CUST-01793,"Giles, Sullivan and Lopez",C,NET45
+CUST-01794,Keller-Dougherty,C,NET30
+CUST-01795,Price-Smith,B,NET30
+CUST-01796,Hernandez PLC,C,NET30
+CUST-01797,"Olsen, King and Gordon",C,NET45
+CUST-01798,Robertson-Freeman,A,NET30
+CUST-01799,Rodgers-James,B,NET30
+CUST-01800,Graham-Taylor,C,NET60
+CUST-01801,Rodriguez Inc,C,NET30
+CUST-01802,Smith Group,C,NET30
+CUST-01803,Miranda PLC,C,NET30
+CUST-01804,Finley Ltd,B,NET30
+CUST-01805,Johnson Inc,B,NET30
+CUST-01806,"Middleton, Bates and Jackson",B,NET30
+CUST-01807,Johnson LLC,C,NET30
+CUST-01808,Johnson-Vargas,C,NET30
+CUST-01809,Olson PLC,C,NET30
+CUST-01810,Le and Sons,B,NET30
+CUST-01811,Cunningham LLC,C,NET45
+CUST-01812,Cruz-Donovan,A,NET30
+CUST-01813,Lopez Group,A,NET30
+CUST-01814,Thomas LLC,C,NET30
+CUST-01815,Pittman Ltd,C,NET30
+CUST-01816,Little LLC,B,NET60
+CUST-01817,"Carlson, Hughes and Hayes",C,NET45
+CUST-01818,Mccoy-Rhodes,B,NET45
+CUST-01819,Watson-Russell,B,NET30
+CUST-01820,"Gill, Jackson and Ware",C,NET45
+CUST-01821,"Austin, Bates and Murray",B,NET30
+CUST-01822,Davis-Baldwin,C,NET45
+CUST-01823,"Clay, Martinez and Bush",B,NET30
+CUST-01824,Juarez Ltd,C,NET30
+CUST-01825,"Foster, Reyes and Barnes",C,NET30
+CUST-01826,Tucker-Cummings,C,NET30
+CUST-01827,Burnett Inc,B,NET45
+CUST-01828,Fuller-Schmidt,C,NET30
+CUST-01829,Lee-Rose,B,NET30
+CUST-01830,"Clarke, King and Fischer",A,NET45
+CUST-01831,Norris-Lee,A,NET30
+CUST-01832,Owen-Stone,A,NET30
+CUST-01833,Thomas and Sons,C,NET30
+CUST-01834,"Garcia, Rivera and Savage",A,NET30
+CUST-01835,"Rice, Jackson and Mcmahon",B,NET60
+CUST-01836,York Inc,B,NET30
+CUST-01837,"Carr, Thomas and Anderson",C,NET30
+CUST-01838,Padilla PLC,C,NET30
+CUST-01839,Hartman PLC,C,NET30
+CUST-01840,"Watts, Rocha and Harding",A,NET30
+CUST-01841,Patel-Martinez,C,NET30
+CUST-01842,"Hebert, Thompson and Hernandez",C,NET30
+CUST-01843,Harris PLC,C,NET30
+CUST-01844,"Santos, Edwards and Turner",B,NET30
+CUST-01845,Rodriguez-Miller,B,NET30
+CUST-01846,Miller-Jones,B,NET30
+CUST-01847,Wallace Inc,B,NET30
+CUST-01848,"Gardner, Walker and Price",B,NET30
+CUST-01849,Flores-Johnson,A,NET45
+CUST-01850,"Williams, Reynolds and Baker",C,NET30
+CUST-01851,Ballard-Thompson,B,NET30
+CUST-01852,"Boone, Blake and Barry",B,NET60
+CUST-01853,"Garner, Taylor and Cooke",C,NET60
+CUST-01854,Williams PLC,C,NET30
+CUST-01855,Johnson-Moore,C,NET45
+CUST-01856,Lane-Thomas,C,NET30
+CUST-01857,"Huerta, White and Moreno",C,NET60
+CUST-01858,Adams LLC,C,NET30
+CUST-01859,Morgan Inc,C,NET45
+CUST-01860,Franklin-Davis,B,NET30
+CUST-01861,Joseph-Elliott,C,NET30
+CUST-01862,Nelson-Brown,A,NET45
+CUST-01863,"Wilson, Boyd and Carson",C,NET30
+CUST-01864,"Perkins, Morrison and Turner",C,NET30
+CUST-01865,Keller-Terry,B,NET30
+CUST-01866,Cervantes LLC,C,NET30
+CUST-01867,Palmer LLC,C,NET45
+CUST-01868,"Black, Johnson and Phillips",C,NET30
+CUST-01869,"White, Allen and Gallagher",C,NET45
+CUST-01870,Cox-Sanchez,A,NET45
+CUST-01871,Moore-Oconnell,B,NET30
+CUST-01872,Young-Vargas,B,NET45
+CUST-01873,Schmidt Group,B,NET30
+CUST-01874,"Robinson, Wolfe and Thompson",C,NET30
+CUST-01875,"Cooper, Malone and Mitchell",B,NET60
+CUST-01876,"Hernandez, Murphy and Garcia",B,NET30
+CUST-01877,Roberts-Oneill,C,NET30
+CUST-01878,Wiley-Howard,A,NET30
+CUST-01879,Decker-Price,C,NET30
+CUST-01880,"Brewer, Alexander and Wagner",A,NET30
+CUST-01881,"Jennings, King and Lynch",C,NET60
+CUST-01882,"Williams, Taylor and Velasquez",B,NET45
+CUST-01883,"Roth, Long and Navarro",C,NET30
+CUST-01884,"Gates, Lawrence and Garcia",A,NET30
+CUST-01885,"Flores, Meyers and Norton",C,NET30
+CUST-01886,Dillon-Garcia,C,NET60
+CUST-01887,"Garcia, Walker and Maynard",C,NET30
+CUST-01888,Bell-Wang,A,NET30
+CUST-01889,Chang-Wilson,B,NET30
+CUST-01890,"Rivas, Hansen and Allen",B,NET30
+CUST-01891,Johnson-Krause,A,NET45
+CUST-01892,"Payne, Baird and Dudley",C,NET30
+CUST-01893,Duncan-Garcia,C,NET30
+CUST-01894,Gaines-Martinez,B,NET30
+CUST-01895,"Brown, Moore and Blackwell",B,NET60
+CUST-01896,"Miller, Nelson and Mata",B,NET30
+CUST-01897,Armstrong-Young,C,NET45
+CUST-01898,"Smith, Giles and Winters",C,NET60
+CUST-01899,Barrett-Glass,C,NET45
+CUST-01900,Beck and Sons,C,NET45
+CUST-01901,Peters LLC,A,NET30
+CUST-01902,Adams-Robinson,A,NET45
+CUST-01903,Valdez and Sons,B,NET30
+CUST-01904,Cooke-Mcdonald,B,NET45
+CUST-01905,"Hampton, Jones and Williams",C,NET45
+CUST-01906,Lynch-Campbell,B,NET30
+CUST-01907,Crosby Group,C,NET30
+CUST-01908,Chapman PLC,C,NET30
+CUST-01909,"Weber, Fletcher and Davis",C,NET30
+CUST-01910,Bradley and Sons,B,NET45
+CUST-01911,"Dixon, Gonzalez and Sanders",B,NET30
+CUST-01912,"Le, Casey and Sanchez",C,NET45
+CUST-01913,"Gonzalez, Young and Keller",C,NET30
+CUST-01914,Peterson-Dunlap,C,NET45
+CUST-01915,"Watkins, Mullins and Scott",C,NET60
+CUST-01916,"Holt, Smith and Boyer",A,NET30
+CUST-01917,"Stone, Conner and Shaw",C,NET30
+CUST-01918,"Rodriguez, Morris and Nash",A,NET30
+CUST-01919,"Franklin, Johnson and Hall",C,NET60
+CUST-01920,Small-Green,B,NET30
+CUST-01921,Lawson-Lucero,B,NET30
+CUST-01922,Sharp Ltd,C,NET30
+CUST-01923,Bonilla-Jackson,B,NET30
+CUST-01924,"Lopez, Carr and Brady",C,NET30
+CUST-01925,"Thompson, Moran and Molina",A,NET30
+CUST-01926,Rios and Sons,A,NET30
+CUST-01927,"Wu, Paul and Parker",B,NET45
+CUST-01928,Coleman Inc,C,NET45
+CUST-01929,Jones-Garcia,B,NET30
+CUST-01930,Scott-Miller,B,NET30
+CUST-01931,Luna Group,C,NET30
+CUST-01932,"Le, Wade and Copeland",C,NET30
+CUST-01933,Espinoza Ltd,A,NET30
+CUST-01934,Henry-Johnson,C,NET45
+CUST-01935,Smith Inc,B,NET45
+CUST-01936,"Reed, Davis and Gutierrez",C,NET30
+CUST-01937,"Mitchell, Riley and Coleman",B,NET30
+CUST-01938,"Fletcher, Medina and Guerra",B,NET30
+CUST-01939,Fuller-Barajas,A,NET30
+CUST-01940,Buckley-Weaver,C,NET30
+CUST-01941,Weaver and Sons,B,NET45
+CUST-01942,Chavez-Arnold,C,NET60
+CUST-01943,Mclaughlin-Rogers,C,NET30
+CUST-01944,Parker and Sons,C,NET30
+CUST-01945,Wells-Harrison,C,NET45
+CUST-01946,Frank Ltd,A,NET30
+CUST-01947,Durham Inc,A,NET30
+CUST-01948,Hudson-Oconnor,C,NET30
+CUST-01949,"Johnson, Martin and Martin",A,NET30
+CUST-01950,Simpson Ltd,C,NET30
+CUST-01951,"Cooper, Hopkins and Garcia",C,NET30
+CUST-01952,Miller Group,C,NET30
+CUST-01953,Kramer LLC,B,NET30
+CUST-01954,"Garza, Thompson and Brown",C,NET30
+CUST-01955,Hawkins-Craig,A,NET30
+CUST-01956,Clark Inc,B,NET30
+CUST-01957,Brown-Ward,A,NET45
+CUST-01958,"Rojas, Owens and Morton",C,NET30
+CUST-01959,Hall-Shaw,C,NET30
+CUST-01960,Roberts-Robinson,C,NET30
+CUST-01961,"Cordova, Day and Montgomery",C,NET30
+CUST-01962,"Nelson, Williams and Spencer",C,NET30
+CUST-01963,"Jones, Roberts and Johnson",A,NET30
+CUST-01964,Murray-Gill,B,NET60
+CUST-01965,"Green, Manning and Olson",C,NET60
+CUST-01966,"Anderson, White and Cisneros",C,NET30
+CUST-01967,Logan-Strickland,A,NET45
+CUST-01968,"Ellison, Aguilar and Hernandez",B,NET30
+CUST-01969,Brennan-Castro,B,NET45
+CUST-01970,Vaughan and Sons,B,NET60
+CUST-01971,"Nguyen, Harding and Phillips",A,NET30
+CUST-01972,"Jones, Khan and Gregory",B,NET30
+CUST-01973,Lee and Sons,C,NET45
+CUST-01974,Moreno LLC,B,NET60
+CUST-01975,Hensley LLC,A,NET30
+CUST-01976,Washington-Peterson,C,NET30
+CUST-01977,Lopez-Flores,B,NET30
+CUST-01978,Rose-Stephens,C,NET30
+CUST-01979,Schaefer Group,C,NET30
+CUST-01980,Walsh Ltd,C,NET30
+CUST-01981,"Hansen, Ochoa and Marshall",C,NET60
+CUST-01982,"Sullivan, Green and Lane",A,NET30
+CUST-01983,Lee-Bishop,C,NET30
+CUST-01984,Reyes-Howard,C,NET30
+CUST-01985,"Sanchez, Clark and Day",C,NET30
+CUST-01986,"Camacho, Reeves and Hill",B,NET30
+CUST-01987,Snow Group,C,NET45
+CUST-01988,Mitchell Inc,C,NET30
+CUST-01989,Hobbs Group,C,NET30
+CUST-01990,Jensen-Diaz,B,NET45
+CUST-01991,"Horn, Taylor and Shaw",C,NET60
+CUST-01992,Rogers PLC,B,NET30
+CUST-01993,"Cantrell, Mullins and Duran",C,NET45
+CUST-01994,Decker Ltd,C,NET30
+CUST-01995,Williams-Davis,B,NET30
+CUST-01996,Walker and Sons,A,NET60
+CUST-01997,Schwartz-Harris,C,NET60
+CUST-01998,Webb Inc,C,NET45
+CUST-01999,Smith LLC,C,NET45
+CUST-02000,Monroe Ltd,B,NET30
+CUST-02001,Alvarez Group,A,NET60
+CUST-02002,"Brown, Kelly and Wall",C,NET60
+CUST-02003,Bryant-Anderson,C,NET30
+CUST-02004,Calderon-Bennett,C,NET30
+CUST-02005,Simpson PLC,A,NET30
+CUST-02006,Ramirez-Hernandez,A,NET30
+CUST-02007,Ruiz and Sons,C,NET60
+CUST-02008,Adams LLC,A,NET30
+CUST-02009,Levine Ltd,C,NET30
+CUST-02010,Martin and Sons,C,NET30
+CUST-02011,Hammond-Thomas,C,NET30
+CUST-02012,Park Ltd,B,NET30
+CUST-02013,Chen-Dorsey,B,NET30
+CUST-02014,Wilson Ltd,C,NET30
+CUST-02015,Morgan-Turner,C,NET45
+CUST-02016,Martin Ltd,A,NET60
+CUST-02017,Reilly-Fuentes,B,NET30
+CUST-02018,"Tyler, Potts and Lopez",B,NET30
+CUST-02019,"Martinez, Lopez and Miller",C,NET45
+CUST-02020,Young Inc,B,NET45
+CUST-02021,"Peters, Ruiz and Bates",C,NET30
+CUST-02022,Reynolds Ltd,B,NET45
+CUST-02023,Russell PLC,A,NET30
+CUST-02024,"Soto, Payne and Davis",C,NET45
+CUST-02025,"Martin, Coleman and Mitchell",B,NET30
+CUST-02026,Davis Inc,C,NET30
+CUST-02027,"Hill, Perkins and Kirk",C,NET45
+CUST-02028,Kirby Inc,A,NET30
+CUST-02029,Arroyo Group,A,NET30
+CUST-02030,Ruiz-Terry,B,NET30
+CUST-02031,King-Chan,B,NET30
+CUST-02032,"Johnson, Smith and Mcknight",C,NET30
+CUST-02033,Rosario Ltd,C,NET45
+CUST-02034,Jackson PLC,C,NET60
+CUST-02035,Murphy-Foster,C,NET30
+CUST-02036,Green PLC,B,NET30
+CUST-02037,"Bowman, Hill and Martin",C,NET30
+CUST-02038,Walker-Garcia,C,NET30
+CUST-02039,Johnson-Wilson,C,NET30
+CUST-02040,Walls-Gallegos,B,NET30
+CUST-02041,Stephens-Foley,C,NET30
+CUST-02042,Peterson-Ramirez,B,NET45
+CUST-02043,"Morgan, Hale and Taylor",C,NET45
+CUST-02044,Hernandez Group,C,NET45
+CUST-02045,"Lopez, Schmidt and Ingram",B,NET30
+CUST-02046,"Jarvis, Bauer and Alvarez",C,NET60
+CUST-02047,Hoffman Ltd,B,NET30
+CUST-02048,Osborne Group,C,NET45
+CUST-02049,"Morris, Fleming and Mckinney",B,NET45
+CUST-02050,Sutton LLC,C,NET30
+CUST-02051,"Oneal, Tapia and Hardy",C,NET30
+CUST-02052,Perez Group,C,NET30
+CUST-02053,Foster Group,B,NET30
+CUST-02054,Clark PLC,C,NET30
+CUST-02055,Andrews-Murphy,B,NET30
+CUST-02056,Watson PLC,A,NET30
+CUST-02057,Howell-Santos,C,NET30
+CUST-02058,Myers and Sons,C,NET30
+CUST-02059,"Fisher, Maldonado and Rios",C,NET30
+CUST-02060,"Holmes, Anderson and Fox",C,NET30
+CUST-02061,Farley-Sanders,B,NET30
+CUST-02062,Chambers-Wilkins,C,NET30
+CUST-02063,Ritter LLC,C,NET30
+CUST-02064,Pierce PLC,C,NET30
+CUST-02065,Snyder-Cook,C,NET45
+CUST-02066,Brooks Ltd,B,NET30
+CUST-02067,Johnson and Sons,A,NET60
+CUST-02068,"Johnson, Flores and Carr",B,NET30
+CUST-02069,Owens LLC,B,NET45
+CUST-02070,Jackson-Fields,B,NET60
+CUST-02071,"Fernandez, Phillips and Patel",B,NET45
+CUST-02072,Mathis Inc,C,NET30
+CUST-02073,Walters-Miller,B,NET30
+CUST-02074,Gibson-Frazier,B,NET30
+CUST-02075,"Ortiz, Davis and Perez",A,NET30
+CUST-02076,Schmidt Group,C,NET30
+CUST-02077,Owens Ltd,C,NET30
+CUST-02078,Clark and Sons,C,NET30
+CUST-02079,"Carroll, Gallagher and Lopez",B,NET60
+CUST-02080,Thomas-Wilson,A,NET45
+CUST-02081,Pearson Inc,B,NET30
+CUST-02082,"Waters, Alvarez and Bell",C,NET30
+CUST-02083,"Sanchez, Ryan and Norris",A,NET30
+CUST-02084,"Whitney, Wiggins and Erickson",C,NET30
+CUST-02085,Thompson Group,C,NET60
+CUST-02086,Ballard-Austin,C,NET30
+CUST-02087,Livingston PLC,C,NET45
+CUST-02088,Marshall Group,A,NET30
+CUST-02089,Aguilar Inc,C,NET30
+CUST-02090,"Anderson, Bennett and Roberson",C,NET45
+CUST-02091,Wolfe-Mendoza,C,NET30
+CUST-02092,Howard LLC,C,NET60
+CUST-02093,Johnson-Watson,A,NET30
+CUST-02094,"Burton, Atkinson and Rios",C,NET30
+CUST-02095,Chaney and Sons,B,NET30
+CUST-02096,Miller-Neal,C,NET30
+CUST-02097,"Cochran, Newman and Reyes",C,NET30
+CUST-02098,"Leon, Cervantes and Griffith",A,NET30
+CUST-02099,"Lewis, Gray and Bradley",C,NET30
+CUST-02100,Mcdonald Ltd,C,NET30
+CUST-02101,Simpson LLC,C,NET45
+CUST-02102,Lee-Coleman,A,NET30
+CUST-02103,Perry Ltd,B,NET30
+CUST-02104,"Parker, Anderson and Brown",A,NET30
+CUST-02105,Hamilton Group,C,NET30
+CUST-02106,Schwartz-Walker,C,NET45
+CUST-02107,Sanders-Woodard,B,NET30
+CUST-02108,Martinez Ltd,C,NET30
+CUST-02109,Mccullough LLC,B,NET30
+CUST-02110,"King, Lopez and Frazier",C,NET30
+CUST-02111,Ford-Bryant,B,NET30
+CUST-02112,Woods Group,A,NET30
+CUST-02113,Cunningham and Sons,B,NET30
+CUST-02114,Jones Inc,B,NET30
+CUST-02115,Williams Group,B,NET30
+CUST-02116,Jackson-Smith,A,NET30
+CUST-02117,"Robinson, Caldwell and Aguirre",A,NET30
+CUST-02118,Davis-Smith,B,NET45
+CUST-02119,"Robinson, Jackson and Jacobson",A,NET60
+CUST-02120,"Richardson, Allen and Williams",C,NET60
+CUST-02121,"Morton, Martin and Lin",C,NET45
+CUST-02122,Moss PLC,B,NET30
+CUST-02123,Clark-Murphy,B,NET45
+CUST-02124,Richard Ltd,B,NET30
+CUST-02125,Murphy-Ellison,A,NET45
+CUST-02126,"Phelps, Harrison and Munoz",C,NET30
+CUST-02127,Reid-Fuentes,B,NET30
+CUST-02128,Medina Ltd,B,NET45
+CUST-02129,"Burns, Morrison and Lee",A,NET45
+CUST-02130,Hunt and Sons,C,NET30
+CUST-02131,"Johnson, Davis and Melendez",B,NET30
+CUST-02132,"Reeves, Flowers and Doyle",B,NET30
+CUST-02133,Torres Inc,A,NET45
+CUST-02134,Franklin Inc,B,NET30
+CUST-02135,Marsh PLC,C,NET45
+CUST-02136,Bell Ltd,A,NET60
+CUST-02137,Carson-Howard,A,NET30
+CUST-02138,"Wallace, Klein and Brewer",B,NET30
+CUST-02139,Murray Group,A,NET30
+CUST-02140,Callahan PLC,C,NET30
+CUST-02141,Rich-Gregory,C,NET30
+CUST-02142,Watkins-Jones,C,NET30
+CUST-02143,"Nguyen, French and Gibson",C,NET45
+CUST-02144,Garcia LLC,C,NET60
+CUST-02145,Jenkins-Ford,B,NET30
+CUST-02146,Gonzales-Macdonald,C,NET30
+CUST-02147,Williams LLC,C,NET45
+CUST-02148,Wilson LLC,C,NET60
+CUST-02149,Peterson Inc,C,NET30
+CUST-02150,Morgan-Garza,C,NET30
+CUST-02151,Lopez Group,C,NET30
+CUST-02152,Wells-Archer,B,NET30
+CUST-02153,Snyder and Sons,A,NET30
+CUST-02154,Day PLC,C,NET30
+CUST-02155,"Mendoza, Owen and Thompson",C,NET30
+CUST-02156,"Davis, Greene and Hernandez",B,NET30
+CUST-02157,"Davenport, Rios and Smith",B,NET45
+CUST-02158,"Baker, Boyd and Levy",C,NET45
+CUST-02159,"Myers, Hughes and Andrade",C,NET30
+CUST-02160,Pearson Inc,B,NET30
+CUST-02161,"Manning, Scott and Taylor",B,NET30
+CUST-02162,"Anthony, Brown and Bean",B,NET30
+CUST-02163,Parks LLC,C,NET30
+CUST-02164,Mejia-Richardson,C,NET30
+CUST-02165,"Hess, Harris and Love",C,NET30
+CUST-02166,Robinson-Reynolds,B,NET30
+CUST-02167,"Schroeder, Jones and Phillips",C,NET30
+CUST-02168,Ruiz-Evans,C,NET60
+CUST-02169,Hill-Miller,C,NET30
+CUST-02170,Hunter-Jones,C,NET45
+CUST-02171,"Clark, Smith and Garcia",B,NET30
+CUST-02172,Hale-Gould,A,NET30
+CUST-02173,"Leblanc, Williams and Wheeler",B,NET60
+CUST-02174,"Weaver, Heath and Duran",B,NET30
+CUST-02175,"Rivers, Cooper and Robinson",B,NET30
+CUST-02176,Wallace Ltd,A,NET30
+CUST-02177,Thomas-Green,C,NET30
+CUST-02178,"Brown, Peck and Ford",C,NET30
+CUST-02179,Hall Ltd,A,NET45
+CUST-02180,Terry Group,A,NET30
+CUST-02181,Bennett Inc,C,NET45
+CUST-02182,Marquez-Navarro,C,NET30
+CUST-02183,Phillips-Boone,B,NET30
+CUST-02184,Long-Henderson,C,NET30
+CUST-02185,Smith-Davis,C,NET30
+CUST-02186,Ramos-Holmes,C,NET30
+CUST-02187,Smith Inc,B,NET30
+CUST-02188,"Flores, Rodriguez and Owens",B,NET30
+CUST-02189,Porter-Martin,C,NET30
+CUST-02190,"Mason, Palmer and Buckley",C,NET45
+CUST-02191,Cantrell-Erickson,C,NET30
+CUST-02192,"Combs, Young and Sanders",B,NET30
+CUST-02193,"Bruce, Benson and Jones",B,NET45
+CUST-02194,"Meza, Munoz and Smith",C,NET30
+CUST-02195,"Simon, Hamilton and Johnson",C,NET45
+CUST-02196,Bates and Sons,C,NET30
+CUST-02197,Matthews LLC,B,NET30
+CUST-02198,Mejia-Brown,C,NET30
+CUST-02199,"Owens, Cruz and Sanchez",C,NET45
+CUST-02200,"Meyer, Gonzales and Miranda",B,NET30
+CUST-02201,Young-Hernandez,C,NET45
+CUST-02202,"Paul, Chase and Gaines",A,NET30
+CUST-02203,Clark PLC,C,NET30
+CUST-02204,"Santiago, Best and Turner",C,NET30
+CUST-02205,Porter and Sons,B,NET30
+CUST-02206,"Beck, Jenkins and Johnson",C,NET30
+CUST-02207,"Miller, Dickerson and Gonzalez",B,NET30
+CUST-02208,Anderson LLC,C,NET30
+CUST-02209,"Williams, Carter and Salas",C,NET30
+CUST-02210,Taylor and Sons,A,NET45
+CUST-02211,Garcia-Nelson,C,NET30
+CUST-02212,Hill-Mccall,A,NET30
+CUST-02213,Knight-Cooper,A,NET45
+CUST-02214,"Lara, Beasley and Miller",C,NET30
+CUST-02215,Dean and Sons,C,NET30
+CUST-02216,Trevino-Powell,B,NET45
+CUST-02217,"Green, Waters and Rivera",B,NET30
+CUST-02218,"Elliott, Curtis and Lucas",C,NET30
+CUST-02219,Cobb Group,A,NET30
+CUST-02220,Jackson Inc,C,NET30
+CUST-02221,Simmons LLC,C,NET60
+CUST-02222,"Parker, Liu and Fitzgerald",C,NET30
+CUST-02223,"Smith, Miller and Mitchell",C,NET30
+CUST-02224,Robbins-Anderson,A,NET30
+CUST-02225,"Jones, Green and Abbott",A,NET60
+CUST-02226,Gutierrez Ltd,A,NET60
+CUST-02227,Morse LLC,C,NET30
+CUST-02228,Davidson Ltd,B,NET30
+CUST-02229,Mcguire LLC,C,NET45
+CUST-02230,Wilson PLC,A,NET30
+CUST-02231,Hatfield Ltd,C,NET45
+CUST-02232,"Ellis, Terry and Martin",B,NET30
+CUST-02233,"Nunez, Allen and Price",C,NET30
+CUST-02234,Woods LLC,C,NET30
+CUST-02235,"Smith, Smith and Lee",B,NET30
+CUST-02236,"Anderson, Boyd and Jones",C,NET45
+CUST-02237,Reese Group,B,NET30
+CUST-02238,Green-Parker,C,NET45
+CUST-02239,Hartman-Dean,B,NET30
+CUST-02240,Vasquez-Gates,A,NET60
+CUST-02241,"Martinez, Campbell and Andrews",A,NET30
+CUST-02242,Carter-Richardson,C,NET30
+CUST-02243,Davila LLC,B,NET60
+CUST-02244,Woodward and Sons,A,NET30
+CUST-02245,Waller-Barrett,B,NET30
+CUST-02246,"Proctor, Wilson and Washington",B,NET30
+CUST-02247,Jones-Black,C,NET30
+CUST-02248,Pittman-Tran,A,NET30
+CUST-02249,"Meyers, Murray and Young",C,NET45
+CUST-02250,Fernandez-Meyer,C,NET45
+CUST-02251,Case Ltd,B,NET30
+CUST-02252,Trevino LLC,C,NET30
+CUST-02253,Scott and Sons,C,NET30
+CUST-02254,Pruitt-Robinson,B,NET30
+CUST-02255,"Hoover, George and Williams",C,NET30
+CUST-02256,"Jones, Schultz and Harvey",B,NET30
+CUST-02257,Gibbs-Beasley,B,NET45
+CUST-02258,"Andrews, Scott and Coleman",B,NET30
+CUST-02259,"Roberts, Hayes and Ellis",B,NET30
+CUST-02260,"Walters, Sanchez and Perez",C,NET30
+CUST-02261,Myers-Collins,C,NET45
+CUST-02262,"Miller, Church and Torres",B,NET30
+CUST-02263,Carter-Chen,A,NET30
+CUST-02264,"Clark, Patrick and Martinez",B,NET45
+CUST-02265,Holmes-Taylor,C,NET30
+CUST-02266,Barnes Group,C,NET30
+CUST-02267,Neal-Valenzuela,A,NET45
+CUST-02268,Howard Ltd,C,NET45
+CUST-02269,Patterson-Nguyen,C,NET30
+CUST-02270,Baker-Moore,A,NET30
+CUST-02271,"Perez, Howard and Scott",A,NET30
+CUST-02272,Gray Inc,A,NET60
+CUST-02273,Weber-Campbell,C,NET30
+CUST-02274,Young Inc,B,NET30
+CUST-02275,Keith-Vega,B,NET30
+CUST-02276,Booker LLC,C,NET30
+CUST-02277,Morgan-Martinez,A,NET30
+CUST-02278,"Gonzales, Brandt and Terry",C,NET45
+CUST-02279,Lynch PLC,B,NET30
+CUST-02280,"Anderson, Robinson and Cox",B,NET30
+CUST-02281,Brown-Blackburn,C,NET45
+CUST-02282,Gregory-Edwards,C,NET30
+CUST-02283,Schmitt-Miller,B,NET30
+CUST-02284,Peterson Group,A,NET30
+CUST-02285,"Arias, Hunt and Anderson",C,NET30
+CUST-02286,Taylor Inc,C,NET30
+CUST-02287,Knapp Group,B,NET30
+CUST-02288,Chavez-Mcgee,B,NET30
+CUST-02289,Wolf-Coleman,A,NET30
+CUST-02290,Valencia Inc,C,NET60
+CUST-02291,Bishop-Garcia,C,NET30
+CUST-02292,Bell-Clark,C,NET30
+CUST-02293,May-Moore,B,NET45
+CUST-02294,Martinez-Watkins,C,NET45
+CUST-02295,Davidson Ltd,B,NET45
+CUST-02296,"Johnson, Montgomery and Santiago",C,NET30
+CUST-02297,Edwards-Mcbride,B,NET30
+CUST-02298,Perkins Group,C,NET30
+CUST-02299,"Henderson, Lowe and Pierce",C,NET30
+CUST-02300,Weber Inc,C,NET60
+CUST-02301,Wong LLC,A,NET45
+CUST-02302,"Farmer, White and Humphrey",B,NET30
+CUST-02303,Lamb-Brown,C,NET30
+CUST-02304,"Williams, Mitchell and Jackson",A,NET30
+CUST-02305,Young-Maddox,C,NET30
+CUST-02306,"Thomas, Phillips and Taylor",C,NET60
+CUST-02307,Walters Inc,C,NET30
+CUST-02308,"Dominguez, Carter and Martinez",C,NET45
+CUST-02309,Cunningham PLC,B,NET60
+CUST-02310,Welch PLC,A,NET60
+CUST-02311,"Cantu, Walker and Young",C,NET30
+CUST-02312,"Mcbride, Carter and Snyder",A,NET30
+CUST-02313,Deleon-Vasquez,B,NET30
+CUST-02314,Torres LLC,C,NET45
+CUST-02315,Flowers LLC,C,NET30
+CUST-02316,Russell Ltd,A,NET45
+CUST-02317,Jensen-Heath,C,NET45
+CUST-02318,"Hall, Macias and Hawkins",C,NET30
+CUST-02319,"Vargas, Williams and Hicks",B,NET30
+CUST-02320,Thompson-Stewart,A,NET60
+CUST-02321,Padilla-Williams,B,NET30
+CUST-02322,Lynch Group,C,NET45
+CUST-02323,Powell-Martinez,B,NET30
+CUST-02324,"Nguyen, Moon and Baker",C,NET30
+CUST-02325,Campbell Ltd,B,NET30
+CUST-02326,Stein-Li,C,NET30
+CUST-02327,Cole Inc,B,NET45
+CUST-02328,Chandler PLC,C,NET30
+CUST-02329,"Beck, Matthews and Norman",C,NET30
+CUST-02330,Mejia-Olsen,B,NET30
+CUST-02331,"Jones, Moore and Williams",A,NET30
+CUST-02332,"Everett, Lee and Erickson",C,NET45
+CUST-02333,"Schultz, Hayes and Williams",C,NET60
+CUST-02334,Valencia and Sons,C,NET60
+CUST-02335,"Mckenzie, Thompson and Gibbs",C,NET30
+CUST-02336,Perez-Perez,A,NET45
+CUST-02337,Hernandez PLC,B,NET30
+CUST-02338,"Nichols, Smith and Rose",A,NET30
+CUST-02339,"Peters, Wells and Gill",A,NET30
+CUST-02340,Cline-Brown,C,NET30
+CUST-02341,"Middleton, Martinez and Maxwell",C,NET30
+CUST-02342,"Martin, Smith and Smith",C,NET30
+CUST-02343,Lewis-Collins,B,NET30
+CUST-02344,"Ramsey, French and Anderson",A,NET60
+CUST-02345,"Mullen, George and Stephens",C,NET30
+CUST-02346,Mitchell-Wong,C,NET30
+CUST-02347,"Villa, Munoz and Johnson",B,NET30
+CUST-02348,Jones-Lewis,A,NET30
+CUST-02349,Stewart-Joyce,B,NET45
+CUST-02350,Wilson Ltd,C,NET30
+CUST-02351,"Morris, Stone and Hunter",A,NET45
+CUST-02352,Hernandez-Wright,A,NET30
+CUST-02353,Buchanan LLC,A,NET30
+CUST-02354,"Olson, Chapman and Sullivan",C,NET30
+CUST-02355,Jackson Ltd,A,NET30
+CUST-02356,"Harris, Andrade and Singh",B,NET30
+CUST-02357,Pierce-Walker,C,NET45
+CUST-02358,"Chapman, Baker and Villa",B,NET45
+CUST-02359,Woodard and Sons,C,NET60
+CUST-02360,Brown LLC,B,NET30
+CUST-02361,"Diaz, Bell and Waters",C,NET30
+CUST-02362,Barrett-Rocha,C,NET30
+CUST-02363,Bennett-Oliver,B,NET30
+CUST-02364,"Garcia, Lucas and Miller",A,NET30
+CUST-02365,"Salazar, Hill and Hernandez",A,NET30
+CUST-02366,Kelley-Walls,C,NET30
+CUST-02367,"Johnson, Gonzalez and Ward",A,NET30
+CUST-02368,"Miller, Sanchez and Alexander",B,NET30
+CUST-02369,"Daniels, Powell and Stanley",C,NET45
+CUST-02370,Perez PLC,C,NET30
+CUST-02371,Gray-Johnson,B,NET60
+CUST-02372,"Hill, Rangel and Ingram",B,NET60
+CUST-02373,Herrera PLC,C,NET45
+CUST-02374,"Mitchell, Mills and Marshall",B,NET60
+CUST-02375,Williams PLC,C,NET30
+CUST-02376,"Davis, Adkins and Kaufman",B,NET30
+CUST-02377,Hernandez Group,C,NET30
+CUST-02378,Riley Ltd,C,NET45
+CUST-02379,Jordan Inc,A,NET45
+CUST-02380,Bond-Hale,A,NET30
+CUST-02381,Williams Inc,B,NET60
+CUST-02382,Anderson Ltd,B,NET60
+CUST-02383,Franco-Evans,C,NET30
+CUST-02384,"Guerrero, Medina and Meza",C,NET45
+CUST-02385,Jackson-Beard,C,NET30
+CUST-02386,Lawrence-Wagner,B,NET45
+CUST-02387,Hamilton-Kennedy,C,NET30
+CUST-02388,Williams and Sons,B,NET30
+CUST-02389,Wells-Palmer,A,NET60
+CUST-02390,Lopez LLC,C,NET30
+CUST-02391,"Brown, Morris and Holland",A,NET45
+CUST-02392,Tucker Inc,C,NET30
+CUST-02393,Franklin-Harmon,B,NET45
+CUST-02394,Tucker-Hull,C,NET30
+CUST-02395,"Bradley, Hood and Newman",C,NET30
+CUST-02396,Michael and Sons,C,NET45
+CUST-02397,"Juarez, Mills and Odom",A,NET45
+CUST-02398,"Carlson, Scott and Hunter",C,NET30
+CUST-02399,"Levine, Hull and Lopez",C,NET30
+CUST-02400,Leblanc LLC,C,NET30
+CUST-02401,Mendoza-Nguyen,B,NET45
+CUST-02402,Bruce-Jones,C,NET60
+CUST-02403,Brown Inc,C,NET45
+CUST-02404,Maxwell LLC,B,NET30
+CUST-02405,Holmes PLC,B,NET30
+CUST-02406,Hill Group,A,NET30
+CUST-02407,Peterson-Smith,C,NET45
+CUST-02408,Mcdaniel LLC,B,NET45
+CUST-02409,Garcia-Buchanan,C,NET30
+CUST-02410,Robinson-Wood,C,NET30
+CUST-02411,Avery-Bolton,C,NET30
+CUST-02412,Butler-Moore,C,NET30
+CUST-02413,Huffman PLC,A,NET30
+CUST-02414,Holmes-Dunn,B,NET45
+CUST-02415,"Johnson, Wilson and Glover",C,NET45
+CUST-02416,Taylor-Waters,A,NET30
+CUST-02417,Chan-Harrell,C,NET60
+CUST-02418,Roberts-Good,C,NET30
+CUST-02419,"Nguyen, Saunders and Wilson",C,NET60
+CUST-02420,"White, Snyder and Morgan",A,NET45
+CUST-02421,"Anderson, Summers and Thompson",A,NET30
+CUST-02422,"Johnson, Santos and Jordan",A,NET45
+CUST-02423,Taylor-Taylor,B,NET30
+CUST-02424,"Lewis, Farmer and Flores",B,NET45
+CUST-02425,"Nguyen, Richard and Miller",B,NET30
+CUST-02426,"Harris, Walker and Woods",A,NET30
+CUST-02427,Todd-Ortiz,A,NET30
+CUST-02428,Roach-Frank,A,NET30
+CUST-02429,"Flores, Meadows and Kent",C,NET30
+CUST-02430,"Leon, Mcclure and Sawyer",C,NET60
+CUST-02431,"Bridges, Reynolds and Washington",C,NET30
+CUST-02432,"Barrett, Wang and Mcbride",C,NET30
+CUST-02433,Butler Ltd,C,NET30
+CUST-02434,Ruiz Inc,C,NET45
+CUST-02435,"Elliott, Johnson and Lee",A,NET45
+CUST-02436,"Anderson, Freeman and Anderson",C,NET30
+CUST-02437,Aguilar-Dixon,A,NET30
+CUST-02438,"Poole, Graves and Jackson",C,NET45
+CUST-02439,Cross-Steele,C,NET60
+CUST-02440,Meadows-Hunt,C,NET45
+CUST-02441,Porter-Allen,C,NET45
+CUST-02442,"Taylor, Cook and Smith",C,NET30
+CUST-02443,"Gregory, Sexton and Palmer",C,NET30
+CUST-02444,Adams Inc,B,NET30
+CUST-02445,Johnson Inc,B,NET30
+CUST-02446,Nguyen-Castro,C,NET30
+CUST-02447,Watson Group,C,NET30
+CUST-02448,"Rios, Miller and Thomas",C,NET30
+CUST-02449,Ritter-Hansen,B,NET30
+CUST-02450,Avila-Jarvis,B,NET30
+CUST-02451,Collins-Huff,C,NET30
+CUST-02452,Esparza-Young,C,NET30
+CUST-02453,Bates-Taylor,B,NET30
+CUST-02454,Oliver-Rodriguez,A,NET30
+CUST-02455,"Bates, Fry and White",A,NET30
+CUST-02456,Holmes Group,C,NET30
+CUST-02457,Smith Group,B,NET30
+CUST-02458,Blackwell Ltd,B,NET30
+CUST-02459,Guzman LLC,A,NET45
+CUST-02460,Carter PLC,C,NET30
+CUST-02461,Charles Inc,B,NET30
+CUST-02462,"Monroe, Lamb and Newman",B,NET30
+CUST-02463,"Nelson, Williams and Gonzales",B,NET30
+CUST-02464,Walton Inc,C,NET30
+CUST-02465,"Bush, Glover and Roberts",C,NET45
+CUST-02466,Reyes-Holmes,A,NET45
+CUST-02467,"Wilson, Perez and Jennings",B,NET30
+CUST-02468,"Davis, Peterson and Ortega",A,NET60
+CUST-02469,Smith LLC,C,NET30
+CUST-02470,"Kelly, Johnson and Garza",B,NET30
+CUST-02471,"Wilson, Mcdonald and Huang",C,NET30
+CUST-02472,Snyder-Huber,C,NET30
+CUST-02473,Parker Inc,C,NET30
+CUST-02474,Kim-Alexander,A,NET30
+CUST-02475,Mcdonald-Matthews,A,NET30
+CUST-02476,Burke PLC,C,NET45
+CUST-02477,"Gordon, Cruz and Johnson",B,NET45
+CUST-02478,Brock-Pearson,B,NET30
+CUST-02479,Fry-Rodgers,C,NET45
+CUST-02480,Reilly-Willis,A,NET30
+CUST-02481,Lee-Arellano,C,NET30
+CUST-02482,Woods Ltd,C,NET30
+CUST-02483,Roberts Group,C,NET30
+CUST-02484,Powell and Sons,B,NET30
+CUST-02485,"Valenzuela, Camacho and Boone",C,NET45
+CUST-02486,"Lynn, Morrow and Rogers",C,NET45
+CUST-02487,Pratt-Scott,C,NET30
+CUST-02488,Holmes-Herrera,C,NET45
+CUST-02489,"Tate, Adams and Medina",C,NET30
+CUST-02490,Peterson-Perkins,B,NET30
+CUST-02491,"Wood, Williams and Hall",B,NET30
+CUST-02492,"Grant, Davis and Miller",C,NET30
+CUST-02493,Patel-Martin,C,NET30
+CUST-02494,"Johnson, Frank and Williams",C,NET60
+CUST-02495,"Padilla, White and Russell",C,NET30
+CUST-02496,"Richardson, Flores and Matthews",A,NET45
+CUST-02497,"Gonzalez, Blankenship and Garcia",C,NET30
+CUST-02498,Burns PLC,C,NET45
+CUST-02499,Montgomery LLC,B,NET30
+CUST-02500,"Proctor, Campbell and Wyatt",C,NET30
+CUST-02501,"Garcia, Benson and Harvey",C,NET30
+CUST-02502,Farley Ltd,B,NET30
+CUST-02503,Hicks-Jenkins,C,NET30
+CUST-02504,Miller-Jackson,B,NET30
+CUST-02505,"Blevins, Meyer and Clark",C,NET60
+CUST-02506,Perkins-Spence,C,NET30
+CUST-02507,Suarez and Sons,A,NET30
+CUST-02508,Rogers-Thompson,C,NET30
+CUST-02509,"Mooney, Rivera and Murphy",C,NET30
+CUST-02510,Santos LLC,A,NET45
+CUST-02511,"Clarke, Mcgee and Cummings",B,NET45
+CUST-02512,Wright-Patterson,C,NET30
+CUST-02513,Dixon and Sons,C,NET45
+CUST-02514,"Scott, Mclean and Wise",A,NET60
+CUST-02515,Ford LLC,A,NET45
+CUST-02516,Bailey-Grant,B,NET30
+CUST-02517,Berger-Pearson,A,NET30
+CUST-02518,Williams-Parker,C,NET30
+CUST-02519,Gonzalez-Campbell,C,NET30
+CUST-02520,Combs PLC,C,NET30
+CUST-02521,Quinn-James,B,NET30
+CUST-02522,Pearson-Garcia,A,NET30
+CUST-02523,"Young, Brown and Crane",C,NET45
+CUST-02524,"Willis, Norman and James",C,NET30
+CUST-02525,Evans-Nichols,A,NET45
+CUST-02526,Whitney-Woods,A,NET60
+CUST-02527,Nguyen LLC,C,NET30
+CUST-02528,"Townsend, Tran and Diaz",C,NET30
+CUST-02529,"Baxter, Smith and Huang",B,NET45
+CUST-02530,"Gardner, Bishop and Jones",A,NET60
+CUST-02531,Petersen-Kennedy,C,NET30
+CUST-02532,"Wong, Villanueva and Simmons",B,NET30
+CUST-02533,"Hernandez, Stewart and Morton",C,NET60
+CUST-02534,Little and Sons,C,NET30
+CUST-02535,Mejia-Underwood,B,NET30
+CUST-02536,"Bailey, Simmons and Garcia",C,NET30
+CUST-02537,Greene and Sons,A,NET30
+CUST-02538,Keller Ltd,A,NET30
+CUST-02539,Jordan-Brown,C,NET30
+CUST-02540,Morrow and Sons,A,NET45
+CUST-02541,"Hughes, Nichols and Booth",A,NET30
+CUST-02542,"Anderson, Nash and Page",C,NET30
+CUST-02543,Johnson Ltd,C,NET30
+CUST-02544,"Munoz, Acosta and Thomas",B,NET45
+CUST-02545,Moore PLC,C,NET30
+CUST-02546,Davis Ltd,C,NET30
+CUST-02547,"Cruz, Lucero and Boyd",A,NET45
+CUST-02548,Reyes Group,C,NET30
+CUST-02549,"Banks, Henry and Hamilton",C,NET30
+CUST-02550,Garcia PLC,A,NET30
+CUST-02551,Brown-Downs,A,NET45
+CUST-02552,Johnson Inc,C,NET45
+CUST-02553,Sullivan PLC,B,NET30
+CUST-02554,Boyd Inc,C,NET30
+CUST-02555,Davis-Mckenzie,A,NET45
+CUST-02556,"Montgomery, Smith and Miller",C,NET30
+CUST-02557,"English, Peterson and Nolan",A,NET30
+CUST-02558,"Baker, Lin and Moore",A,NET45
+CUST-02559,"Maxwell, Saunders and Williams",A,NET45
+CUST-02560,Boone-Guerrero,B,NET30
+CUST-02561,"Davis, Vasquez and Cook",C,NET30
+CUST-02562,"Cunningham, Lee and Chase",B,NET30
+CUST-02563,"Thomas, Hill and Acevedo",A,NET30
+CUST-02564,"Charles, Tyler and Evans",C,NET30
+CUST-02565,"Farmer, Keller and Romero",C,NET30
+CUST-02566,Paul Ltd,A,NET30
+CUST-02567,Richardson Ltd,B,NET30
+CUST-02568,Hall-Hill,C,NET30
+CUST-02569,Gomez-Evans,B,NET30
+CUST-02570,Hernandez-Lee,C,NET30
+CUST-02571,Roberts and Sons,B,NET30
+CUST-02572,Fry-Tran,C,NET30
+CUST-02573,Washington and Sons,C,NET60
+CUST-02574,"Johnston, Morgan and Morales",C,NET30
+CUST-02575,Houston Inc,B,NET30
+CUST-02576,Greer-Holder,C,NET60
+CUST-02577,"Hanson, Reed and Rhodes",C,NET30
+CUST-02578,Garcia Ltd,A,NET30
+CUST-02579,Pruitt Group,C,NET30
+CUST-02580,"Adams, Acevedo and Diaz",C,NET30
+CUST-02581,Gonzalez-Greene,C,NET30
+CUST-02582,Thomas-Waters,C,NET30
+CUST-02583,"Hicks, Smith and Andrews",B,NET30
+CUST-02584,Anderson-Simpson,A,NET30
+CUST-02585,Diaz-Greene,A,NET30
+CUST-02586,"Frey, Perry and Vance",B,NET60
+CUST-02587,Williams Inc,C,NET30
+CUST-02588,Wilson and Sons,C,NET30
+CUST-02589,"Jordan, Myers and Gilmore",B,NET30
+CUST-02590,Ruiz Inc,C,NET30
+CUST-02591,Bass-Rivera,A,NET30
+CUST-02592,Reese-Fry,A,NET30
+CUST-02593,Burke Ltd,C,NET45
+CUST-02594,"Garcia, Martin and Ward",C,NET60
+CUST-02595,"Gutierrez, Dillon and Roberts",C,NET30
+CUST-02596,Ray-Holland,A,NET30
+CUST-02597,"Williams, Hebert and Rangel",B,NET45
+CUST-02598,Walker Inc,A,NET30
+CUST-02599,"Ayala, Rogers and Bell",A,NET30
+CUST-02600,"Johnson, Bentley and Price",A,NET30
+CUST-02601,Moody-Smith,C,NET30
+CUST-02602,Young PLC,C,NET30
+CUST-02603,"Mccarthy, Rogers and Taylor",B,NET45
+CUST-02604,"White, Hendricks and Bowen",C,NET30
+CUST-02605,"Molina, Cox and Watts",C,NET30
+CUST-02606,Nichols-Petty,C,NET45
+CUST-02607,Ortega-Swanson,B,NET30
+CUST-02608,"Schultz, Hawkins and Hernandez",C,NET30
+CUST-02609,Carroll LLC,C,NET30
+CUST-02610,"Smith, Le and Murray",B,NET30
+CUST-02611,Phillips Ltd,C,NET30
+CUST-02612,Thompson Inc,C,NET30
+CUST-02613,Hoover-Rhodes,A,NET30
+CUST-02614,"Evans, Dickerson and Cameron",A,NET30
+CUST-02615,Keller-Rubio,B,NET30
+CUST-02616,Diaz-Burns,C,NET45
+CUST-02617,Olsen-Martin,C,NET45
+CUST-02618,"Wong, Morris and Baker",C,NET30
+CUST-02619,Mason and Sons,B,NET30
+CUST-02620,Rose-Pacheco,A,NET30
+CUST-02621,"Martinez, Green and Thompson",B,NET30
+CUST-02622,"Campos, Watkins and Miller",A,NET45
+CUST-02623,Terry LLC,C,NET30
+CUST-02624,Lynch Inc,A,NET45
+CUST-02625,"Miller, Suarez and Villegas",B,NET60
+CUST-02626,Clark Group,C,NET30
+CUST-02627,Carlson PLC,C,NET30
+CUST-02628,Bell-Reese,B,NET30
+CUST-02629,Sampson-Jensen,C,NET30
+CUST-02630,Parker-Brown,C,NET45
+CUST-02631,Mahoney Ltd,B,NET30
+CUST-02632,Espinoza-Pena,A,NET45
+CUST-02633,Hayden PLC,C,NET30
+CUST-02634,Acosta PLC,C,NET30
+CUST-02635,Lee PLC,C,NET60
+CUST-02636,Miller-Graham,B,NET30
+CUST-02637,"Bailey, Murray and Patterson",A,NET30
+CUST-02638,"Goodwin, Waters and Lawson",C,NET30
+CUST-02639,"Wright, Miller and Wright",A,NET45
+CUST-02640,Butler and Sons,C,NET30
+CUST-02641,"Williams, Pratt and James",B,NET45
+CUST-02642,Rogers Group,B,NET30
+CUST-02643,Clark LLC,B,NET30
+CUST-02644,Green PLC,C,NET30
+CUST-02645,"Sparks, Lin and Mitchell",C,NET30
+CUST-02646,Simon LLC,A,NET30
+CUST-02647,"Cook, David and Malone",C,NET60
+CUST-02648,"Ryan, Rodriguez and Li",C,NET30
+CUST-02649,"Hoffman, Lee and Murphy",A,NET30
+CUST-02650,"Martinez, Torres and Anderson",C,NET30
+CUST-02651,"Brown, Moore and Ellis",B,NET30
+CUST-02652,Davis-Alvarez,A,NET30
+CUST-02653,Sullivan PLC,C,NET30
+CUST-02654,Hernandez and Sons,C,NET30
+CUST-02655,Allen-Hernandez,C,NET30
+CUST-02656,Davis-Smith,B,NET30
+CUST-02657,"Edwards, Compton and Hunter",A,NET45
+CUST-02658,"Pierce, Johnson and Ramirez",C,NET30
+CUST-02659,Leon LLC,B,NET30
+CUST-02660,Good-Hunt,C,NET30
+CUST-02661,White Inc,B,NET60
+CUST-02662,Suarez Ltd,A,NET60
+CUST-02663,Hicks Group,C,NET45
+CUST-02664,"Burke, Brown and Reeves",C,NET45
+CUST-02665,Webster-Odonnell,B,NET30
+CUST-02666,"Jones, White and Brooks",B,NET30
+CUST-02667,"Hawkins, Holland and Buchanan",B,NET45
+CUST-02668,"Brown, Delgado and Leon",B,NET30
+CUST-02669,Williams-Gonzales,C,NET30
+CUST-02670,Hernandez-Potter,A,NET30
+CUST-02671,Serrano and Sons,C,NET30
+CUST-02672,Wong-Lee,B,NET60
+CUST-02673,Parrish PLC,B,NET30
+CUST-02674,Berry PLC,A,NET30
+CUST-02675,Garcia-Brown,C,NET30
+CUST-02676,"Schwartz, Flores and Andersen",C,NET30
+CUST-02677,"Beard, Martinez and Brown",C,NET30
+CUST-02678,Mccann-Carter,B,NET30
+CUST-02679,Roberts Ltd,A,NET30
+CUST-02680,Christensen PLC,C,NET30
+CUST-02681,Moss Group,A,NET30
+CUST-02682,"Porter, Ramsey and Cooper",A,NET30
+CUST-02683,Thomas Inc,C,NET30
+CUST-02684,"Lee, Green and Bradley",B,NET30
+CUST-02685,"Smith, Beard and Torres",A,NET60
+CUST-02686,"Martinez, Moon and Love",B,NET30
+CUST-02687,"Schaefer, Adams and Shelton",C,NET45
+CUST-02688,"Martinez, Davis and Jones",C,NET45
+CUST-02689,Bates-Castro,C,NET30
+CUST-02690,Mullen-Combs,C,NET30
+CUST-02691,Cruz-Meyer,C,NET30
+CUST-02692,"Taylor, Davis and Bates",A,NET30
+CUST-02693,Perry PLC,C,NET30
+CUST-02694,"Lane, Robinson and Bryant",C,NET30
+CUST-02695,"Perez, Garcia and Black",A,NET30
+CUST-02696,Carroll and Sons,C,NET30
+CUST-02697,Myers Ltd,B,NET30
+CUST-02698,Cochran-Singh,C,NET45
+CUST-02699,Thompson Ltd,C,NET30
+CUST-02700,"Hoover, Nguyen and Mccarthy",C,NET30
+CUST-02701,Mcdowell Inc,B,NET30
+CUST-02702,Reyes-Cooley,C,NET45
+CUST-02703,"Carpenter, Clarke and Chandler",C,NET30
+CUST-02704,"Salazar, White and Suarez",B,NET45
+CUST-02705,Rivera-Myers,B,NET30
+CUST-02706,"Martinez, Simmons and Jones",C,NET45
+CUST-02707,"Williams, Jimenez and Bush",C,NET30
+CUST-02708,Henry and Sons,C,NET30
+CUST-02709,"Perez, Berry and Guzman",A,NET45
+CUST-02710,Stark-Herrera,C,NET45
+CUST-02711,"Rodriguez, Cooke and Schmitt",A,NET30
+CUST-02712,Adkins-Watson,C,NET30
+CUST-02713,Brown LLC,A,NET30
+CUST-02714,Newman LLC,B,NET45
+CUST-02715,"Woods, Green and Johnson",C,NET60
+CUST-02716,"Lowe, Bruce and Munoz",A,NET30
+CUST-02717,Moreno and Sons,C,NET45
+CUST-02718,Washington PLC,B,NET30
+CUST-02719,Morrison-Wade,C,NET30
+CUST-02720,"Scott, Gibson and May",C,NET45
+CUST-02721,"Ramirez, Allen and Conner",B,NET30
+CUST-02722,"Bennett, Osborn and Arnold",B,NET45
+CUST-02723,Cruz Ltd,C,NET30
+CUST-02724,Gonzalez-Barnes,A,NET30
+CUST-02725,"Curry, Marshall and Park",C,NET30
+CUST-02726,Thomas-Holder,C,NET30
+CUST-02727,"Gordon, Bond and Floyd",A,NET30
+CUST-02728,"Cox, Frazier and Matthews",B,NET30
+CUST-02729,Perez-Black,C,NET30
+CUST-02730,Russell-Adams,A,NET30
+CUST-02731,Martin-Horne,B,NET30
+CUST-02732,Sheppard-Riley,B,NET30
+CUST-02733,"Mcclure, Jacobs and Peterson",C,NET30
+CUST-02734,Vaughn Inc,C,NET30
+CUST-02735,Hughes LLC,C,NET30
+CUST-02736,Williams PLC,A,NET30
+CUST-02737,Walters-Barker,B,NET45
+CUST-02738,"Williamson, Cordova and Wright",C,NET45
+CUST-02739,Garrison-Mclean,C,NET60
+CUST-02740,Castaneda PLC,B,NET60
+CUST-02741,"Campos, Cantu and Reese",C,NET45
+CUST-02742,Edwards-Adams,B,NET45
+CUST-02743,Lopez-Webster,B,NET45
+CUST-02744,"Russo, Garcia and Park",C,NET30
+CUST-02745,Moore Inc,C,NET30
+CUST-02746,Kelly-Hudson,A,NET45
+CUST-02747,Ramsey-Hale,C,NET30
+CUST-02748,Brooks-Beltran,B,NET30
+CUST-02749,Morrison-Sweeney,A,NET30
+CUST-02750,"Crosby, Harrison and Medina",B,NET30
+CUST-02751,Brooks-Kline,B,NET30
+CUST-02752,Oliver Group,C,NET30
+CUST-02753,"Bryan, Johnston and Rodriguez",C,NET30
+CUST-02754,Bennett-Davis,C,NET30
+CUST-02755,Fuller-Moses,C,NET45
+CUST-02756,Acosta Ltd,A,NET30
+CUST-02757,Smith PLC,C,NET30
+CUST-02758,Brown PLC,C,NET60
+CUST-02759,Figueroa-Smith,A,NET60
+CUST-02760,Fisher LLC,C,NET30
+CUST-02761,White LLC,C,NET30
+CUST-02762,Richardson Group,C,NET45
+CUST-02763,Patterson PLC,A,NET30
+CUST-02764,Garcia-Galloway,B,NET30
+CUST-02765,Spencer-Powell,C,NET30
+CUST-02766,Cooper-Sparks,B,NET30
+CUST-02767,Kirk and Sons,A,NET30
+CUST-02768,Barrett Inc,C,NET30
+CUST-02769,Parker LLC,A,NET30
+CUST-02770,Vasquez Group,C,NET30
+CUST-02771,Hogan Inc,B,NET60
+CUST-02772,Patrick and Sons,C,NET30
+CUST-02773,"Cabrera, Reed and Peterson",B,NET30
+CUST-02774,Hamilton-Guerrero,A,NET30
+CUST-02775,"Rodriguez, Lopez and Dixon",B,NET30
+CUST-02776,"Mcknight, Weber and Powell",C,NET30
+CUST-02777,"Barnes, Meyers and Beck",C,NET30
+CUST-02778,Mason Ltd,C,NET30
+CUST-02779,Miller LLC,B,NET30
+CUST-02780,"Golden, Knight and Vega",C,NET60
+CUST-02781,Patton Inc,B,NET45
+CUST-02782,Melendez LLC,B,NET45
+CUST-02783,"Jenkins, Mcdonald and Evans",B,NET60
+CUST-02784,Page-Hansen,C,NET60
+CUST-02785,"Hernandez, Evans and Francis",B,NET30
+CUST-02786,Nguyen-Fisher,A,NET30
+CUST-02787,"Mann, Elliott and Hancock",B,NET30
+CUST-02788,Miller Group,B,NET45
+CUST-02789,Smith-Rivera,C,NET45
+CUST-02790,Mejia LLC,A,NET45
+CUST-02791,Sawyer-Carr,C,NET30
+CUST-02792,Powell Group,C,NET30
+CUST-02793,Adams-Ruiz,C,NET45
+CUST-02794,Johnson and Sons,B,NET30
+CUST-02795,Andrews-Rodriguez,C,NET45
+CUST-02796,Sanchez-Flores,C,NET45
+CUST-02797,"Melendez, Grant and Coleman",C,NET30
+CUST-02798,Martin Inc,C,NET30
+CUST-02799,Brown-Adams,C,NET45
+CUST-02800,Robinson-Brown,A,NET30
+CUST-02801,"Thompson, Holloway and Noble",C,NET30
+CUST-02802,"Hendricks, Craig and Rogers",B,NET30
+CUST-02803,"Campbell, Livingston and Johnston",A,NET30
+CUST-02804,Deleon and Sons,C,NET30
+CUST-02805,"Baker, Smith and Harris",B,NET60
+CUST-02806,"Williams, Lang and Estrada",C,NET30
+CUST-02807,Mann LLC,A,NET30
+CUST-02808,"Graham, Rogers and Jarvis",B,NET30
+CUST-02809,Lam-Michael,C,NET45
+CUST-02810,Pacheco Group,B,NET45
+CUST-02811,"Nunez, Graham and Lucas",C,NET30
+CUST-02812,"Mendez, Martinez and George",C,NET45
+CUST-02813,Murray PLC,C,NET60
+CUST-02814,Smith and Sons,B,NET30
+CUST-02815,Richardson-Johnson,C,NET60
+CUST-02816,Wilcox Inc,C,NET30
+CUST-02817,Oliver-Willis,A,NET60
+CUST-02818,Hernandez-Hernandez,B,NET30
+CUST-02819,Cain-Hill,B,NET45
+CUST-02820,Wells-Collins,C,NET30
+CUST-02821,Peterson-Miller,B,NET30
+CUST-02822,Baker Ltd,A,NET45
+CUST-02823,Davis-Patterson,C,NET30
+CUST-02824,Ramos-Snyder,B,NET45
+CUST-02825,Jones-Mcmahon,C,NET30
+CUST-02826,"Welch, Patterson and Campbell",C,NET30
+CUST-02827,Jones Ltd,B,NET30
+CUST-02828,Phillips Inc,B,NET30
+CUST-02829,Wilkins-Johnson,C,NET30
+CUST-02830,"Hamilton, Nelson and Moore",B,NET30
+CUST-02831,Barber Inc,C,NET45
+CUST-02832,Wallace PLC,C,NET45
+CUST-02833,"Pollard, Parker and Armstrong",C,NET30
+CUST-02834,Compton-Gray,B,NET30
+CUST-02835,"Osborne, Jackson and Castaneda",B,NET30
+CUST-02836,Carroll Group,A,NET30
+CUST-02837,"Drake, Morris and Rubio",C,NET30
+CUST-02838,Phillips-Williams,A,NET30
+CUST-02839,"Moore, Scott and Conley",B,NET30
+CUST-02840,Clayton and Sons,B,NET30
+CUST-02841,Zimmerman-Foster,C,NET30
+CUST-02842,"Johnson, Stanton and Meyer",C,NET30
+CUST-02843,Carr Ltd,A,NET45
+CUST-02844,Johnson Ltd,B,NET30
+CUST-02845,Flores-Hill,B,NET30
+CUST-02846,Palmer PLC,A,NET60
+CUST-02847,"Young, Thompson and Jimenez",C,NET45
+CUST-02848,"Rodriguez, Parker and Wallace",C,NET45
+CUST-02849,Gomez LLC,B,NET30
+CUST-02850,Smith-Hoffman,C,NET30
+CUST-02851,"Johnson, Bowman and Townsend",C,NET30
+CUST-02852,Rodriguez-Martin,C,NET45
+CUST-02853,Tran-Davis,C,NET30
+CUST-02854,Nelson Group,A,NET45
+CUST-02855,Dougherty-Meyers,B,NET30
+CUST-02856,Middleton-James,A,NET60
+CUST-02857,Hill-Wilson,B,NET30
+CUST-02858,Jenkins-Nguyen,A,NET45
+CUST-02859,Kim and Sons,B,NET30
+CUST-02860,"Rice, Parker and Kelley",A,NET30
+CUST-02861,Ford-Rice,C,NET45
+CUST-02862,Hendricks-Weber,A,NET30
+CUST-02863,Harding-Bryant,B,NET30
+CUST-02864,Dixon Group,B,NET30
+CUST-02865,Walker LLC,B,NET30
+CUST-02866,Hall-Ellis,C,NET30
+CUST-02867,Moore-Parker,A,NET45
+CUST-02868,Brown-Martin,B,NET30
+CUST-02869,Anderson Inc,C,NET30
+CUST-02870,"Williams, Harrison and Cooper",B,NET30
+CUST-02871,Lawson PLC,B,NET30
+CUST-02872,Davenport-Bishop,A,NET30
+CUST-02873,"Tucker, Kim and Hicks",B,NET30
+CUST-02874,Barnes-Green,B,NET30
+CUST-02875,Schmidt-Davis,A,NET30
+CUST-02876,Tucker-Macdonald,C,NET30
+CUST-02877,Smith LLC,C,NET30
+CUST-02878,"Blevins, Campbell and Burns",B,NET45
+CUST-02879,Rosario-Lopez,C,NET30
+CUST-02880,Clark-Mathews,B,NET45
+CUST-02881,Woods and Sons,B,NET30
+CUST-02882,"King, Atkins and Smith",C,NET30
+CUST-02883,Bowen-Franklin,C,NET30
+CUST-02884,"Lee, Watson and Clark",C,NET45
+CUST-02885,Smith Ltd,A,NET30
+CUST-02886,Foster-Johnson,C,NET45
+CUST-02887,Oneal-Robinson,C,NET45
+CUST-02888,"Stone, Flores and Gonzalez",B,NET30
+CUST-02889,Perkins-Wheeler,C,NET30
+CUST-02890,"Jackson, Weaver and Woods",C,NET30
+CUST-02891,Jones-Howard,C,NET45
+CUST-02892,Lindsey-Parsons,A,NET45
+CUST-02893,"Grant, Sims and Gonzalez",C,NET30
+CUST-02894,Benson LLC,B,NET45
+CUST-02895,Chen-Richmond,B,NET30
+CUST-02896,"Kirby, Walker and Henderson",C,NET30
+CUST-02897,West-Brown,B,NET30
+CUST-02898,Olsen-White,A,NET30
+CUST-02899,Fox-Luna,A,NET30
+CUST-02900,Lawson Ltd,C,NET30
+CUST-02901,Mercer-Sawyer,C,NET30
+CUST-02902,"Haynes, Boyer and Green",B,NET30
+CUST-02903,"Davis, Knight and Lopez",C,NET30
+CUST-02904,"Torres, Frank and Williams",B,NET30
+CUST-02905,"Morgan, Buck and Fowler",A,NET30
+CUST-02906,"Davis, Hampton and Newman",C,NET30
+CUST-02907,Terry-Smith,B,NET45
+CUST-02908,Hill-Cervantes,C,NET30
+CUST-02909,Stanley Group,A,NET45
+CUST-02910,Ruiz Group,C,NET30
+CUST-02911,Duncan Ltd,A,NET30
+CUST-02912,"Bennett, Mason and Wood",B,NET30
+CUST-02913,Munoz-Potts,C,NET30
+CUST-02914,Cunningham-Lawson,C,NET30
+CUST-02915,"Ramirez, Brown and Martin",C,NET60
+CUST-02916,Terry-Thomas,B,NET30
+CUST-02917,"Hayes, Ho and Mullins",A,NET30
+CUST-02918,Martin-Carey,C,NET30
+CUST-02919,Anderson-Newton,B,NET30
+CUST-02920,Morrow PLC,B,NET45
+CUST-02921,Stanley Group,B,NET30
+CUST-02922,Peck-Jackson,B,NET30
+CUST-02923,Holland-Thompson,C,NET30
+CUST-02924,Martin PLC,C,NET30
+CUST-02925,"Warren, Brown and Steele",A,NET45
+CUST-02926,Johnson-Rogers,C,NET30
+CUST-02927,Gregory LLC,B,NET30
+CUST-02928,Harrington Ltd,C,NET30
+CUST-02929,Miller-Sexton,C,NET30
+CUST-02930,Thomas-Rodriguez,B,NET30
+CUST-02931,Miller PLC,C,NET60
+CUST-02932,"Williamson, Conley and Scott",C,NET45
+CUST-02933,Martin Inc,B,NET45
+CUST-02934,Boyer and Sons,C,NET60
+CUST-02935,"Brown, Juarez and Beltran",A,NET30
+CUST-02936,Ross Group,C,NET30
+CUST-02937,"Carter, Morse and Kelly",A,NET45
+CUST-02938,"Bradley, Castro and Bailey",B,NET60
+CUST-02939,Jones Group,B,NET30
+CUST-02940,Solis Ltd,C,NET30
+CUST-02941,"Acosta, Baker and Thornton",C,NET30
+CUST-02942,Johnson Group,A,NET60
+CUST-02943,Martinez-Pitts,C,NET45
+CUST-02944,Hernandez-Wilson,C,NET60
+CUST-02945,"Ellis, Wright and Leach",A,NET60
+CUST-02946,Thompson LLC,B,NET30
+CUST-02947,Fuller-Pineda,C,NET60
+CUST-02948,Fritz Inc,B,NET45
+CUST-02949,White-Fletcher,C,NET30
+CUST-02950,Harris PLC,C,NET30
+CUST-02951,Santiago Inc,C,NET60
+CUST-02952,Alvarez Group,A,NET60
+CUST-02953,Herrera-Davis,A,NET30
+CUST-02954,"Farmer, Lopez and Matthews",B,NET45
+CUST-02955,Rodriguez-Brown,C,NET45
+CUST-02956,Sharp PLC,A,NET30
+CUST-02957,Grant and Sons,C,NET30
+CUST-02958,"Long, Roberts and Griffin",C,NET30
+CUST-02959,Gonzales Inc,B,NET30
+CUST-02960,"Reynolds, Ferguson and Clark",C,NET45
+CUST-02961,Graves-Love,B,NET30
+CUST-02962,"Mora, Roberts and Garner",A,NET30
+CUST-02963,Joseph-Hernandez,A,NET30
+CUST-02964,"Martinez, Hale and Allen",B,NET30
+CUST-02965,"Mata, Roberts and Hale",C,NET30
+CUST-02966,Rojas Group,C,NET30
+CUST-02967,Valenzuela LLC,B,NET30
+CUST-02968,"Thomas, Brady and Barrett",C,NET45
+CUST-02969,Shelton and Sons,C,NET30
+CUST-02970,Macias Ltd,B,NET30
+CUST-02971,"Sexton, Collins and Armstrong",B,NET30
+CUST-02972,Gilbert PLC,C,NET30
+CUST-02973,Torres-Gomez,B,NET30
+CUST-02974,Coleman Inc,A,NET30
+CUST-02975,"Wright, Gentry and Palmer",B,NET60
+CUST-02976,Patterson Group,C,NET30
+CUST-02977,Hernandez-Rodriguez,A,NET45
+CUST-02978,Jackson and Sons,C,NET45
+CUST-02979,"Price, Campbell and Meyer",C,NET45
+CUST-02980,"Merritt, Jones and Lowe",C,NET30
+CUST-02981,"Roth, Torres and Johnson",C,NET30
+CUST-02982,"Nichols, Hernandez and Thompson",C,NET45
+CUST-02983,"Charles, Welch and Moore",B,NET30
+CUST-02984,"Carter, Patel and Roberts",C,NET45
+CUST-02985,"Lopez, Thompson and Clark",A,NET45
+CUST-02986,Price-Miller,C,NET45
+CUST-02987,Hicks-Yates,C,NET45
+CUST-02988,"Little, Keller and Callahan",C,NET30
+CUST-02989,Aguirre Inc,A,NET30
+CUST-02990,Kent-Carpenter,A,NET30
+CUST-02991,Flores-Hunt,B,NET30
+CUST-02992,Fisher LLC,C,NET45
+CUST-02993,Fitzgerald Ltd,A,NET30
+CUST-02994,Richardson-Herrera,A,NET30
+CUST-02995,"Nguyen, Norman and Smith",B,NET30
+CUST-02996,"Blake, Fuller and Bird",B,NET45
+CUST-02997,White-Morse,C,NET30
+CUST-02998,Morrison-White,B,NET30
+CUST-02999,"Byrd, Mitchell and Cohen",B,NET45
+CUST-03000,Wilkinson-Peters,C,NET30
+CUST-03001,"Powell, Henry and Wilson",C,NET45
+CUST-03002,Miller-Herrera,C,NET60
+CUST-03003,Olson-Mullins,C,NET30
+CUST-03004,Ruiz LLC,A,NET30
+CUST-03005,"Allen, Summers and Mcknight",A,NET30
+CUST-03006,Clark-Vance,C,NET30
+CUST-03007,Williams PLC,C,NET30
+CUST-03008,Barnett PLC,C,NET30
+CUST-03009,Curtis Inc,C,NET30
+CUST-03010,"Kennedy, Christian and Glass",C,NET30
+CUST-03011,Brennan Ltd,B,NET30
+CUST-03012,Moore-Hicks,C,NET30
+CUST-03013,Richardson PLC,C,NET45
+CUST-03014,Lopez and Sons,A,NET30
+CUST-03015,"Mcintosh, Murphy and Allen",C,NET60
+CUST-03016,"Rodriguez, Hall and Perez",C,NET30
+CUST-03017,"Brady, Knight and Garrison",A,NET30
+CUST-03018,"Hamilton, Morse and Johnson",C,NET30
+CUST-03019,Wiggins-Schmidt,B,NET45
+CUST-03020,King-Avery,B,NET30
+CUST-03021,"Huang, Graves and Crawford",B,NET30
+CUST-03022,"Martinez, Sanders and Villa",C,NET30
+CUST-03023,"Jackson, Moore and Blankenship",A,NET30
+CUST-03024,White-Smith,A,NET45
+CUST-03025,Rich Group,B,NET45
+CUST-03026,Sheppard-Cisneros,A,NET30
+CUST-03027,"Murphy, Humphrey and Mitchell",C,NET30
+CUST-03028,Coleman-Pena,C,NET30
+CUST-03029,"Herrera, Vaughn and Lynch",C,NET30
+CUST-03030,Barton Inc,C,NET30
+CUST-03031,Mathis-Moyer,C,NET30
+CUST-03032,Maldonado Group,C,NET60
+CUST-03033,Gonzalez-Butler,C,NET30
+CUST-03034,"Marshall, Bush and Reed",A,NET45
+CUST-03035,"Adams, Hines and Pacheco",B,NET30
+CUST-03036,Day-Hansen,A,NET30
+CUST-03037,Garcia PLC,C,NET30
+CUST-03038,Campbell PLC,C,NET30
+CUST-03039,Richards-Larsen,B,NET45
+CUST-03040,Vaughn-Cain,B,NET30
+CUST-03041,Contreras-Bennett,B,NET30
+CUST-03042,"Mercer, Parker and Green",C,NET30
+CUST-03043,"Moreno, Robbins and Lopez",C,NET30
+CUST-03044,Mathis Inc,C,NET30
+CUST-03045,Miranda LLC,C,NET30
+CUST-03046,"Oconnell, Hall and Garcia",B,NET45
+CUST-03047,Brown Inc,C,NET60
+CUST-03048,"Huynh, Miller and Garrett",A,NET30
+CUST-03049,Rogers PLC,C,NET30
+CUST-03050,"James, Gomez and Brown",B,NET30
+CUST-03051,Berg PLC,C,NET30
+CUST-03052,Sanchez-Neal,A,NET30
+CUST-03053,"Martin, Goodman and Hall",B,NET60
+CUST-03054,Cook and Sons,A,NET30
+CUST-03055,Anderson Group,A,NET30
+CUST-03056,Jones LLC,A,NET45
+CUST-03057,Kelly-George,C,NET45
+CUST-03058,"Avila, Hunt and Burch",C,NET30
+CUST-03059,Keith-Johnson,A,NET30
+CUST-03060,"Moses, Cox and Hanna",C,NET30
+CUST-03061,Clark PLC,C,NET30
+CUST-03062,Cook-Garza,A,NET30
+CUST-03063,Doyle LLC,A,NET30
+CUST-03064,"Gonzalez, Smith and Cook",C,NET45
+CUST-03065,Nash-Weber,C,NET30
+CUST-03066,Shea Inc,A,NET30
+CUST-03067,"Barker, Warren and Mack",A,NET30
+CUST-03068,"Adams, Morrison and Powell",B,NET30
+CUST-03069,Duncan Ltd,A,NET45
+CUST-03070,Williams and Sons,C,NET30
+CUST-03071,"Jackson, Lane and Clark",C,NET30
+CUST-03072,Welch-Brown,C,NET30
+CUST-03073,Garcia and Sons,C,NET30
+CUST-03074,Carlson Ltd,B,NET30
+CUST-03075,"Williams, Fuller and Holland",C,NET30
+CUST-03076,"Tran, Miller and Moreno",A,NET30
+CUST-03077,Myers-Hoffman,B,NET30
+CUST-03078,"Terrell, White and Payne",A,NET30
+CUST-03079,Lowery-Escobar,C,NET45
+CUST-03080,White-Lopez,C,NET30
+CUST-03081,Morales Inc,C,NET30
+CUST-03082,Gibbs-Navarro,B,NET30
+CUST-03083,"James, Mullen and Moore",A,NET45
+CUST-03084,"Kim, Shea and Sullivan",C,NET30
+CUST-03085,"Ferrell, Miranda and Hansen",C,NET30
+CUST-03086,Thomas Inc,B,NET30
+CUST-03087,White Inc,C,NET60
+CUST-03088,Craig-Boyer,A,NET30
+CUST-03089,"Garcia, Rodriguez and White",C,NET30
+CUST-03090,"Mullins, Smith and Williams",A,NET45
+CUST-03091,Campbell-Jenkins,B,NET45
+CUST-03092,Williams-Ward,A,NET45
+CUST-03093,Sanchez-Terrell,B,NET30
+CUST-03094,Oneill-Campos,C,NET30
+CUST-03095,"Cobb, Huerta and Alvarado",C,NET30
+CUST-03096,Johnson-Payne,C,NET30
+CUST-03097,Beck Group,A,NET30
+CUST-03098,"Perez, Odom and Robinson",B,NET60
+CUST-03099,Church-Davidson,C,NET30
+CUST-03100,Cruz Inc,C,NET45
+CUST-03101,Cuevas-Meadows,B,NET30
+CUST-03102,Carter PLC,C,NET60
+CUST-03103,"Palmer, Jones and Sanders",B,NET30
+CUST-03104,Rose-Smith,C,NET60
+CUST-03105,"Wood, Duncan and Cox",A,NET45
+CUST-03106,Joyce PLC,B,NET30
+CUST-03107,Daugherty-Henry,B,NET30
+CUST-03108,Fields PLC,B,NET60
+CUST-03109,Reed LLC,B,NET30
+CUST-03110,Sheppard-Nelson,A,NET30
+CUST-03111,"Rogers, Alexander and Morrison",C,NET45
+CUST-03112,Ramirez-Davis,A,NET45
+CUST-03113,Gonzalez LLC,A,NET30
+CUST-03114,Contreras-Cook,A,NET30
+CUST-03115,Walker PLC,C,NET30
+CUST-03116,Harris PLC,C,NET30
+CUST-03117,Madden-Sullivan,C,NET30
+CUST-03118,"Everett, Francis and Solis",A,NET30
+CUST-03119,"Lawson, Conner and Perkins",B,NET45
+CUST-03120,"Jackson, Patrick and Wilson",A,NET30
+CUST-03121,Miller Inc,B,NET45
+CUST-03122,Jones Group,C,NET30
+CUST-03123,Morgan Group,B,NET30
+CUST-03124,Lowe Group,C,NET45
+CUST-03125,James-Garcia,B,NET30
+CUST-03126,Roberson-Richardson,C,NET45
+CUST-03127,Henderson PLC,B,NET45
+CUST-03128,Pham and Sons,C,NET30
+CUST-03129,Gregory and Sons,A,NET30
+CUST-03130,"Cochran, Clark and Ferguson",A,NET30
+CUST-03131,Olson-Carlson,C,NET60
+CUST-03132,Miller-Chavez,B,NET30
+CUST-03133,"Parker, Best and Chase",C,NET30
+CUST-03134,Richards-Mitchell,A,NET30
+CUST-03135,"Jones, Lee and Lawson",C,NET30
+CUST-03136,Brown LLC,B,NET30
+CUST-03137,"Lawson, Scott and Green",A,NET30
+CUST-03138,"Vaughan, Jackson and Holland",B,NET30
+CUST-03139,Ortega-Griffin,C,NET30
+CUST-03140,Ball Inc,A,NET60
+CUST-03141,Carter-Johnson,A,NET30
+CUST-03142,"Christensen, Mcknight and Schneider",B,NET30
+CUST-03143,Freeman-Weaver,C,NET30
+CUST-03144,Shelton-Flores,A,NET30
+CUST-03145,Hughes-Graham,C,NET30
+CUST-03146,"Gray, Johnson and Morris",C,NET30
+CUST-03147,Guzman Ltd,A,NET45
+CUST-03148,Adams Inc,C,NET45
+CUST-03149,"Reynolds, Jensen and Brown",B,NET30
+CUST-03150,"Holden, Edwards and Kelly",C,NET30
+CUST-03151,Reyes-Burns,C,NET30
+CUST-03152,"Anderson, Smith and Daniels",A,NET30
+CUST-03153,Aguirre LLC,C,NET60
+CUST-03154,Tran-Howard,C,NET30
+CUST-03155,Martin-Mcpherson,B,NET30
+CUST-03156,Payne PLC,C,NET30
+CUST-03157,"Bailey, Williams and Nelson",C,NET30
+CUST-03158,Brown-Ray,B,NET30
+CUST-03159,Simpson and Sons,C,NET45
+CUST-03160,Grant PLC,C,NET30
+CUST-03161,"Becker, Lynch and Bell",B,NET30
+CUST-03162,"Thomas, Hancock and Yang",B,NET30
+CUST-03163,"Robertson, Clark and Harrison",C,NET30
+CUST-03164,"Castro, Davis and Carlson",B,NET30
+CUST-03165,"Navarro, Wilson and Morris",B,NET45
+CUST-03166,Richardson LLC,B,NET60
+CUST-03167,"Miller, Blake and Waters",C,NET30
+CUST-03168,Day Group,A,NET30
+CUST-03169,Odonnell-Kelly,B,NET30
+CUST-03170,Rhodes PLC,B,NET30
+CUST-03171,Harris-Bell,C,NET60
+CUST-03172,"Jones, Gray and Berg",A,NET30
+CUST-03173,"Mora, Webster and Melendez",A,NET30
+CUST-03174,Navarro Group,A,NET30
+CUST-03175,"Dorsey, Peters and Moore",A,NET30
+CUST-03176,"Williams, Harris and Hobbs",C,NET30
+CUST-03177,Carson-Glass,C,NET30
+CUST-03178,Villarreal LLC,B,NET30
+CUST-03179,Brooks Group,C,NET30
+CUST-03180,Farley-Navarro,A,NET30
+CUST-03181,"Cohen, Higgins and Stewart",C,NET60
+CUST-03182,Bridges Group,A,NET30
+CUST-03183,"Moran, Stewart and Martinez",A,NET60
+CUST-03184,"Williams, Pugh and Hutchinson",C,NET30
+CUST-03185,Sanchez-Cain,C,NET30
+CUST-03186,Davidson Ltd,C,NET30
+CUST-03187,Mercer-Elliott,B,NET60
+CUST-03188,Campos Inc,C,NET30
+CUST-03189,"Hill, Benitez and West",B,NET30
+CUST-03190,"Ray, Allen and Gibson",B,NET45
+CUST-03191,Munoz PLC,B,NET30
+CUST-03192,Sanders Inc,C,NET30
+CUST-03193,"Fritz, Stevens and Hunt",C,NET60
+CUST-03194,"Taylor, Booker and Cooper",C,NET30
+CUST-03195,Parsons-Neal,A,NET30
+CUST-03196,"Briggs, Freeman and Martinez",B,NET30
+CUST-03197,Underwood Ltd,C,NET45
+CUST-03198,"Jackson, Sanchez and Anderson",B,NET45
+CUST-03199,Wright Group,B,NET30
+CUST-03200,Carter and Sons,B,NET30
+CUST-03201,"Johnson, Cooper and Floyd",B,NET45
+CUST-03202,White-Davis,A,NET30
+CUST-03203,Wood-Wright,C,NET30
+CUST-03204,Winters-Wells,C,NET30
+CUST-03205,"Kim, Wood and Mosley",B,NET30
+CUST-03206,"Rivera, Jennings and Anderson",C,NET30
+CUST-03207,Miranda-Roberts,B,NET45
+CUST-03208,Hale Inc,A,NET60
+CUST-03209,"Berg, Fernandez and Hall",C,NET45
+CUST-03210,Summers-Cole,B,NET30
+CUST-03211,Munoz Inc,A,NET30
+CUST-03212,Walton-Hall,C,NET30
+CUST-03213,Vasquez-Bernard,C,NET45
+CUST-03214,Cross LLC,C,NET30
+CUST-03215,"Johnson, Gonzalez and Obrien",C,NET30
+CUST-03216,Vega-Torres,B,NET45
+CUST-03217,Blanchard-Archer,C,NET30
+CUST-03218,Huang LLC,C,NET60
+CUST-03219,Brooks Inc,B,NET30
+CUST-03220,Peterson Ltd,B,NET30
+CUST-03221,Graham-Rodriguez,C,NET30
+CUST-03222,"Cross, Waters and Saunders",C,NET30
+CUST-03223,Jackson-Baker,B,NET30
+CUST-03224,White-Hart,C,NET30
+CUST-03225,Kaufman-Molina,B,NET60
+CUST-03226,Alexander-Mcdowell,A,NET30
+CUST-03227,Hansen and Sons,A,NET30
+CUST-03228,"Barker, Kramer and Sanders",C,NET60
+CUST-03229,Wong-Guerra,B,NET30
+CUST-03230,"Thompson, Ross and Wall",C,NET30
+CUST-03231,Salas-Rogers,A,NET30
+CUST-03232,Ramos Inc,C,NET30
+CUST-03233,Gonzalez LLC,B,NET30
+CUST-03234,Fernandez Ltd,A,NET60
+CUST-03235,Woods PLC,B,NET30
+CUST-03236,Green-Hayes,B,NET45
+CUST-03237,Garner Ltd,B,NET60
+CUST-03238,Schaefer-Smith,C,NET30
+CUST-03239,Snyder Ltd,B,NET30
+CUST-03240,"Williams, Warner and Lawrence",C,NET30
+CUST-03241,"Brown, Harris and Contreras",C,NET30
+CUST-03242,"Dickson, Chang and Williams",C,NET30
+CUST-03243,Phillips LLC,A,NET30
+CUST-03244,"Munoz, Robinson and Medina",B,NET45
+CUST-03245,"Peters, Murphy and Sheppard",B,NET45
+CUST-03246,Jones-Galloway,A,NET30
+CUST-03247,"Christensen, Franklin and Maddox",B,NET30
+CUST-03248,"Brown, Oneill and Fernandez",B,NET45
+CUST-03249,Mejia PLC,C,NET45
+CUST-03250,Hunt Ltd,C,NET30
+CUST-03251,Krueger-Clay,C,NET30
+CUST-03252,Munoz and Sons,B,NET45
+CUST-03253,"Johnson, Bradley and Downs",C,NET30
+CUST-03254,Haas-Parker,C,NET60
+CUST-03255,"Hernandez, Mann and Bentley",C,NET60
+CUST-03256,Morse Inc,B,NET30
+CUST-03257,Reynolds-Brown,B,NET30
+CUST-03258,James-Melton,C,NET45
+CUST-03259,Martin-Martinez,C,NET30
+CUST-03260,Woods-Rios,A,NET30
+CUST-03261,"Johnson, Rowe and Johnson",C,NET30
+CUST-03262,"Taylor, Hicks and Taylor",B,NET30
+CUST-03263,Roberts-Chandler,C,NET60
+CUST-03264,Johnson PLC,C,NET45
+CUST-03265,"Tran, Collins and Morgan",B,NET60
+CUST-03266,"Martin, Owens and Avila",C,NET30
+CUST-03267,"Johnson, Burton and Mendez",B,NET30
+CUST-03268,Lowe Inc,B,NET30
+CUST-03269,Le-Valdez,B,NET30
+CUST-03270,Richmond Ltd,C,NET60
+CUST-03271,Barajas-Jones,C,NET30
+CUST-03272,Thomas Inc,C,NET30
+CUST-03273,"Adams, Willis and Cochran",C,NET60
+CUST-03274,Williams-Faulkner,B,NET30
+CUST-03275,"Robinson, Davis and Wells",A,NET30
+CUST-03276,"Kelley, Zavala and Thomas",C,NET30
+CUST-03277,Mann LLC,B,NET45
+CUST-03278,Sullivan PLC,B,NET60
+CUST-03279,Santana-Hampton,C,NET45
+CUST-03280,Winters PLC,A,NET30
+CUST-03281,Bullock-King,C,NET30
+CUST-03282,Miller-Peterson,A,NET30
+CUST-03283,Jackson-Ward,B,NET45
+CUST-03284,Guerra LLC,A,NET30
+CUST-03285,Smith PLC,C,NET45
+CUST-03286,Morris LLC,B,NET30
+CUST-03287,"Allen, Schwartz and Rodriguez",B,NET30
+CUST-03288,Daniels LLC,C,NET30
+CUST-03289,"Ramirez, Guerra and Ross",C,NET30
+CUST-03290,"King, Sanchez and Gonzalez",B,NET45
+CUST-03291,Avila LLC,C,NET30
+CUST-03292,"Moore, Rodgers and Martin",B,NET30
+CUST-03293,Rojas-Duran,C,NET45
+CUST-03294,Diaz-Oneal,B,NET45
+CUST-03295,"Smith, Summers and Robles",B,NET30
+CUST-03296,Fitzpatrick-Wright,C,NET45
+CUST-03297,Harmon Group,B,NET30
+CUST-03298,Davis Inc,C,NET30
+CUST-03299,Webb-Ramirez,A,NET30
+CUST-03300,Perkins PLC,A,NET30
+CUST-03301,"Poole, French and Young",C,NET30
+CUST-03302,"Richardson, Pratt and Davis",C,NET30
+CUST-03303,Walton-West,C,NET45
+CUST-03304,Clark PLC,B,NET45
+CUST-03305,"Edwards, Brown and Munoz",C,NET30
+CUST-03306,Hoover Inc,C,NET30
+CUST-03307,Bright-Eaton,B,NET30
+CUST-03308,"Hayden, Ray and Tyler",C,NET30
+CUST-03309,Jones PLC,C,NET60
+CUST-03310,Cisneros-Ibarra,C,NET45
+CUST-03311,Farmer Inc,C,NET30
+CUST-03312,Becker Ltd,B,NET30
+CUST-03313,Andersen Inc,C,NET30
+CUST-03314,"Bryant, Bailey and Edwards",C,NET30
+CUST-03315,"Johnson, Smith and Dodson",C,NET45
+CUST-03316,Bowers Ltd,B,NET30
+CUST-03317,Bauer-Hammond,A,NET30
+CUST-03318,"Hayden, Moran and Wade",A,NET30
+CUST-03319,Allen and Sons,C,NET30
+CUST-03320,"Ibarra, Lynch and Graham",B,NET30
+CUST-03321,"Chavez, Watson and Gomez",B,NET45
+CUST-03322,Lawrence-Gutierrez,B,NET30
+CUST-03323,Patterson Group,C,NET30
+CUST-03324,Munoz Ltd,A,NET30
+CUST-03325,Smith-Walter,B,NET45
+CUST-03326,Williams Group,B,NET30
+CUST-03327,"Mathews, Diaz and Clark",C,NET30
+CUST-03328,"Smith, Frost and Huber",C,NET30
+CUST-03329,Santiago-Keller,B,NET30
+CUST-03330,Martin Inc,C,NET30
+CUST-03331,"Bryant, Walton and Adams",B,NET30
+CUST-03332,Howell LLC,A,NET60
+CUST-03333,"Ellis, Rose and Norton",A,NET30
+CUST-03334,Brewer-Lee,B,NET30
+CUST-03335,Frank and Sons,C,NET30
+CUST-03336,Ward Inc,B,NET30
+CUST-03337,Rodriguez Group,C,NET30
+CUST-03338,Roberts LLC,B,NET45
+CUST-03339,Wheeler-Ferrell,C,NET30
+CUST-03340,"Mayer, Pugh and Martinez",A,NET30
+CUST-03341,"Solomon, Solomon and Smith",A,NET30
+CUST-03342,Beck and Sons,A,NET30
+CUST-03343,"Mullins, Rodriguez and Moses",B,NET30
+CUST-03344,Cunningham-Schmidt,C,NET30
+CUST-03345,Kelly LLC,C,NET30
+CUST-03346,"Brown, Marsh and Brown",A,NET30
+CUST-03347,Ward-Nguyen,C,NET30
+CUST-03348,Barnett Inc,C,NET30
+CUST-03349,Byrd Inc,B,NET45
+CUST-03350,Glass-Miller,A,NET45
+CUST-03351,Stephens-Scott,C,NET60
+CUST-03352,"Washington, Ross and Moran",A,NET30
+CUST-03353,Coleman-Jones,C,NET30
+CUST-03354,Lane-Burns,C,NET30
+CUST-03355,Preston-Leonard,C,NET30
+CUST-03356,"Garza, Stephenson and Thompson",B,NET30
+CUST-03357,Stark-Burgess,B,NET45
+CUST-03358,"Brown, Berger and Drake",C,NET30
+CUST-03359,"Clark, Arnold and Richardson",A,NET30
+CUST-03360,Cooper Group,C,NET45
+CUST-03361,Singh-Ford,C,NET30
+CUST-03362,Lewis PLC,A,NET30
+CUST-03363,Black LLC,A,NET30
+CUST-03364,Castillo LLC,C,NET30
+CUST-03365,Smith-Thomas,C,NET45
+CUST-03366,"Ferguson, Gentry and Marsh",C,NET30
+CUST-03367,Gamble Inc,C,NET60
+CUST-03368,Rodriguez LLC,C,NET30
+CUST-03369,Garcia-Castillo,C,NET30
+CUST-03370,Peterson Group,B,NET30
+CUST-03371,Mcmahon Ltd,C,NET30
+CUST-03372,Taylor-Jenkins,B,NET45
+CUST-03373,"James, Hancock and Johnston",A,NET45
+CUST-03374,Mendoza Inc,C,NET30
+CUST-03375,Ramos-Perez,B,NET30
+CUST-03376,"Clark, Patton and Hawkins",C,NET30
+CUST-03377,Baird-Farley,B,NET60
+CUST-03378,Butler-Willis,C,NET60
+CUST-03379,"Wright, Carter and Lowe",B,NET45
+CUST-03380,Smith and Sons,B,NET45
+CUST-03381,Lewis-Mann,A,NET45
+CUST-03382,Maldonado Group,A,NET30
+CUST-03383,"Stephens, Sawyer and Kerr",C,NET30
+CUST-03384,Kelley-Rodriguez,B,NET30
+CUST-03385,Buckley PLC,B,NET30
+CUST-03386,Meyer-Jones,C,NET30
+CUST-03387,Zimmerman Inc,B,NET30
+CUST-03388,Ramirez-Francis,B,NET30
+CUST-03389,"Schmidt, Pierce and Williams",C,NET30
+CUST-03390,"Hughes, Sellers and Andrews",B,NET30
+CUST-03391,Moore-Cherry,B,NET30
+CUST-03392,Villarreal-Holder,C,NET45
+CUST-03393,Gonzalez-Alvarez,C,NET45
+CUST-03394,"Brown, Steele and Merritt",C,NET60
+CUST-03395,"Stanton, Porter and Ford",C,NET30
+CUST-03396,"Jones, Nelson and Hess",B,NET30
+CUST-03397,Mcfarland-Wolfe,C,NET30
+CUST-03398,Saunders Group,C,NET30
+CUST-03399,Thompson Inc,A,NET45
+CUST-03400,Cole Inc,C,NET30
+CUST-03401,Baker-Camacho,C,NET30
+CUST-03402,Bush Inc,C,NET30
+CUST-03403,Jones Ltd,C,NET30
+CUST-03404,Pena-Woodard,C,NET30
+CUST-03405,Lee Inc,C,NET30
+CUST-03406,"Hall, Hall and Johnson",C,NET30
+CUST-03407,Davis-Goodman,B,NET30
+CUST-03408,French-Powell,C,NET30
+CUST-03409,Hogan Ltd,B,NET30
+CUST-03410,Butler-Gray,C,NET45
+CUST-03411,Merritt-Lynch,B,NET30
+CUST-03412,"Ingram, Lowe and Robertson",C,NET60
+CUST-03413,Galvan LLC,A,NET30
+CUST-03414,Mercado-Carroll,C,NET30
+CUST-03415,Gibbs Ltd,C,NET30
+CUST-03416,"Skinner, Wise and Ross",B,NET30
+CUST-03417,Morgan-Cruz,C,NET30
+CUST-03418,Hayes-Wallace,B,NET30
+CUST-03419,"Knight, Smith and Eaton",C,NET30
+CUST-03420,Jacobs-Lee,B,NET45
+CUST-03421,"Ward, Price and Harris",A,NET30
+CUST-03422,Doyle-Davenport,C,NET30
+CUST-03423,"Brennan, Crawford and Williams",B,NET30
+CUST-03424,Garcia Ltd,B,NET30
+CUST-03425,Smith and Sons,C,NET30
+CUST-03426,"Cochran, Sullivan and Mullins",C,NET30
+CUST-03427,Burgess-English,C,NET30
+CUST-03428,Lester and Sons,C,NET30
+CUST-03429,Newton-Garcia,C,NET30
+CUST-03430,"Johnson, Sanders and Whitaker",B,NET30
+CUST-03431,Yang and Sons,A,NET30
+CUST-03432,Mccormick PLC,C,NET45
+CUST-03433,"Rosario, Daniels and Ramos",C,NET30
+CUST-03434,Dawson and Sons,C,NET45
+CUST-03435,Martinez and Sons,B,NET45
+CUST-03436,Hill-Ward,B,NET30
+CUST-03437,Murray-Ruiz,C,NET45
+CUST-03438,Lopez LLC,C,NET30
+CUST-03439,Chapman-Gonzalez,C,NET30
+CUST-03440,"Gomez, Taylor and Jimenez",C,NET30
+CUST-03441,Ramirez Ltd,C,NET45
+CUST-03442,Hill LLC,C,NET30
+CUST-03443,"Jones, Kelly and Chandler",C,NET30
+CUST-03444,"Williams, Hodges and Holmes",B,NET30
+CUST-03445,Klein-Merritt,C,NET30
+CUST-03446,"Wilson, Gregory and Castaneda",C,NET30
+CUST-03447,Franco and Sons,C,NET60
+CUST-03448,Taylor-Santos,B,NET30
+CUST-03449,Keller-Robinson,A,NET45
+CUST-03450,Ho and Sons,A,NET30
+CUST-03451,Cook LLC,C,NET30
+CUST-03452,"Noble, Mcguire and Diaz",C,NET30
+CUST-03453,Payne Group,C,NET30
+CUST-03454,Porter Ltd,A,NET30
+CUST-03455,Miller-Smith,B,NET60
+CUST-03456,Brown Ltd,C,NET60
+CUST-03457,Green-Casey,B,NET30
+CUST-03458,"Brooks, Perry and Graham",A,NET30
+CUST-03459,Adams and Sons,A,NET60
+CUST-03460,Rich Group,C,NET30
+CUST-03461,Johnson-Jordan,C,NET30
+CUST-03462,"Lam, Ward and Mack",C,NET30
+CUST-03463,Hartman Inc,C,NET30
+CUST-03464,"Estes, Doyle and Cobb",C,NET30
+CUST-03465,Allen and Sons,C,NET60
+CUST-03466,Carroll and Sons,C,NET30
+CUST-03467,Thompson Inc,B,NET30
+CUST-03468,"Palmer, Roberts and Mckinney",B,NET30
+CUST-03469,Wilson PLC,C,NET30
+CUST-03470,Patterson-Hale,B,NET45
+CUST-03471,Wilson-Martinez,C,NET45
+CUST-03472,Collins-Smith,C,NET30
+CUST-03473,"Clark, Stafford and Little",C,NET30
+CUST-03474,Smith LLC,A,NET30
+CUST-03475,Johnson Group,B,NET30
+CUST-03476,"Morrison, Smith and Hall",A,NET30
+CUST-03477,Ingram Group,C,NET30
+CUST-03478,Paul-White,C,NET30
+CUST-03479,Watts-Brown,C,NET30
+CUST-03480,Gilbert-Marshall,B,NET30
+CUST-03481,Shelton LLC,C,NET30
+CUST-03482,James-Morrison,C,NET45
+CUST-03483,Norris Inc,C,NET45
+CUST-03484,"Perez, Mathews and Ferguson",C,NET45
+CUST-03485,Torres LLC,C,NET30
+CUST-03486,"Bradford, Allen and Boyer",C,NET30
+CUST-03487,"Mcbride, Martinez and Grant",A,NET60
+CUST-03488,Mcclain PLC,C,NET60
+CUST-03489,Williams-Morales,A,NET30
+CUST-03490,"Nguyen, Rodriguez and Wood",B,NET45
+CUST-03491,Arnold and Sons,B,NET45
+CUST-03492,"Kelly, Cruz and Chandler",B,NET30
+CUST-03493,"Henderson, Bradley and Jackson",A,NET60
+CUST-03494,"Davis, Graham and Jones",B,NET30
+CUST-03495,Mullins Ltd,C,NET45
+CUST-03496,Harris-Tucker,A,NET30
+CUST-03497,Anderson Group,C,NET30
+CUST-03498,Nolan Ltd,B,NET30
+CUST-03499,"Harris, Bray and Kim",C,NET30
+CUST-03500,"Rivera, Brown and Mitchell",B,NET45
+CUST-03501,"Church, Sandoval and Hahn",C,NET30
+CUST-03502,"Davis, Goodman and Carter",A,NET30
+CUST-03503,"Levine, Forbes and Matthews",C,NET30
+CUST-03504,"Harvey, Reyes and Jackson",A,NET30
+CUST-03505,Howell-Brown,C,NET45
+CUST-03506,"Prince, Brown and Miller",C,NET30
+CUST-03507,Mitchell-Moore,B,NET60
+CUST-03508,Bullock Ltd,B,NET30
+CUST-03509,Johnson and Sons,A,NET45
+CUST-03510,Montoya PLC,C,NET60
+CUST-03511,Washington-Harding,C,NET45
+CUST-03512,"Cisneros, Odonnell and Sanchez",C,NET30
+CUST-03513,"Schneider, Moore and Jones",B,NET45
+CUST-03514,Hunter Ltd,C,NET30
+CUST-03515,"Fox, Jones and Ramirez",B,NET45
+CUST-03516,James Group,B,NET30
+CUST-03517,Terry and Sons,A,NET30
+CUST-03518,Nash-Rice,B,NET30
+CUST-03519,Sims Inc,B,NET45
+CUST-03520,Banks LLC,C,NET30
+CUST-03521,Davis Inc,C,NET30
+CUST-03522,Barton and Sons,B,NET30
+CUST-03523,Lloyd-Nguyen,C,NET30
+CUST-03524,Duarte Inc,B,NET30
+CUST-03525,Young-Johnson,A,NET45
+CUST-03526,"Williams, Clayton and Castillo",A,NET30
+CUST-03527,"Aguilar, Grant and Burton",B,NET30
+CUST-03528,Clark-Howell,C,NET30
+CUST-03529,"Barnes, Myers and Orr",C,NET30
+CUST-03530,Arellano-Martin,C,NET45
+CUST-03531,"Dunn, Hudson and Ford",C,NET30
+CUST-03532,"Adams, Miller and James",C,NET60
+CUST-03533,Sanchez-Vargas,B,NET30
+CUST-03534,Torres LLC,A,NET30
+CUST-03535,"Harris, Shah and King",A,NET30
+CUST-03536,Mcbride LLC,B,NET60
+CUST-03537,Hutchinson Ltd,B,NET30
+CUST-03538,Sawyer-Jackson,C,NET30
+CUST-03539,Nichols-Pierce,C,NET30
+CUST-03540,"Smith, Gibson and Garcia",C,NET30
+CUST-03541,Schneider PLC,C,NET30
+CUST-03542,Poole-Fowler,C,NET30
+CUST-03543,Jackson PLC,C,NET30
+CUST-03544,Becker Group,A,NET30
+CUST-03545,Parker-Ryan,B,NET60
+CUST-03546,Clark PLC,C,NET30
+CUST-03547,Mejia Ltd,B,NET30
+CUST-03548,Smith-Wilson,B,NET45
+CUST-03549,Lopez and Sons,B,NET30
+CUST-03550,James PLC,C,NET45
+CUST-03551,Harrison-Johnson,C,NET30
+CUST-03552,Floyd PLC,C,NET30
+CUST-03553,Chase Group,B,NET30
+CUST-03554,Owens Inc,C,NET30
+CUST-03555,"Jones, Phillips and Mendoza",C,NET30
+CUST-03556,Lopez LLC,C,NET30
+CUST-03557,Cabrera Ltd,A,NET30
+CUST-03558,Smith and Sons,B,NET30
+CUST-03559,"Jones, Williams and Johnston",C,NET45
+CUST-03560,Anderson-Thomas,A,NET30
+CUST-03561,"Davis, Ross and Wood",A,NET30
+CUST-03562,"Lucas, Alvarez and Herrera",A,NET30
+CUST-03563,"Bruce, Walker and King",A,NET30
+CUST-03564,"Guerra, Brock and Carney",C,NET45
+CUST-03565,"Bell, Flores and Beck",C,NET30
+CUST-03566,"Vaughn, Cantrell and Brown",C,NET45
+CUST-03567,"Sutton, Robinson and Woods",C,NET45
+CUST-03568,"Jones, Hayes and Burke",B,NET30
+CUST-03569,Taylor-Rodriguez,C,NET45
+CUST-03570,Robertson PLC,C,NET60
+CUST-03571,Smith Inc,C,NET30
+CUST-03572,Ellis-Boyer,B,NET45
+CUST-03573,Johnson Group,B,NET30
+CUST-03574,"Gonzalez, Jordan and Simpson",C,NET30
+CUST-03575,"Moreno, Welch and Miller",B,NET30
+CUST-03576,Brown-Friedman,C,NET30
+CUST-03577,Robinson PLC,C,NET30
+CUST-03578,Murphy-Glover,A,NET45
+CUST-03579,Mckee-Barnes,C,NET30
+CUST-03580,Estrada-Delgado,C,NET45
+CUST-03581,"Cooper, Shaffer and Thomas",C,NET30
+CUST-03582,Cortez PLC,A,NET30
+CUST-03583,Thompson-Miller,A,NET30
+CUST-03584,Sanchez-Vang,B,NET30
+CUST-03585,Mendez Inc,A,NET30
+CUST-03586,"King, Bowman and Harvey",B,NET30
+CUST-03587,"Little, Miller and Avery",C,NET30
+CUST-03588,Curtis-Smith,B,NET60
+CUST-03589,Garcia Inc,C,NET30
+CUST-03590,Reed PLC,C,NET30
+CUST-03591,"Hill, Stewart and James",A,NET30
+CUST-03592,Wong PLC,B,NET30
+CUST-03593,"Rivera, Perez and Morris",C,NET30
+CUST-03594,"Dawson, Hernandez and Williams",B,NET45
+CUST-03595,"Cline, Mcdonald and Adams",B,NET45
+CUST-03596,Wang-Le,C,NET30
+CUST-03597,Martin Inc,C,NET30
+CUST-03598,York-Rogers,A,NET30
+CUST-03599,Carter and Sons,A,NET45
+CUST-03600,Thomas and Sons,C,NET30
+CUST-03601,Jacobson Inc,A,NET60
+CUST-03602,Camacho-Walker,A,NET45
+CUST-03603,Glover LLC,C,NET30
+CUST-03604,"Peters, Nguyen and Roberson",B,NET45
+CUST-03605,Smith-Moore,C,NET45
+CUST-03606,"Gonzalez, Wilson and Pratt",C,NET30
+CUST-03607,Gay-Curry,C,NET60
+CUST-03608,Jones-Morgan,C,NET30
+CUST-03609,"Jimenez, Sexton and Williams",C,NET60
+CUST-03610,Moore Group,C,NET45
+CUST-03611,"Nelson, Freeman and Gibson",B,NET45
+CUST-03612,Cox-Perez,A,NET30
+CUST-03613,"Garrett, Brady and Madden",C,NET30
+CUST-03614,Meyer Group,C,NET30
+CUST-03615,Jordan-Lowe,C,NET45
+CUST-03616,"Harris, Jackson and Riddle",A,NET45
+CUST-03617,Gonzalez PLC,C,NET30
+CUST-03618,Edwards-Morales,C,NET30
+CUST-03619,Morgan-Hammond,B,NET30
+CUST-03620,Marquez-Vaughn,C,NET30
+CUST-03621,"Meyer, Adams and Davis",C,NET30
+CUST-03622,Miller-Kirby,C,NET30
+CUST-03623,Garrett-Hudson,A,NET45
+CUST-03624,Allen LLC,A,NET30
+CUST-03625,"Savage, Young and Burgess",C,NET30
+CUST-03626,Jones Inc,C,NET30
+CUST-03627,"Peters, Jackson and Hardy",B,NET30
+CUST-03628,"Stone, Smith and Solomon",C,NET45
+CUST-03629,Harrison LLC,C,NET30
+CUST-03630,"Small, Taylor and Mullins",A,NET30
+CUST-03631,Gomez-Gilmore,C,NET30
+CUST-03632,"Harris, Small and Ramos",C,NET30
+CUST-03633,Mejia Inc,C,NET30
+CUST-03634,Moore-Fitzgerald,B,NET30
+CUST-03635,Howe PLC,C,NET30
+CUST-03636,Davis-Walker,C,NET30
+CUST-03637,Stewart PLC,C,NET30
+CUST-03638,"Ortiz, Jones and Rojas",C,NET45
+CUST-03639,Manning-Santos,B,NET30
+CUST-03640,"Welch, Reynolds and Smith",A,NET30
+CUST-03641,Bowman-Hammond,C,NET45
+CUST-03642,"Roberts, Thomas and Miller",B,NET45
+CUST-03643,Wilkerson-Joyce,A,NET30
+CUST-03644,Reyes-Pineda,A,NET45
+CUST-03645,Snyder PLC,C,NET30
+CUST-03646,Ryan-Valenzuela,B,NET30
+CUST-03647,Armstrong-Lopez,B,NET30
+CUST-03648,"Woods, Cooper and Richardson",A,NET30
+CUST-03649,"Bush, Lewis and Carpenter",C,NET45
+CUST-03650,Armstrong PLC,C,NET45
+CUST-03651,Black-Robinson,A,NET30
+CUST-03652,"Ingram, Dennis and Howe",C,NET60
+CUST-03653,"Harris, Hill and Russell",A,NET30
+CUST-03654,Scott and Sons,C,NET30
+CUST-03655,Smith Inc,B,NET30
+CUST-03656,"Neal, Garcia and Wells",C,NET30
+CUST-03657,"Richard, Wilkins and Ramirez",C,NET30
+CUST-03658,"Douglas, Lewis and Hensley",A,NET30
+CUST-03659,Ware Ltd,B,NET30
+CUST-03660,Pena LLC,B,NET60
+CUST-03661,"Raymond, Anderson and Hahn",C,NET30
+CUST-03662,Hebert PLC,B,NET30
+CUST-03663,"Fox, Fitzgerald and Price",C,NET30
+CUST-03664,Barker PLC,A,NET45
+CUST-03665,Wise-Hill,C,NET30
+CUST-03666,"Sullivan, Newton and Beasley",C,NET45
+CUST-03667,"Bowman, Walter and Alvarado",C,NET30
+CUST-03668,Hughes and Sons,B,NET30
+CUST-03669,"Cole, Porter and Tran",C,NET45
+CUST-03670,"Banks, Sosa and Williams",B,NET45
+CUST-03671,Hicks Inc,C,NET30
+CUST-03672,Williams-Hamilton,B,NET30
+CUST-03673,"Francis, Keller and Scott",C,NET30
+CUST-03674,"Stanley, Wallace and Jackson",C,NET30
+CUST-03675,Davis-Malone,C,NET30
+CUST-03676,Wagner-Lewis,B,NET45
+CUST-03677,Oliver and Sons,B,NET30
+CUST-03678,Mason PLC,A,NET30
+CUST-03679,Orr-Gutierrez,B,NET60
+CUST-03680,Moore-Davis,B,NET45
+CUST-03681,Winters-Salinas,B,NET30
+CUST-03682,"Owens, Lynch and Smith",C,NET45
+CUST-03683,"Donaldson, Moore and Myers",A,NET30
+CUST-03684,Townsend-Wall,B,NET30
+CUST-03685,Brown Ltd,C,NET30
+CUST-03686,Gonzalez Ltd,C,NET45
+CUST-03687,"Quinn, Mcdaniel and Randolph",B,NET30
+CUST-03688,Mcclain Group,B,NET30
+CUST-03689,Flores and Sons,C,NET60
+CUST-03690,Barnes LLC,B,NET45
+CUST-03691,Mccarty-Pace,A,NET30
+CUST-03692,Hunt-Hall,A,NET30
+CUST-03693,Fisher Ltd,C,NET30
+CUST-03694,Mills Group,C,NET30
+CUST-03695,Moyer-Arroyo,C,NET30
+CUST-03696,"Frost, Thompson and Turner",B,NET45
+CUST-03697,"Chapman, Jenkins and Larson",A,NET30
+CUST-03698,Peterson Ltd,A,NET45
+CUST-03699,Smith Group,A,NET30
+CUST-03700,Browning-Jackson,A,NET60
+CUST-03701,"Roberts, Sutton and Hull",B,NET45
+CUST-03702,Blackburn-Klein,A,NET30
+CUST-03703,Gregory Group,C,NET45
+CUST-03704,Johnson and Sons,C,NET30
+CUST-03705,Collins Group,B,NET60
+CUST-03706,"Skinner, Cochran and Cox",B,NET30
+CUST-03707,Hawkins-Whitaker,A,NET30
+CUST-03708,Frederick and Sons,C,NET30
+CUST-03709,Henderson and Sons,A,NET30
+CUST-03710,"Miller, Garza and Miller",C,NET60
+CUST-03711,"Wilcox, Martin and Nelson",A,NET30
+CUST-03712,Yoder-Hunter,A,NET30
+CUST-03713,Gill Group,B,NET30
+CUST-03714,"Walker, Allison and Patrick",A,NET30
+CUST-03715,"Mcconnell, Cobb and Blevins",C,NET30
+CUST-03716,"Reynolds, Collier and Meyer",B,NET30
+CUST-03717,Gonzales-Brady,C,NET30
+CUST-03718,Ortiz-Underwood,B,NET30
+CUST-03719,Oliver Ltd,C,NET30
+CUST-03720,"Robinson, Glenn and Brown",C,NET45
+CUST-03721,Hunter-Yates,B,NET30
+CUST-03722,Rasmussen PLC,C,NET45
+CUST-03723,"Moreno, Campbell and Sloan",C,NET45
+CUST-03724,Stevens Group,A,NET30
+CUST-03725,Fields-Lloyd,A,NET30
+CUST-03726,"Herring, Smith and Patterson",C,NET30
+CUST-03727,Ibarra-Galvan,C,NET30
+CUST-03728,Russell-Espinoza,C,NET30
+CUST-03729,Bell-Henderson,A,NET60
+CUST-03730,"Sweeney, Fletcher and Huffman",C,NET60
+CUST-03731,"Sandoval, Roberts and Cain",A,NET45
+CUST-03732,Walker Inc,A,NET45
+CUST-03733,"Chambers, Nelson and Murphy",A,NET30
+CUST-03734,"Nelson, Case and Rodriguez",B,NET45
+CUST-03735,Flowers and Sons,C,NET30
+CUST-03736,"Acosta, Farley and House",C,NET30
+CUST-03737,Davidson Ltd,C,NET30
+CUST-03738,"Walsh, Guerra and Barber",C,NET30
+CUST-03739,Cline-Campbell,B,NET30
+CUST-03740,Smith-Webb,C,NET60
+CUST-03741,Olson and Sons,C,NET30
+CUST-03742,"Rodriguez, Mcdonald and Thomas",B,NET30
+CUST-03743,Johnson-Baker,C,NET45
+CUST-03744,Bailey-Newton,C,NET30
+CUST-03745,Manning-Neal,B,NET45
+CUST-03746,"Lee, Gray and Johnson",B,NET30
+CUST-03747,Coleman-Reynolds,A,NET45
+CUST-03748,Gay-Andrews,A,NET60
+CUST-03749,Rodriguez Ltd,A,NET30
+CUST-03750,"Brown, White and Mcintosh",A,NET30
+CUST-03751,Green Ltd,C,NET30
+CUST-03752,Galloway Group,C,NET30
+CUST-03753,Murray-Brooks,B,NET30
+CUST-03754,Smith Group,C,NET30
+CUST-03755,"Thomas, Robinson and Smith",C,NET45
+CUST-03756,"Hull, Johnson and Hicks",B,NET30
+CUST-03757,Mason-Turner,C,NET60
+CUST-03758,Benson-Terrell,C,NET30
+CUST-03759,"Giles, Rollins and Duran",A,NET30
+CUST-03760,Tran Group,B,NET60
+CUST-03761,Arnold and Sons,B,NET45
+CUST-03762,"Martinez, Perkins and Yang",B,NET30
+CUST-03763,Owen and Sons,A,NET30
+CUST-03764,"Petty, Cooper and Crawford",A,NET30
+CUST-03765,Gibbs-Graves,A,NET30
+CUST-03766,Jones-Orr,C,NET30
+CUST-03767,"Scott, Richards and Mitchell",C,NET30
+CUST-03768,Hayes LLC,B,NET60
+CUST-03769,Nichols LLC,C,NET30
+CUST-03770,Parsons-Ford,C,NET30
+CUST-03771,Graham Group,B,NET30
+CUST-03772,"Henry, Cox and Jacobson",C,NET30
+CUST-03773,Mccormick-Schwartz,C,NET45
+CUST-03774,Graves and Sons,A,NET30
+CUST-03775,"Taylor, Ware and Wolfe",A,NET45
+CUST-03776,"Baxter, Bailey and Hurst",C,NET45
+CUST-03777,Miles LLC,C,NET30
+CUST-03778,Williams Inc,C,NET30
+CUST-03779,Davis-Cunningham,C,NET30
+CUST-03780,Morgan Group,C,NET60
+CUST-03781,Smith-Miller,C,NET30
+CUST-03782,West-Thomas,C,NET30
+CUST-03783,Nelson PLC,B,NET30
+CUST-03784,Marshall Inc,B,NET30
+CUST-03785,Jackson-White,B,NET45
+CUST-03786,Richards-Hampton,C,NET30
+CUST-03787,Mason Group,C,NET30
+CUST-03788,Neal-Bautista,C,NET30
+CUST-03789,Sanders-Andrade,C,NET30
+CUST-03790,Adams-Williams,B,NET30
+CUST-03791,Compton and Sons,C,NET60
+CUST-03792,Miller Ltd,C,NET30
+CUST-03793,Howard-Garcia,B,NET30
+CUST-03794,"Garcia, Cruz and Chambers",B,NET30
+CUST-03795,Andrews-Bonilla,A,NET45
+CUST-03796,Dennis-Martin,C,NET45
+CUST-03797,Rodgers-Wood,B,NET30
+CUST-03798,Bailey-Navarro,B,NET30
+CUST-03799,"Dixon, Grant and Cox",B,NET30
+CUST-03800,Castillo-Stone,C,NET30
+CUST-03801,"Carey, Harris and Anderson",B,NET60
+CUST-03802,Jones-Miles,C,NET30
+CUST-03803,Davies and Sons,A,NET60
+CUST-03804,"Martinez, Patrick and Stewart",B,NET30
+CUST-03805,"Jones, Reed and Vasquez",A,NET30
+CUST-03806,Garcia and Sons,B,NET30
+CUST-03807,Murphy-Davis,B,NET30
+CUST-03808,Washington-Tate,B,NET30
+CUST-03809,Davis LLC,C,NET30
+CUST-03810,Rivera-Lynch,B,NET45
+CUST-03811,"Brown, Leblanc and Lewis",C,NET30
+CUST-03812,Herrera and Sons,C,NET30
+CUST-03813,Schneider Inc,C,NET30
+CUST-03814,Brown PLC,A,NET30
+CUST-03815,Stevens-Moore,B,NET30
+CUST-03816,Benson-Patterson,C,NET30
+CUST-03817,Patel and Sons,C,NET45
+CUST-03818,"Walker, Ramsey and Schmidt",C,NET30
+CUST-03819,"Jones, Bailey and Miller",C,NET30
+CUST-03820,Le-Norris,C,NET30
+CUST-03821,"Reyes, Acosta and Flowers",C,NET30
+CUST-03822,Hale-Carroll,C,NET30
+CUST-03823,"Cooper, Poole and King",C,NET30
+CUST-03824,Hall-Campbell,C,NET30
+CUST-03825,"Harris, Evans and Williams",B,NET45
+CUST-03826,Carlson-Hamilton,C,NET60
+CUST-03827,"Scott, Davis and Gonzalez",C,NET30
+CUST-03828,Russell-Diaz,A,NET45
+CUST-03829,"Lewis, Castaneda and Barnes",A,NET30
+CUST-03830,"Bennett, Huynh and Baker",C,NET45
+CUST-03831,Aguirre Group,A,NET30
+CUST-03832,"Best, Aguirre and Morrison",B,NET30
+CUST-03833,Wilson-Vargas,C,NET30
+CUST-03834,Swanson Ltd,B,NET30
+CUST-03835,Kane-Morris,B,NET30
+CUST-03836,"Archer, Clark and Butler",A,NET30
+CUST-03837,Richardson PLC,A,NET30
+CUST-03838,Castro and Sons,C,NET30
+CUST-03839,"Riley, Wilson and Jones",B,NET30
+CUST-03840,Lee LLC,A,NET60
+CUST-03841,Evans and Sons,C,NET30
+CUST-03842,"Chandler, King and Peters",C,NET30
+CUST-03843,Miles-Padilla,A,NET30
+CUST-03844,"Robbins, Warren and Swanson",A,NET30
+CUST-03845,Myers Group,B,NET30
+CUST-03846,Lopez Ltd,C,NET30
+CUST-03847,Holland and Sons,A,NET45
+CUST-03848,"Nelson, Little and Mills",B,NET30
+CUST-03849,Morales-Vargas,B,NET30
+CUST-03850,Roberts-Santos,B,NET60
+CUST-03851,Brown-Reid,B,NET30
+CUST-03852,Jackson Group,A,NET45
+CUST-03853,Scott Ltd,C,NET30
+CUST-03854,"Edwards, Bennett and Peterson",B,NET30
+CUST-03855,Brown Inc,A,NET60
+CUST-03856,Crawford-Roberts,C,NET60
+CUST-03857,Goodman-Russell,C,NET30
+CUST-03858,Jennings LLC,C,NET45
+CUST-03859,Hall-Fuller,C,NET30
+CUST-03860,Koch-Blair,C,NET30
+CUST-03861,"Gonzalez, Morrison and Baker",B,NET45
+CUST-03862,"Wilson, Chan and Mitchell",B,NET30
+CUST-03863,Brown and Sons,C,NET30
+CUST-03864,"Kennedy, Dunn and Diaz",A,NET30
+CUST-03865,Thomas-Newman,A,NET45
+CUST-03866,Powell Ltd,C,NET30
+CUST-03867,Schwartz Ltd,C,NET45
+CUST-03868,"Russell, Rodriguez and Miller",C,NET30
+CUST-03869,Knox and Sons,C,NET30
+CUST-03870,Kennedy-Schneider,A,NET60
+CUST-03871,"Park, Bowen and Reynolds",A,NET30
+CUST-03872,Greene Group,C,NET30
+CUST-03873,"Small, Howe and Richardson",C,NET30
+CUST-03874,Wilson-Gillespie,C,NET30
+CUST-03875,Aguirre-Romero,A,NET30
+CUST-03876,"Stewart, Davis and Torres",B,NET30
+CUST-03877,Carlson-Smith,B,NET45
+CUST-03878,Villanueva Inc,C,NET45
+CUST-03879,Morales PLC,C,NET30
+CUST-03880,"Miller, Brown and Alexander",A,NET60
+CUST-03881,"Zimmerman, Love and Smith",C,NET30
+CUST-03882,Hardy Inc,B,NET45
+CUST-03883,Clarke-Lopez,A,NET30
+CUST-03884,Jordan-Kelley,C,NET60
+CUST-03885,"Gonzalez, Flores and Burke",B,NET60
+CUST-03886,King-James,B,NET30
+CUST-03887,Harris LLC,C,NET60
+CUST-03888,Lamb Inc,B,NET60
+CUST-03889,Wiley Group,C,NET45
+CUST-03890,Reynolds Group,B,NET30
+CUST-03891,Hammond-Myers,C,NET30
+CUST-03892,Brown PLC,A,NET60
+CUST-03893,Smith PLC,B,NET30
+CUST-03894,Lester-Hopkins,C,NET30
+CUST-03895,Rivera-Weaver,B,NET30
+CUST-03896,Figueroa and Sons,C,NET30
+CUST-03897,"Morris, Sanchez and Miller",A,NET60
+CUST-03898,"Smith, Hill and Barnes",C,NET30
+CUST-03899,Fernandez Ltd,B,NET60
+CUST-03900,Middleton and Sons,B,NET30
+CUST-03901,Harvey LLC,C,NET30
+CUST-03902,"Torres, Fisher and Terry",B,NET30
+CUST-03903,White Ltd,B,NET45
+CUST-03904,"Jackson, Meyer and Brennan",B,NET45
+CUST-03905,"Moore, Henderson and Moore",C,NET45
+CUST-03906,Stewart-Goodman,C,NET60
+CUST-03907,Turner Inc,B,NET30
+CUST-03908,"Jacobson, Huff and Simmons",A,NET45
+CUST-03909,"Contreras, Ortiz and King",A,NET30
+CUST-03910,Soto Group,A,NET30
+CUST-03911,Mosley-Phillips,C,NET30
+CUST-03912,"Harris, Collins and Martinez",C,NET45
+CUST-03913,Harris PLC,A,NET30
+CUST-03914,Rodgers-Clark,B,NET60
+CUST-03915,Sullivan and Sons,C,NET30
+CUST-03916,Castillo Ltd,A,NET45
+CUST-03917,Lopez Inc,A,NET30
+CUST-03918,Mitchell and Sons,C,NET45
+CUST-03919,Reynolds-Paul,C,NET60
+CUST-03920,Cummings-Smith,C,NET30
+CUST-03921,Lee-Cole,C,NET30
+CUST-03922,Harris and Sons,A,NET30
+CUST-03923,Thomas-Espinoza,C,NET45
+CUST-03924,Gray LLC,C,NET30
+CUST-03925,Gibbs Group,C,NET30
+CUST-03926,Cochran Group,C,NET30
+CUST-03927,Zimmerman-Boyd,B,NET30
+CUST-03928,Avery Group,B,NET30
+CUST-03929,Vasquez Inc,C,NET30
+CUST-03930,Johnson-Jacobs,C,NET30
+CUST-03931,Allen Group,B,NET30
+CUST-03932,Morris LLC,C,NET30
+CUST-03933,Clark-Barajas,C,NET45
+CUST-03934,Lowe and Sons,A,NET30
+CUST-03935,Bender and Sons,B,NET30
+CUST-03936,"Suarez, Landry and Strickland",C,NET60
+CUST-03937,Watkins Ltd,C,NET60
+CUST-03938,"White, Everett and Stewart",C,NET30
+CUST-03939,Farmer Inc,B,NET30
+CUST-03940,"Cervantes, Brown and Arroyo",B,NET60
+CUST-03941,Morales-Ramos,C,NET30
+CUST-03942,"Jacobs, Clark and Melton",C,NET45
+CUST-03943,Barton and Sons,C,NET30
+CUST-03944,Anderson-Sparks,C,NET30
+CUST-03945,"Ramos, Fitzgerald and Jordan",C,NET30
+CUST-03946,Gonzalez and Sons,C,NET45
+CUST-03947,Brown-Garcia,B,NET30
+CUST-03948,"Reid, Torres and Boyd",A,NET45
+CUST-03949,Flores Group,B,NET45
+CUST-03950,Baker Inc,A,NET30
+CUST-03951,"Garrett, Mendoza and King",B,NET30
+CUST-03952,Case-Sosa,C,NET60
+CUST-03953,Schroeder LLC,C,NET30
+CUST-03954,"Taylor, Russell and Brooks",A,NET30
+CUST-03955,Miller Ltd,C,NET30
+CUST-03956,Mcintyre Inc,B,NET45
+CUST-03957,Fields-Schneider,A,NET30
+CUST-03958,"Barron, Daniel and Fleming",C,NET45
+CUST-03959,Cole-Norman,C,NET60
+CUST-03960,Scott Ltd,C,NET30
+CUST-03961,Levine-Bennett,A,NET30
+CUST-03962,"Keller, Carrillo and Butler",A,NET45
+CUST-03963,Carter LLC,C,NET30
+CUST-03964,Kaiser-Sanchez,C,NET45
+CUST-03965,Cross and Sons,B,NET30
+CUST-03966,Lucas-Hill,C,NET30
+CUST-03967,"Cruz, Sullivan and Hall",C,NET30
+CUST-03968,Ramirez-Durham,C,NET30
+CUST-03969,"Jones, Edwards and Smith",A,NET45
+CUST-03970,Martinez-Graham,A,NET60
+CUST-03971,"Howard, Johnson and Williams",B,NET30
+CUST-03972,Daugherty and Sons,C,NET30
+CUST-03973,Strong PLC,B,NET45
+CUST-03974,"Ross, Perry and Stewart",A,NET30
+CUST-03975,Wiggins Group,C,NET30
+CUST-03976,"Campbell, Hart and Jordan",A,NET30
+CUST-03977,"Campos, Kirk and Rodriguez",B,NET30
+CUST-03978,"Smith, Mora and Davis",C,NET30
+CUST-03979,"Myers, Johnson and Sanchez",B,NET45
+CUST-03980,Mills Inc,C,NET45
+CUST-03981,"Mathews, Hughes and Boyer",C,NET30
+CUST-03982,"Cannon, Duke and Campbell",C,NET45
+CUST-03983,"Blake, Brown and Evans",C,NET30
+CUST-03984,Mcclain-Mullins,C,NET30
+CUST-03985,Roberts-Bryan,C,NET60
+CUST-03986,"Rose, Brown and Hensley",C,NET30
+CUST-03987,"Cruz, Leon and Ramos",C,NET30
+CUST-03988,Rivera-Lopez,B,NET30
+CUST-03989,Parker Group,B,NET45
+CUST-03990,Vaughn-Johnson,C,NET60
+CUST-03991,Howard and Sons,C,NET30
+CUST-03992,Jackson-Salazar,C,NET30
+CUST-03993,Esparza PLC,C,NET45
+CUST-03994,"Buckley, Frost and Holmes",C,NET30
+CUST-03995,Duarte LLC,B,NET30
+CUST-03996,"Rodriguez, Gardner and Roberts",B,NET60
+CUST-03997,"Brown, Johnson and Mcfarland",C,NET30
+CUST-03998,Humphrey-Silva,C,NET30
+CUST-03999,Smith-Lynch,B,NET45
+CUST-04000,Hunt-Hoffman,A,NET30
+CUST-04001,Henry-Morales,C,NET45
+CUST-04002,"Drake, Perez and Allen",C,NET45
+CUST-04003,Jones-Allen,A,NET30
+CUST-04004,Davidson Inc,A,NET30
+CUST-04005,Watson PLC,C,NET60
+CUST-04006,Atkinson-Gutierrez,B,NET45
+CUST-04007,Boyle-Powers,B,NET30
+CUST-04008,Lee and Sons,B,NET45
+CUST-04009,Richardson PLC,C,NET30
+CUST-04010,White-Parrish,C,NET30
+CUST-04011,Williams Group,C,NET30
+CUST-04012,Robertson Group,B,NET30
+CUST-04013,Scott-Dalton,B,NET60
+CUST-04014,Johnson-Hardin,B,NET30
+CUST-04015,James Group,B,NET60
+CUST-04016,Hansen Inc,B,NET45
+CUST-04017,Jones Group,C,NET45
+CUST-04018,Williams PLC,B,NET45
+CUST-04019,Dean LLC,C,NET30
+CUST-04020,Ward-Miller,C,NET45
+CUST-04021,Burns LLC,A,NET30
+CUST-04022,Crane LLC,A,NET60
+CUST-04023,Horton-Ryan,C,NET30
+CUST-04024,Graves-Phillips,A,NET30
+CUST-04025,Burns-Holmes,C,NET30
+CUST-04026,Hunter-Wilson,C,NET30
+CUST-04027,Hughes Ltd,A,NET60
+CUST-04028,"Perry, Herrera and Reed",B,NET30
+CUST-04029,Kelly and Sons,B,NET45
+CUST-04030,Simpson-Garcia,C,NET30
+CUST-04031,Martinez-Valdez,C,NET45
+CUST-04032,Hill-Hill,B,NET30
+CUST-04033,Romero-Ramirez,C,NET30
+CUST-04034,Thomas Ltd,C,NET30
+CUST-04035,Gutierrez Group,B,NET30
+CUST-04036,Williams-Welch,A,NET45
+CUST-04037,"Bean, Burns and Pratt",C,NET45
+CUST-04038,"Ochoa, Perez and Jenkins",A,NET45
+CUST-04039,Jones-Hamilton,A,NET30
+CUST-04040,Wood-Webb,B,NET30
+CUST-04041,English and Sons,C,NET45
+CUST-04042,Garcia-Smith,B,NET45
+CUST-04043,"Marshall, Washington and Gill",B,NET30
+CUST-04044,"Schmitt, Mcbride and Manning",C,NET45
+CUST-04045,Dorsey-Jackson,A,NET30
+CUST-04046,Barnes LLC,C,NET45
+CUST-04047,Ellis LLC,A,NET30
+CUST-04048,"Carrillo, Burns and Johnson",C,NET30
+CUST-04049,Sherman PLC,C,NET30
+CUST-04050,"Johnson, Weber and Guerrero",B,NET30
+CUST-04051,Perez PLC,C,NET30
+CUST-04052,Johnson LLC,B,NET30
+CUST-04053,Martin and Sons,A,NET45
+CUST-04054,Morgan-Young,B,NET30
+CUST-04055,"Osborne, Davenport and Wilson",C,NET45
+CUST-04056,Smith-Brown,B,NET45
+CUST-04057,Mccall-Smith,C,NET45
+CUST-04058,Delgado and Sons,C,NET60
+CUST-04059,Brown-Stein,C,NET30
+CUST-04060,Harrison-Neal,C,NET30
+CUST-04061,Parrish-Ramos,B,NET30
+CUST-04062,Nelson Ltd,C,NET60
+CUST-04063,"Williams, Jackson and Small",C,NET45
+CUST-04064,Cantrell PLC,C,NET30
+CUST-04065,Weeks-Smith,C,NET45
+CUST-04066,Michael-Walker,B,NET30
+CUST-04067,Cooper-Griffin,B,NET30
+CUST-04068,Santos Group,B,NET30
+CUST-04069,"Lawrence, Flowers and Curry",C,NET30
+CUST-04070,"Decker, English and Mendez",B,NET30
+CUST-04071,Perkins Ltd,C,NET30
+CUST-04072,"Murray, Brown and Smith",C,NET45
+CUST-04073,Ramos Ltd,B,NET30
+CUST-04074,White-Shaw,B,NET30
+CUST-04075,"Leon, Shelton and Baker",B,NET45
+CUST-04076,"Blair, Miller and Perez",C,NET30
+CUST-04077,Cowan-Mendez,C,NET30
+CUST-04078,Hernandez Group,C,NET60
+CUST-04079,Sosa-Davis,C,NET30
+CUST-04080,Griffin-Wong,C,NET60
+CUST-04081,"Hays, Henry and Camacho",C,NET45
+CUST-04082,Crawford LLC,C,NET45
+CUST-04083,Sharp-Cook,C,NET30
+CUST-04084,"Jackson, Gray and Richard",C,NET30
+CUST-04085,"Young, Mora and Manning",C,NET30
+CUST-04086,"Lewis, Gomez and Decker",C,NET60
+CUST-04087,Lutz-Lee,A,NET30
+CUST-04088,"Stevenson, Price and Moore",C,NET30
+CUST-04089,Taylor LLC,A,NET30
+CUST-04090,"Wilson, Johnson and Arias",C,NET30
+CUST-04091,"Stevens, Ortiz and Payne",C,NET30
+CUST-04092,"Dillon, Johnson and Williams",A,NET30
+CUST-04093,Schroeder-Ramos,C,NET45
+CUST-04094,Brown Inc,A,NET60
+CUST-04095,Robinson PLC,B,NET30
+CUST-04096,Vega-Cuevas,C,NET30
+CUST-04097,"Snyder, Peterson and Newman",A,NET30
+CUST-04098,Choi-Tucker,C,NET30
+CUST-04099,Reyes Inc,A,NET30
+CUST-04100,"Perez, Simmons and May",A,NET30
+CUST-04101,Walker LLC,C,NET30
+CUST-04102,Nguyen Inc,B,NET30
+CUST-04103,Jimenez-Castro,C,NET45
+CUST-04104,"Roy, Miller and Pena",C,NET30
+CUST-04105,Ellison PLC,B,NET30
+CUST-04106,Anthony LLC,C,NET30
+CUST-04107,"Armstrong, Garcia and Howell",C,NET30
+CUST-04108,Cooper-Hudson,B,NET45
+CUST-04109,Patel-Hall,A,NET30
+CUST-04110,Brooks PLC,C,NET30
+CUST-04111,Combs Inc,A,NET45
+CUST-04112,"Harris, Griffin and Wright",B,NET60
+CUST-04113,Holmes Inc,B,NET45
+CUST-04114,"Ferrell, Garcia and Johnson",C,NET45
+CUST-04115,Kelly LLC,B,NET60
+CUST-04116,Cabrera-Lucas,B,NET45
+CUST-04117,Jones-Schneider,A,NET30
+CUST-04118,Black Ltd,A,NET30
+CUST-04119,Jones-Barron,A,NET60
+CUST-04120,Evans PLC,A,NET60
+CUST-04121,Wood-West,B,NET30
+CUST-04122,Owen Group,A,NET30
+CUST-04123,"Johnson, Valencia and Clark",B,NET60
+CUST-04124,Jones-Floyd,B,NET30
+CUST-04125,"Cervantes, Johnson and Peterson",A,NET45
+CUST-04126,Wagner PLC,C,NET60
+CUST-04127,Davis Ltd,B,NET30
+CUST-04128,"Best, Turner and Walker",A,NET30
+CUST-04129,Morgan and Sons,A,NET30
+CUST-04130,"Ramirez, Gonzalez and King",B,NET60
+CUST-04131,"Stokes, Sanford and Jacobson",B,NET45
+CUST-04132,Hill Group,B,NET30
+CUST-04133,"Brown, Perez and Kline",B,NET30
+CUST-04134,Cruz LLC,B,NET30
+CUST-04135,"Hart, Larsen and Fletcher",C,NET45
+CUST-04136,"Moss, Cook and Fry",A,NET30
+CUST-04137,Potter LLC,B,NET45
+CUST-04138,"Summers, Lawrence and Sanchez",C,NET45
+CUST-04139,Martinez and Sons,C,NET30
+CUST-04140,Grimes-Grant,B,NET30
+CUST-04141,Turner-Peterson,C,NET60
+CUST-04142,Hernandez Inc,B,NET30
+CUST-04143,Hogan-Olson,A,NET30
+CUST-04144,"Bailey, Henson and Franco",A,NET30
+CUST-04145,Hicks Inc,B,NET30
+CUST-04146,"Turner, Hill and Cook",B,NET30
+CUST-04147,Allen-Collier,B,NET30
+CUST-04148,Williams PLC,B,NET60
+CUST-04149,Cameron PLC,B,NET30
+CUST-04150,Turner Group,C,NET30
+CUST-04151,Johnson-Cooper,B,NET30
+CUST-04152,Jones-Hall,C,NET30
+CUST-04153,"Jenkins, Thompson and Castro",C,NET30
+CUST-04154,Mendoza PLC,B,NET45
+CUST-04155,Simpson Group,C,NET30
+CUST-04156,"Johnson, Knight and Morris",C,NET30
+CUST-04157,"Smith, Bowman and Benton",B,NET30
+CUST-04158,Stevens-Klein,B,NET45
+CUST-04159,"Owens, Wilkerson and Ramos",A,NET30
+CUST-04160,Wright Group,C,NET60
+CUST-04161,Douglas LLC,B,NET45
+CUST-04162,Kelly-Torres,C,NET45
+CUST-04163,"Medina, Jackson and Andersen",B,NET30
+CUST-04164,"Davis, Harris and Pearson",C,NET45
+CUST-04165,"Hooper, Goodwin and Nelson",C,NET60
+CUST-04166,Castaneda-Watson,C,NET60
+CUST-04167,"Reilly, Camacho and Clark",B,NET30
+CUST-04168,"Smith, Miller and Lee",C,NET30
+CUST-04169,Harding PLC,B,NET30
+CUST-04170,Nichols-Cameron,A,NET30
+CUST-04171,"Walker, Huynh and Reynolds",B,NET30
+CUST-04172,Cisneros-Hernandez,C,NET30
+CUST-04173,Brown-Gardner,B,NET45
+CUST-04174,"Wright, Alexander and Rodriguez",C,NET60
+CUST-04175,Pugh-Pena,A,NET30
+CUST-04176,Sanders-Davis,C,NET30
+CUST-04177,"Hayes, Peters and Andrade",B,NET30
+CUST-04178,Price PLC,C,NET30
+CUST-04179,Munoz Ltd,C,NET30
+CUST-04180,Miller-Chavez,B,NET30
+CUST-04181,Murray and Sons,B,NET45
+CUST-04182,Tanner Inc,C,NET30
+CUST-04183,Hardy-Smith,C,NET30
+CUST-04184,Medina-Murphy,C,NET60
+CUST-04185,"Johnson, Pierce and Stevens",A,NET30
+CUST-04186,Lewis Ltd,C,NET30
+CUST-04187,"Andrade, Griffith and Morales",C,NET45
+CUST-04188,Fox LLC,B,NET45
+CUST-04189,White-Burke,B,NET30
+CUST-04190,Sherman and Sons,A,NET30
+CUST-04191,"Reynolds, Jones and Woodard",A,NET45
+CUST-04192,"Smith, Bennett and Harris",C,NET30
+CUST-04193,Johnson-Sutton,B,NET30
+CUST-04194,Anderson Ltd,B,NET30
+CUST-04195,Booth-Rodriguez,C,NET30
+CUST-04196,"Juarez, Mcdowell and Mccoy",C,NET30
+CUST-04197,Richardson and Sons,B,NET30
+CUST-04198,"Stewart, Johnson and Collins",C,NET60
+CUST-04199,Blevins-Brewer,B,NET30
+CUST-04200,Jimenez-Gray,B,NET60
+CUST-04201,Austin Ltd,C,NET30
+CUST-04202,"Mcconnell, Hernandez and Rodriguez",B,NET30
+CUST-04203,Jones Group,B,NET30
+CUST-04204,"Torres, Rose and Garrison",C,NET30
+CUST-04205,Hall and Sons,B,NET30
+CUST-04206,Duran-Bennett,B,NET30
+CUST-04207,Thomas-Hanson,C,NET30
+CUST-04208,"Ward, Pena and Ross",A,NET45
+CUST-04209,Black and Sons,C,NET45
+CUST-04210,Holden-Rivera,C,NET30
+CUST-04211,Taylor-Best,A,NET30
+CUST-04212,Hall Ltd,B,NET30
+CUST-04213,Tucker-Brown,C,NET30
+CUST-04214,Smith LLC,C,NET60
+CUST-04215,Johnston PLC,B,NET30
+CUST-04216,Jones Ltd,C,NET30
+CUST-04217,Vasquez-Wilson,C,NET45
+CUST-04218,"Black, Campbell and Black",C,NET30
+CUST-04219,"Cooley, Adams and Hughes",C,NET30
+CUST-04220,Trevino-Hampton,C,NET30
+CUST-04221,Wiggins-Ray,C,NET60
+CUST-04222,"Morris, Green and Lynch",A,NET30
+CUST-04223,Mccormick-Holmes,A,NET30
+CUST-04224,"Gross, Newton and Thompson",C,NET30
+CUST-04225,Young-Hunter,C,NET60
+CUST-04226,"Ellis, Wright and Gaines",C,NET30
+CUST-04227,Hernandez Inc,B,NET30
+CUST-04228,Olson Inc,C,NET30
+CUST-04229,King LLC,C,NET30
+CUST-04230,Buchanan PLC,B,NET60
+CUST-04231,Salas PLC,A,NET30
+CUST-04232,Porter LLC,C,NET45
+CUST-04233,"Wilkins, Martinez and Chavez",C,NET60
+CUST-04234,"Smith, Soto and Davis",A,NET30
+CUST-04235,"Brown, Barker and Mccarty",B,NET30
+CUST-04236,"Morton, Boyer and Henson",C,NET30
+CUST-04237,Macdonald-Bradley,B,NET30
+CUST-04238,Lozano Group,B,NET30
+CUST-04239,Whitaker-Mendez,A,NET45
+CUST-04240,Bishop LLC,B,NET60
+CUST-04241,Carter-Lucas,C,NET30
+CUST-04242,Nolan-Flores,B,NET30
+CUST-04243,Davis and Sons,A,NET45
+CUST-04244,Smith-Morales,C,NET45
+CUST-04245,"Gates, Johnson and Walker",B,NET45
+CUST-04246,Davis-Perkins,C,NET30
+CUST-04247,Johnson Group,B,NET30
+CUST-04248,"Shepard, Mcpherson and Foster",B,NET45
+CUST-04249,Kelly-Rivera,B,NET30
+CUST-04250,"Cook, Ramos and Singh",B,NET30
+CUST-04251,Pennington Group,C,NET30
+CUST-04252,Williams-Johnson,C,NET60
+CUST-04253,Parker Group,B,NET60
+CUST-04254,Brown Inc,A,NET45
+CUST-04255,Garcia PLC,C,NET30
+CUST-04256,Murphy-Bray,B,NET30
+CUST-04257,Edwards and Sons,C,NET30
+CUST-04258,"Miranda, Bush and Lowe",C,NET30
+CUST-04259,Williams LLC,B,NET30
+CUST-04260,"Hall, Andrews and Stephens",C,NET60
+CUST-04261,"Little, Lambert and Stephens",C,NET30
+CUST-04262,Roberts-Johnson,C,NET30
+CUST-04263,"Calderon, Meyers and Brooks",C,NET60
+CUST-04264,"Wright, Davis and Byrd",C,NET60
+CUST-04265,Bentley PLC,A,NET60
+CUST-04266,Young and Sons,A,NET60
+CUST-04267,Novak Group,A,NET30
+CUST-04268,Vargas LLC,B,NET30
+CUST-04269,"Padilla, Turner and King",C,NET30
+CUST-04270,"Wolf, Newman and Davis",B,NET30
+CUST-04271,"Douglas, Aguilar and Ballard",C,NET30
+CUST-04272,Mckinney LLC,C,NET30
+CUST-04273,Martin-Newman,A,NET30
+CUST-04274,Moreno Inc,C,NET30
+CUST-04275,"Curtis, Black and Gibson",C,NET45
+CUST-04276,"Nguyen, Griffin and Lucas",C,NET30
+CUST-04277,Mejia-Martinez,C,NET30
+CUST-04278,"Arnold, Miller and Maynard",B,NET30
+CUST-04279,"Jones, Wilson and Peterson",C,NET60
+CUST-04280,Crane-Reyes,B,NET60
+CUST-04281,"Moore, Russell and Everett",C,NET45
+CUST-04282,Floyd and Sons,C,NET60
+CUST-04283,"Dalton, Ford and Newton",C,NET45
+CUST-04284,"Peterson, Brown and Rodriguez",A,NET45
+CUST-04285,Brown Group,C,NET30
+CUST-04286,Brady-Singh,B,NET30
+CUST-04287,Monroe-Middleton,C,NET30
+CUST-04288,Mckay Ltd,B,NET30
+CUST-04289,"Bruce, Barber and Hood",C,NET30
+CUST-04290,Harris-Cox,B,NET30
+CUST-04291,"Griffin, Snyder and Andersen",B,NET30
+CUST-04292,Sawyer Ltd,C,NET30
+CUST-04293,Griffin PLC,C,NET30
+CUST-04294,"Hill, Hurley and Kelly",B,NET30
+CUST-04295,"Oliver, Hamilton and Lane",B,NET30
+CUST-04296,Hernandez-Lucero,B,NET30
+CUST-04297,Rice-Ramirez,B,NET30
+CUST-04298,Guerrero-Ellis,A,NET60
+CUST-04299,Figueroa Inc,A,NET30
+CUST-04300,Baker-Powers,A,NET30
+CUST-04301,Davis-Dunn,C,NET30
+CUST-04302,Pittman Inc,A,NET30
+CUST-04303,"Leon, Cantu and Patrick",C,NET30
+CUST-04304,Porter Group,C,NET30
+CUST-04305,"Everett, Turner and Holmes",B,NET30
+CUST-04306,"Lowe, Flores and Hartman",A,NET30
+CUST-04307,Noble Ltd,B,NET60
+CUST-04308,Lucas PLC,A,NET45
+CUST-04309,Rivera and Sons,B,NET45
+CUST-04310,Houston LLC,C,NET30
+CUST-04311,"Juarez, Williams and Smith",A,NET30
+CUST-04312,Sherman-Alexander,B,NET30
+CUST-04313,Jones-Adams,C,NET60
+CUST-04314,"Black, Wright and Fisher",C,NET30
+CUST-04315,"Kaiser, Goodman and Craig",C,NET30
+CUST-04316,"Campbell, Waller and Ellis",B,NET60
+CUST-04317,"Williams, Jackson and Hall",B,NET30
+CUST-04318,Riggs-Barber,A,NET30
+CUST-04319,Smith and Sons,B,NET45
+CUST-04320,White Group,B,NET30
+CUST-04321,Atkins Ltd,A,NET30
+CUST-04322,"Jimenez, Parker and Bennett",B,NET30
+CUST-04323,Burton-Scott,C,NET30
+CUST-04324,"Turner, Rogers and Lang",C,NET60
+CUST-04325,"Jones, James and Estrada",C,NET30
+CUST-04326,Rodriguez and Sons,C,NET45
+CUST-04327,"Krueger, Henson and Torres",C,NET45
+CUST-04328,Curtis-Heath,C,NET45
+CUST-04329,Holland PLC,C,NET30
+CUST-04330,Hanson Ltd,A,NET30
+CUST-04331,"Jackson, Munoz and Rivers",A,NET30
+CUST-04332,Sheppard-Reed,A,NET30
+CUST-04333,George-Jones,B,NET60
+CUST-04334,Garrett Group,C,NET30
+CUST-04335,"Mathews, Moore and Singh",A,NET60
+CUST-04336,Jones Inc,A,NET45
+CUST-04337,Olsen PLC,C,NET45
+CUST-04338,"Watson, Long and Harmon",B,NET30
+CUST-04339,Collins Inc,B,NET30
+CUST-04340,Shaffer PLC,C,NET30
+CUST-04341,Mclaughlin Inc,A,NET30
+CUST-04342,Molina-Barnes,C,NET30
+CUST-04343,"Riddle, Foster and Johnson",C,NET60
+CUST-04344,Chavez-Graham,B,NET30
+CUST-04345,Klein-Wilkins,B,NET30
+CUST-04346,"Ferguson, Meyer and Martin",A,NET60
+CUST-04347,"King, Anderson and Ortiz",C,NET30
+CUST-04348,Haney-Arias,B,NET30
+CUST-04349,"Chandler, Martinez and Harvey",C,NET45
+CUST-04350,Roberts and Sons,C,NET45
+CUST-04351,Pace-Golden,A,NET60
+CUST-04352,Garner-Snyder,B,NET60
+CUST-04353,Miller-Underwood,C,NET45
+CUST-04354,Gonzalez-Watson,C,NET30
+CUST-04355,Jones-Hughes,C,NET45
+CUST-04356,Dougherty and Sons,B,NET30
+CUST-04357,Garcia-Hanson,C,NET30
+CUST-04358,Thompson-Miller,C,NET30
+CUST-04359,Scott-Mason,B,NET30
+CUST-04360,"Durham, Johnston and Andersen",B,NET45
+CUST-04361,Scott Group,A,NET30
+CUST-04362,"Frank, Rowland and Little",A,NET30
+CUST-04363,Rodriguez-Dalton,C,NET45
+CUST-04364,"Adams, Hunt and Thomas",A,NET30
+CUST-04365,Tucker-Lopez,C,NET30
+CUST-04366,Estes-Martin,A,NET45
+CUST-04367,Johnson and Sons,C,NET45
+CUST-04368,"Brown, White and Powell",C,NET30
+CUST-04369,Robertson Group,B,NET30
+CUST-04370,Gonzalez-Bruce,B,NET30
+CUST-04371,Lewis and Sons,C,NET30
+CUST-04372,Wright Group,B,NET30
+CUST-04373,Garner-Thomas,B,NET60
+CUST-04374,"Martin, Hansen and Fernandez",C,NET45
+CUST-04375,"Brown, Maldonado and Fitzgerald",A,NET30
+CUST-04376,Hickman Group,B,NET30
+CUST-04377,Velez-Stevens,B,NET30
+CUST-04378,"Butler, Smith and Ross",C,NET30
+CUST-04379,Thompson-Mueller,C,NET30
+CUST-04380,Bean LLC,B,NET30
+CUST-04381,"Gonzalez, Mccullough and Gomez",C,NET30
+CUST-04382,Chandler-Harrell,C,NET30
+CUST-04383,Miller Group,A,NET30
+CUST-04384,"Russell, Castro and Guerrero",B,NET30
+CUST-04385,Robinson-Cooper,B,NET60
+CUST-04386,Rodriguez-Crawford,B,NET30
+CUST-04387,Gray-Frederick,A,NET30
+CUST-04388,"Swanson, Callahan and Rios",C,NET30
+CUST-04389,Myers PLC,C,NET60
+CUST-04390,Ross-Harrison,A,NET30
+CUST-04391,Price-Willis,C,NET30
+CUST-04392,Deleon-Watson,C,NET60
+CUST-04393,Thomas Ltd,C,NET30
+CUST-04394,"Fuller, Reyes and Roberts",B,NET30
+CUST-04395,"Fisher, Whitaker and Romero",A,NET30
+CUST-04396,"Riggs, Sampson and Mitchell",B,NET30
+CUST-04397,Smith PLC,C,NET30
+CUST-04398,Acosta Ltd,C,NET30
+CUST-04399,Parrish-Oliver,B,NET45
+CUST-04400,Hodges PLC,C,NET45
+CUST-04401,Robinson Ltd,C,NET60
+CUST-04402,Gallagher PLC,C,NET30
+CUST-04403,"Harrison, Bonilla and Hill",C,NET30
+CUST-04404,"Martin, Chang and Green",B,NET30
+CUST-04405,Johnson LLC,C,NET60
+CUST-04406,Lynch Inc,C,NET30
+CUST-04407,Cabrera-Perez,C,NET30
+CUST-04408,Kelly-Delacruz,B,NET30
+CUST-04409,Shaw PLC,A,NET45
+CUST-04410,Newman-Ramirez,B,NET30
+CUST-04411,Moore PLC,C,NET45
+CUST-04412,Reed and Sons,A,NET45
+CUST-04413,Rogers-Wilson,B,NET30
+CUST-04414,Castro LLC,A,NET30
+CUST-04415,Obrien Group,B,NET30
+CUST-04416,"Carroll, Douglas and Johnson",B,NET30
+CUST-04417,Campbell and Sons,C,NET30
+CUST-04418,Vaughan LLC,B,NET30
+CUST-04419,"Larson, Gallegos and Gillespie",C,NET60
+CUST-04420,"Erickson, Khan and Clark",C,NET45
+CUST-04421,Moore Group,B,NET30
+CUST-04422,Petersen-Shields,C,NET30
+CUST-04423,Wilson-Butler,B,NET30
+CUST-04424,Green LLC,A,NET30
+CUST-04425,Guerra-Aguilar,C,NET60
+CUST-04426,Howell-Schultz,B,NET30
+CUST-04427,Walker-Brown,A,NET60
+CUST-04428,"Byrd, Keller and Walker",A,NET60
+CUST-04429,"Berry, Zimmerman and Porter",A,NET30
+CUST-04430,Johnson PLC,B,NET30
+CUST-04431,"Jimenez, Palmer and Cantrell",A,NET30
+CUST-04432,Martin-Mcpherson,C,NET30
+CUST-04433,Martinez-Young,C,NET30
+CUST-04434,Carlson PLC,A,NET30
+CUST-04435,Benitez LLC,A,NET30
+CUST-04436,Williams-Weeks,A,NET30
+CUST-04437,"Flores, Warner and Hawkins",A,NET30
+CUST-04438,"Obrien, Brown and Johnson",C,NET30
+CUST-04439,Oconnor-Brown,C,NET30
+CUST-04440,Hensley-Stuart,B,NET45
+CUST-04441,"Harmon, Meza and Berry",C,NET30
+CUST-04442,Foster PLC,A,NET30
+CUST-04443,Vang-Spencer,A,NET30
+CUST-04444,"Mejia, Stewart and Levy",C,NET30
+CUST-04445,"Tucker, Kelley and Rosales",C,NET30
+CUST-04446,"Lopez, Davis and Mcintyre",A,NET60
+CUST-04447,Nicholson LLC,C,NET30
+CUST-04448,Rivera-Porter,B,NET30
+CUST-04449,Johnson PLC,C,NET30
+CUST-04450,Wells Ltd,A,NET30
+CUST-04451,"Cherry, Howell and Hines",C,NET30
+CUST-04452,"Willis, Choi and Vance",B,NET30
+CUST-04453,Jacobson Inc,B,NET60
+CUST-04454,Hess PLC,C,NET30
+CUST-04455,"Taylor, Mullins and Jacobs",C,NET30
+CUST-04456,Rios-Calderon,C,NET30
+CUST-04457,"Brown, Taylor and Horton",C,NET30
+CUST-04458,Bishop Group,C,NET30
+CUST-04459,Peterson-Jordan,C,NET30
+CUST-04460,Brown-Scott,C,NET45
+CUST-04461,Kim and Sons,A,NET45
+CUST-04462,Martinez Ltd,A,NET30
+CUST-04463,Flores-Wilson,C,NET30
+CUST-04464,Chen-Rosales,C,NET30
+CUST-04465,Horne Inc,A,NET30
+CUST-04466,Watts-Levy,B,NET30
+CUST-04467,"Lawson, Baker and Phillips",B,NET30
+CUST-04468,"Ward, Goodman and Simmons",C,NET60
+CUST-04469,Armstrong Group,C,NET60
+CUST-04470,"Gonzalez, Wheeler and Osborne",B,NET30
+CUST-04471,Benitez-Fernandez,A,NET30
+CUST-04472,Williams-Liu,C,NET30
+CUST-04473,Pittman-Farley,A,NET30
+CUST-04474,May-Gillespie,C,NET45
+CUST-04475,Williams-Chapman,C,NET30
+CUST-04476,Reed-Mccall,B,NET30
+CUST-04477,"Mckee, Byrd and Romero",A,NET30
+CUST-04478,Leonard-Mccoy,C,NET60
+CUST-04479,Ali Group,C,NET30
+CUST-04480,"Lewis, Ferguson and Doyle",C,NET60
+CUST-04481,"Hopkins, Cabrera and Ramirez",C,NET30
+CUST-04482,"Carter, Barnes and Mcdowell",C,NET30
+CUST-04483,Scott Inc,B,NET30
+CUST-04484,Taylor Inc,A,NET30
+CUST-04485,Bowers Group,B,NET30
+CUST-04486,Stone LLC,C,NET30
+CUST-04487,Yoder Ltd,A,NET60
+CUST-04488,Washington Ltd,C,NET60
+CUST-04489,Brooks PLC,C,NET45
+CUST-04490,Lamb and Sons,C,NET30
+CUST-04491,Reyes PLC,C,NET30
+CUST-04492,"Williams, Boyer and Wilson",B,NET45
+CUST-04493,Sanchez-Parker,B,NET30
+CUST-04494,Collins-Torres,B,NET30
+CUST-04495,"Johnson, Douglas and Molina",B,NET45
+CUST-04496,"Miller, Austin and Orozco",C,NET30
+CUST-04497,"Lambert, Davis and Williams",C,NET30
+CUST-04498,"Bean, Yoder and Gonzalez",B,NET30
+CUST-04499,Floyd Ltd,B,NET45
+CUST-04500,Allen PLC,B,NET30
+CUST-04501,"Payne, Guzman and Castillo",C,NET60
+CUST-04502,Nixon Inc,C,NET30
+CUST-04503,"Stevens, Hill and Perry",A,NET30
+CUST-04504,"Harrell, Jones and Jones",B,NET45
+CUST-04505,"Conrad, Stephenson and Clark",B,NET30
+CUST-04506,Saunders-Gutierrez,C,NET30
+CUST-04507,"Martin, Glass and Johnson",B,NET30
+CUST-04508,"Harris, Cohen and Walker",B,NET30
+CUST-04509,"Simon, Williams and Farrell",C,NET30
+CUST-04510,Smith and Sons,C,NET45
+CUST-04511,Davenport-James,C,NET30
+CUST-04512,Gonzales-Mccoy,B,NET30
+CUST-04513,"Luna, Phillips and Ryan",C,NET30
+CUST-04514,Herrera-Martin,A,NET30
+CUST-04515,"Underwood, Marshall and Schmidt",A,NET45
+CUST-04516,Russell-Price,B,NET30
+CUST-04517,Bryant Ltd,B,NET30
+CUST-04518,Santos Ltd,C,NET60
+CUST-04519,Bowers-Huff,B,NET30
+CUST-04520,Cook Inc,C,NET45
+CUST-04521,Duran and Sons,B,NET30
+CUST-04522,"Peterson, Burgess and Andrews",B,NET30
+CUST-04523,"Robbins, Stewart and Jones",B,NET30
+CUST-04524,Reed and Sons,C,NET30
+CUST-04525,"Williams, Holt and Myers",B,NET30
+CUST-04526,Lynch-Miller,B,NET30
+CUST-04527,Green-Foster,A,NET30
+CUST-04528,Villanueva-Taylor,B,NET45
+CUST-04529,Weber Group,C,NET45
+CUST-04530,"Villa, Prince and Daniels",B,NET30
+CUST-04531,Ford-Perez,A,NET30
+CUST-04532,Melendez Inc,C,NET30
+CUST-04533,Page Ltd,C,NET30
+CUST-04534,Perry LLC,C,NET30
+CUST-04535,King Group,C,NET30
+CUST-04536,Carlson-Davies,C,NET30
+CUST-04537,Chavez and Sons,A,NET30
+CUST-04538,"Schaefer, Acosta and Hall",A,NET30
+CUST-04539,Montes-Rose,A,NET30
+CUST-04540,"Hooper, Mills and Browning",B,NET30
+CUST-04541,Rodriguez and Sons,A,NET30
+CUST-04542,"Zimmerman, Greene and Williams",B,NET30
+CUST-04543,"Harris, Russell and Gomez",B,NET45
+CUST-04544,Gonzalez-Sharp,C,NET30
+CUST-04545,"Chavez, Knight and Terrell",C,NET30
+CUST-04546,Wiggins Group,B,NET30
+CUST-04547,King Ltd,C,NET45
+CUST-04548,Cochran-Henry,C,NET30
+CUST-04549,Zhang Group,C,NET30
+CUST-04550,Carr Inc,C,NET30
+CUST-04551,"Thomas, Bell and Reed",C,NET45
+CUST-04552,Thompson-Perez,C,NET30
+CUST-04553,Mann Group,A,NET60
+CUST-04554,"Lee, Hernandez and Gray",B,NET30
+CUST-04555,Oliver Group,C,NET60
+CUST-04556,Kennedy Inc,C,NET30
+CUST-04557,Lopez-Romero,B,NET45
+CUST-04558,"Atkins, Baker and Mendoza",B,NET45
+CUST-04559,"Fowler, Frazier and Reed",C,NET30
+CUST-04560,Norman and Sons,C,NET45
+CUST-04561,Knapp and Sons,B,NET30
+CUST-04562,"Riley, Jackson and Hopkins",C,NET30
+CUST-04563,Summers LLC,C,NET45
+CUST-04564,Lara LLC,A,NET30
+CUST-04565,"Garrett, Miller and Carlson",B,NET45
+CUST-04566,Potter-Gentry,B,NET30
+CUST-04567,"Rangel, Martinez and Spencer",C,NET60
+CUST-04568,Schneider-Perez,B,NET30
+CUST-04569,"Hernandez, Lynch and Krueger",C,NET30
+CUST-04570,"Martin, Wagner and Brown",C,NET30
+CUST-04571,Willis-Moran,C,NET45
+CUST-04572,Brown LLC,C,NET30
+CUST-04573,"Stafford, Ellis and Avery",B,NET60
+CUST-04574,Riddle-Obrien,C,NET30
+CUST-04575,Moody-Hayes,B,NET45
+CUST-04576,Parker PLC,A,NET30
+CUST-04577,Hall-Doyle,C,NET45
+CUST-04578,Schmidt Group,C,NET30
+CUST-04579,Ramirez PLC,B,NET30
+CUST-04580,Hall-Spencer,B,NET30
+CUST-04581,"Beard, Miller and Andrews",C,NET60
+CUST-04582,Cunningham-Anderson,B,NET30
+CUST-04583,Thomas-Lam,C,NET30
+CUST-04584,"Carter, Williams and Collins",A,NET30
+CUST-04585,Williamson Inc,C,NET30
+CUST-04586,"Ho, Weiss and Miles",A,NET30
+CUST-04587,Rogers Ltd,C,NET30
+CUST-04588,"Schultz, Norris and Smith",C,NET30
+CUST-04589,Cooke-Arias,B,NET60
+CUST-04590,Brown and Sons,B,NET30
+CUST-04591,Allen and Sons,C,NET60
+CUST-04592,Butler Inc,B,NET60
+CUST-04593,Williams-Cohen,C,NET30
+CUST-04594,King and Sons,C,NET30
+CUST-04595,Conway Ltd,B,NET30
+CUST-04596,"Koch, Macias and Parks",A,NET45
+CUST-04597,Miller-Martinez,C,NET30
+CUST-04598,"Phillips, Wilson and Randall",C,NET30
+CUST-04599,"Anthony, Taylor and Lee",A,NET30
+CUST-04600,Austin Ltd,C,NET30
+CUST-04601,Walton and Sons,B,NET30
+CUST-04602,Riley and Sons,C,NET30
+CUST-04603,Thomas-Hendricks,C,NET45
+CUST-04604,Bowman-Carpenter,C,NET60
+CUST-04605,"Dunn, Davis and Livingston",C,NET30
+CUST-04606,Grant Ltd,C,NET30
+CUST-04607,Cruz Inc,B,NET45
+CUST-04608,"Galvan, Martinez and Williams",B,NET60
+CUST-04609,"Johnson, Wagner and Parker",C,NET60
+CUST-04610,Herrera LLC,A,NET30
+CUST-04611,"Adams, Olson and Barrett",A,NET45
+CUST-04612,Lawrence LLC,C,NET60
+CUST-04613,"Roberts, Martin and Garcia",B,NET45
+CUST-04614,Dalton LLC,C,NET30
+CUST-04615,Nolan-Sutton,A,NET30
+CUST-04616,Barker-Schneider,A,NET30
+CUST-04617,Williams-Davis,C,NET30
+CUST-04618,Hernandez-Boyd,A,NET30
+CUST-04619,Frey-Acevedo,C,NET60
+CUST-04620,Roy-Oliver,B,NET45
+CUST-04621,Brown-Jackson,A,NET30
+CUST-04622,Graham Group,A,NET60
+CUST-04623,Adams-Salazar,C,NET30
+CUST-04624,Smith-Le,B,NET45
+CUST-04625,Martinez-Gregory,B,NET60
+CUST-04626,"Richards, Jimenez and Wilson",C,NET30
+CUST-04627,"Oliver, Thomas and Garcia",A,NET30
+CUST-04628,Reeves Inc,A,NET45
+CUST-04629,Fowler-Hogan,C,NET30
+CUST-04630,Smith-James,A,NET45
+CUST-04631,Harris PLC,C,NET30
+CUST-04632,White Ltd,B,NET30
+CUST-04633,"Chung, Gardner and Vance",A,NET45
+CUST-04634,Estrada-Hall,A,NET30
+CUST-04635,Bennett Ltd,C,NET30
+CUST-04636,Gonzalez-Garza,B,NET30
+CUST-04637,Davis and Sons,A,NET60
+CUST-04638,Dorsey Inc,C,NET30
+CUST-04639,Wilson-Burch,C,NET60
+CUST-04640,Flores Inc,A,NET30
+CUST-04641,Moore-Jones,B,NET30
+CUST-04642,"Adams, Morris and Wallace",B,NET30
+CUST-04643,"Torres, Allen and Rodriguez",C,NET30
+CUST-04644,Castaneda Inc,B,NET30
+CUST-04645,Jones and Sons,C,NET30
+CUST-04646,Harrison-Romero,C,NET45
+CUST-04647,Townsend LLC,C,NET45
+CUST-04648,York LLC,C,NET30
+CUST-04649,"Morales, Flores and Foster",C,NET30
+CUST-04650,"Garcia, Goodman and Wells",B,NET30
+CUST-04651,Robinson-Parsons,A,NET30
+CUST-04652,Hawkins LLC,A,NET60
+CUST-04653,Butler-Jackson,A,NET30
+CUST-04654,Green LLC,B,NET45
+CUST-04655,White LLC,C,NET30
+CUST-04656,Massey-Murphy,C,NET30
+CUST-04657,Kim and Sons,C,NET60
+CUST-04658,Henderson Ltd,C,NET30
+CUST-04659,"Cameron, Mayo and Wheeler",B,NET30
+CUST-04660,"Frey, Alvarez and Warren",C,NET30
+CUST-04661,"Duffy, Gonzalez and Ryan",C,NET30
+CUST-04662,Chang Group,B,NET30
+CUST-04663,Roberts Inc,C,NET45
+CUST-04664,Jarvis-Cooper,B,NET45
+CUST-04665,"Fuentes, Cole and Jones",C,NET45
+CUST-04666,"Rice, Kim and Lopez",C,NET30
+CUST-04667,Lopez PLC,B,NET30
+CUST-04668,Parks-Zuniga,C,NET60
+CUST-04669,"Nichols, Blair and Patterson",C,NET45
+CUST-04670,"Graham, Miranda and Potter",A,NET30
+CUST-04671,"Price, Harmon and Tucker",B,NET30
+CUST-04672,Nguyen-Wiggins,C,NET30
+CUST-04673,"Ross, House and Strickland",C,NET60
+CUST-04674,"Andrews, Gonzalez and Holder",B,NET60
+CUST-04675,"Turner, Carey and Williams",C,NET30
+CUST-04676,"Barrera, Schaefer and Richardson",A,NET30
+CUST-04677,Henry PLC,C,NET30
+CUST-04678,Sullivan-Hill,B,NET30
+CUST-04679,Ward-Harris,C,NET30
+CUST-04680,Johnson-Rodriguez,B,NET45
+CUST-04681,"Rodriguez, Roach and Ruiz",C,NET45
+CUST-04682,"Jones, Torres and Sherman",B,NET30
+CUST-04683,"Hamilton, Jackson and Rice",C,NET30
+CUST-04684,"Kennedy, Lowe and Marshall",B,NET30
+CUST-04685,Palmer-Stone,C,NET30
+CUST-04686,"Klein, Hunter and Kim",C,NET45
+CUST-04687,Clark PLC,C,NET45
+CUST-04688,"Young, Stewart and Jones",B,NET45
+CUST-04689,Velez-Pineda,B,NET30
+CUST-04690,Martin Group,C,NET30
+CUST-04691,Tucker Ltd,C,NET45
+CUST-04692,"Morris, Thomas and Brown",C,NET45
+CUST-04693,Woodard LLC,A,NET30
+CUST-04694,Reynolds-Young,A,NET30
+CUST-04695,Cole-Hansen,C,NET30
+CUST-04696,"Cameron, Castillo and Guerrero",B,NET45
+CUST-04697,Roberts-Oneill,B,NET30
+CUST-04698,Luna-Wilcox,B,NET45
+CUST-04699,Thompson-Stevenson,C,NET45
+CUST-04700,"Mccullough, Cooley and Morrison",B,NET30
+CUST-04701,"Cardenas, West and Schmidt",A,NET30
+CUST-04702,Carroll Group,C,NET45
+CUST-04703,Small and Sons,C,NET30
+CUST-04704,Saunders PLC,B,NET45
+CUST-04705,Morales-Beasley,C,NET30
+CUST-04706,Cobb-Garcia,C,NET30
+CUST-04707,Wallace-Moreno,B,NET60
+CUST-04708,Boone-Jones,A,NET30
+CUST-04709,"Riggs, Montes and Morris",A,NET45
+CUST-04710,"Hood, Norris and Wang",C,NET30
+CUST-04711,"Floyd, Kelley and Stanton",B,NET30
+CUST-04712,Walker-Davis,C,NET30
+CUST-04713,Wise-Cooper,B,NET30
+CUST-04714,Delacruz-Lopez,A,NET30
+CUST-04715,Smith-Duke,C,NET30
+CUST-04716,Martinez and Sons,B,NET30
+CUST-04717,"Cohen, Lewis and Hensley",C,NET60
+CUST-04718,Romero LLC,A,NET30
+CUST-04719,Martinez-Hernandez,C,NET30
+CUST-04720,Beasley-Carter,C,NET30
+CUST-04721,Odonnell Ltd,A,NET30
+CUST-04722,Moore LLC,A,NET45
+CUST-04723,"Henry, Hernandez and Kaiser",A,NET30
+CUST-04724,Crane Group,B,NET30
+CUST-04725,"Peters, Green and Hill",C,NET30
+CUST-04726,Smith-Jones,B,NET30
+CUST-04727,Hampton-Paul,A,NET30
+CUST-04728,Cook-Washington,C,NET30
+CUST-04729,"Cox, Tyler and Thomas",C,NET30
+CUST-04730,Young PLC,A,NET60
+CUST-04731,"Taylor, Wallace and Grant",B,NET30
+CUST-04732,"Gonzalez, Wilcox and Scott",B,NET45
+CUST-04733,Rocha-Walker,A,NET30
+CUST-04734,Schmidt-Carrillo,C,NET30
+CUST-04735,Wilson-Austin,B,NET30
+CUST-04736,"Wilkins, Harris and Quinn",C,NET60
+CUST-04737,Gomez-Lang,C,NET30
+CUST-04738,Castillo LLC,C,NET30
+CUST-04739,"Garrett, Bowman and Thomas",C,NET30
+CUST-04740,Miller Ltd,C,NET30
+CUST-04741,Montgomery-Dodson,C,NET30
+CUST-04742,Carter-Moore,B,NET30
+CUST-04743,Holmes PLC,B,NET30
+CUST-04744,Lane Inc,A,NET45
+CUST-04745,Carter-Stewart,A,NET45
+CUST-04746,Conway-Hernandez,C,NET30
+CUST-04747,"Robinson, Ross and Lawrence",C,NET30
+CUST-04748,Garcia-Thompson,C,NET60
+CUST-04749,Miller PLC,B,NET30
+CUST-04750,Mitchell PLC,B,NET45
+CUST-04751,Thomas-Weber,A,NET30
+CUST-04752,"Davis, Morse and Hernandez",B,NET30
+CUST-04753,Hernandez LLC,C,NET30
+CUST-04754,White Group,B,NET45
+CUST-04755,"Edwards, Callahan and Francis",A,NET30
+CUST-04756,Sanchez-Williams,C,NET45
+CUST-04757,Nelson-Walker,B,NET30
+CUST-04758,Kelly-Richardson,C,NET45
+CUST-04759,Stanley Ltd,C,NET45
+CUST-04760,Mccullough PLC,C,NET30
+CUST-04761,"James, Lamb and Savage",A,NET45
+CUST-04762,Dawson PLC,A,NET30
+CUST-04763,"Stephens, Rivera and Johnson",B,NET30
+CUST-04764,Avila-Pollard,A,NET60
+CUST-04765,Arias Ltd,B,NET30
+CUST-04766,Flores-Hernandez,C,NET30
+CUST-04767,"Johnson, Wilson and Thomas",A,NET30
+CUST-04768,"Jones, Davis and Adams",B,NET30
+CUST-04769,"Leblanc, Watson and Robbins",C,NET30
+CUST-04770,"Heath, Villa and Cohen",C,NET45
+CUST-04771,Wallace Ltd,A,NET30
+CUST-04772,Lewis Group,B,NET45
+CUST-04773,"Miller, Nelson and Sellers",B,NET30
+CUST-04774,"Anderson, Lawrence and Wagner",A,NET30
+CUST-04775,"Grant, Edwards and Cox",B,NET45
+CUST-04776,Diaz LLC,B,NET30
+CUST-04777,Rodriguez-Malone,B,NET60
+CUST-04778,Gibson-Lloyd,B,NET30
+CUST-04779,Sanchez PLC,A,NET30
+CUST-04780,Jones-Ashley,C,NET30
+CUST-04781,"Guerrero, Rhodes and Riley",C,NET30
+CUST-04782,"Harris, Gonzalez and Gibson",B,NET30
+CUST-04783,Chang and Sons,A,NET30
+CUST-04784,Cruz-Perez,B,NET60
+CUST-04785,Galvan PLC,B,NET45
+CUST-04786,Sheppard Ltd,C,NET60
+CUST-04787,Hansen Group,C,NET30
+CUST-04788,Robinson-Luna,A,NET45
+CUST-04789,Graham-Coleman,C,NET30
+CUST-04790,"Robinson, Perez and Turner",C,NET30
+CUST-04791,Ramsey-Serrano,C,NET45
+CUST-04792,Berry-Dalton,A,NET30
+CUST-04793,Cordova-Jones,C,NET30
+CUST-04794,Williams-Williams,C,NET30
+CUST-04795,Mendez Group,C,NET30
+CUST-04796,"Taylor, Livingston and Edwards",C,NET60
+CUST-04797,"Thompson, English and Guerrero",C,NET30
+CUST-04798,Barton-Bennett,C,NET30
+CUST-04799,Perry Ltd,C,NET30
+CUST-04800,Zhang Group,B,NET45
+CUST-04801,Hansen-Conner,C,NET30
+CUST-04802,"Wilson, Collins and Bradley",C,NET30
+CUST-04803,Brown Ltd,B,NET30
+CUST-04804,Wagner-Crane,C,NET30
+CUST-04805,Mccarty PLC,B,NET30
+CUST-04806,Jackson PLC,B,NET30
+CUST-04807,"Davenport, Roberts and Goodwin",C,NET30
+CUST-04808,Wilson Group,C,NET30
+CUST-04809,"Wright, Palmer and Rowe",B,NET30
+CUST-04810,"Huang, Arnold and Serrano",C,NET30
+CUST-04811,Williams PLC,B,NET30
+CUST-04812,Jones Inc,C,NET60
+CUST-04813,Robinson and Sons,C,NET30
+CUST-04814,Hernandez Group,B,NET30
+CUST-04815,Cole LLC,C,NET30
+CUST-04816,Evans LLC,C,NET45
+CUST-04817,"Harrington, Bradley and Bennett",B,NET30
+CUST-04818,Gonzales Ltd,C,NET60
+CUST-04819,"Ray, Beard and Walker",C,NET30
+CUST-04820,Coleman PLC,C,NET60
+CUST-04821,Morrow Ltd,A,NET30
+CUST-04822,Manning-Blankenship,B,NET60
+CUST-04823,"Hardin, Roberts and Mcintosh",B,NET30
+CUST-04824,Moore and Sons,A,NET30
+CUST-04825,Hall Group,B,NET30
+CUST-04826,"Watkins, Hughes and Clark",A,NET30
+CUST-04827,Caldwell-Fleming,C,NET30
+CUST-04828,Johnson-Ballard,C,NET60
+CUST-04829,"Petty, Morris and Schaefer",C,NET45
+CUST-04830,Singh LLC,C,NET30
+CUST-04831,Butler-Sweeney,B,NET30
+CUST-04832,Odom-Clark,B,NET30
+CUST-04833,Mills-Browning,C,NET30
+CUST-04834,Clark Inc,C,NET30
+CUST-04835,Nguyen Group,C,NET30
+CUST-04836,"Hamilton, Robinson and Shelton",C,NET30
+CUST-04837,Sweeney PLC,C,NET30
+CUST-04838,"Clements, Reed and Bennett",B,NET30
+CUST-04839,Mccoy and Sons,A,NET30
+CUST-04840,Garcia LLC,C,NET45
+CUST-04841,"Fox, Soto and Ward",B,NET45
+CUST-04842,"Farmer, Garcia and Clark",B,NET45
+CUST-04843,"Elliott, Richardson and Reed",C,NET30
+CUST-04844,White and Sons,C,NET60
+CUST-04845,Campbell and Sons,C,NET30
+CUST-04846,Hoffman Group,B,NET30
+CUST-04847,"Fisher, Hernandez and Spencer",C,NET30
+CUST-04848,Diaz Ltd,C,NET30
+CUST-04849,Campbell LLC,C,NET30
+CUST-04850,Garcia PLC,B,NET30
+CUST-04851,White-Jones,B,NET45
+CUST-04852,Evans-Snyder,B,NET30
+CUST-04853,"Lewis, Kirk and Hall",A,NET60
+CUST-04854,Clark-Neal,C,NET60
+CUST-04855,"Mccoy, Murray and Wilkerson",A,NET45
+CUST-04856,Carlson-Taylor,A,NET30
+CUST-04857,Saunders PLC,C,NET30
+CUST-04858,"Ortega, Miller and White",A,NET30
+CUST-04859,Miller-Smith,B,NET30
+CUST-04860,Bennett-Long,A,NET30
+CUST-04861,Buchanan-Wheeler,C,NET30
+CUST-04862,Beasley-Coleman,C,NET30
+CUST-04863,Reyes and Sons,C,NET60
+CUST-04864,"Hall, Livingston and Chavez",B,NET30
+CUST-04865,"Griffith, Carter and Figueroa",A,NET30
+CUST-04866,Riggs PLC,C,NET30
+CUST-04867,Farley LLC,B,NET45
+CUST-04868,Lewis Inc,C,NET30
+CUST-04869,Williams Group,B,NET30
+CUST-04870,Hart-Holmes,A,NET30
+CUST-04871,"Jones, Duffy and Andrews",B,NET30
+CUST-04872,"Miller, Kelley and Barker",B,NET30
+CUST-04873,"Montgomery, Yates and Harris",B,NET45
+CUST-04874,Walsh-Stewart,C,NET30
+CUST-04875,Baldwin-Bell,B,NET30
+CUST-04876,"Rios, Sanchez and Cox",C,NET30
+CUST-04877,Mccoy PLC,A,NET30
+CUST-04878,Smith LLC,C,NET45
+CUST-04879,Ortega-Stewart,B,NET60
+CUST-04880,"Mueller, Golden and Mathews",A,NET30
+CUST-04881,Evans and Sons,B,NET30
+CUST-04882,"Wall, Colon and Cruz",C,NET45
+CUST-04883,"Dodson, Williams and Franco",C,NET45
+CUST-04884,"Reed, Munoz and Mata",C,NET30
+CUST-04885,"Williams, Brown and Wells",C,NET30
+CUST-04886,Mitchell and Sons,C,NET45
+CUST-04887,Garcia LLC,A,NET30
+CUST-04888,"Peters, Mendoza and Johnston",B,NET30
+CUST-04889,Anderson-Hale,C,NET30
+CUST-04890,"Andersen, Watson and Joseph",C,NET30
+CUST-04891,Daniels PLC,C,NET45
+CUST-04892,"Summers, Robinson and Conner",C,NET30
+CUST-04893,Alvarez LLC,A,NET30
+CUST-04894,Frazier-Mills,C,NET30
+CUST-04895,"Hernandez, Sheppard and Foley",B,NET30
+CUST-04896,Frey-Smith,B,NET60
+CUST-04897,"Crawford, Taylor and Faulkner",B,NET30
+CUST-04898,Lopez LLC,B,NET30
+CUST-04899,"Reyes, Martin and English",C,NET45
+CUST-04900,Jordan-Nguyen,A,NET30
+CUST-04901,Suarez-Daugherty,A,NET60
+CUST-04902,Strong LLC,B,NET30
+CUST-04903,Perry PLC,A,NET30
+CUST-04904,Welch Group,A,NET45
+CUST-04905,"Brown, Guzman and Kim",A,NET45
+CUST-04906,Lopez and Sons,C,NET30
+CUST-04907,"Jarvis, Soto and Ryan",C,NET45
+CUST-04908,Santiago-Payne,B,NET30
+CUST-04909,Lam Inc,C,NET45
+CUST-04910,Hernandez Inc,C,NET30
+CUST-04911,Moore Ltd,C,NET45
+CUST-04912,Stephens-Weaver,B,NET30
+CUST-04913,"Johnson, Smith and Brown",B,NET30
+CUST-04914,Sharp-Camacho,C,NET30
+CUST-04915,"Chan, Humphrey and Cooke",C,NET30
+CUST-04916,"Hanna, Walker and Willis",B,NET30
+CUST-04917,"Velasquez, Gutierrez and Dickerson",A,NET45
+CUST-04918,"Gordon, Singleton and Stevens",C,NET30
+CUST-04919,Wells-Meyer,B,NET30
+CUST-04920,Petty-Roberts,C,NET60
+CUST-04921,Richardson Ltd,A,NET30
+CUST-04922,Griffith and Sons,B,NET30
+CUST-04923,"Chambers, Abbott and Bryant",B,NET30
+CUST-04924,Gonzalez Ltd,C,NET30
+CUST-04925,Rice-Clark,C,NET45
+CUST-04926,"Garcia, Ellis and Clark",C,NET30
+CUST-04927,"Phillips, Banks and Pacheco",B,NET30
+CUST-04928,Lewis PLC,C,NET30
+CUST-04929,Grant-Ware,C,NET45
+CUST-04930,Dawson PLC,C,NET30
+CUST-04931,"Peterson, Morris and Henry",C,NET30
+CUST-04932,Johnson-Gonzalez,C,NET30
+CUST-04933,"Gilbert, Perkins and Carter",B,NET60
+CUST-04934,Morales PLC,A,NET30
+CUST-04935,Blankenship-Silva,C,NET45
+CUST-04936,Gould-Cortez,C,NET30
+CUST-04937,"Mason, Cobb and Hall",C,NET30
+CUST-04938,Acosta LLC,C,NET30
+CUST-04939,"Sanford, King and Williams",C,NET45
+CUST-04940,Hanson Ltd,B,NET30
+CUST-04941,Ryan-Winters,B,NET30
+CUST-04942,Silva-Townsend,C,NET30
+CUST-04943,"Cardenas, Johnson and Gay",B,NET30
+CUST-04944,Sweeney Inc,C,NET30
+CUST-04945,Romero-Smith,C,NET45
+CUST-04946,Trevino-Foster,C,NET30
+CUST-04947,Macias-Peterson,A,NET30
+CUST-04948,Barker-Armstrong,C,NET30
+CUST-04949,"Garcia, Schmitt and Davis",C,NET30
+CUST-04950,Campbell PLC,C,NET45
+CUST-04951,Turner PLC,B,NET30
+CUST-04952,Brown LLC,C,NET45
+CUST-04953,Aguirre-Harrell,C,NET30
+CUST-04954,Hoffman-Stevens,C,NET30
+CUST-04955,Benjamin-Robertson,A,NET30
+CUST-04956,"Anderson, Day and Campos",B,NET30
+CUST-04957,"Quinn, Frey and Richardson",C,NET30
+CUST-04958,Lawrence and Sons,B,NET60
+CUST-04959,"Martinez, Henderson and Reyes",B,NET30
+CUST-04960,Cole LLC,C,NET45
+CUST-04961,Clark-Anthony,C,NET60
+CUST-04962,White LLC,B,NET30
+CUST-04963,Mclaughlin-Neal,B,NET30
+CUST-04964,Sullivan Inc,B,NET45
+CUST-04965,Peters-Mullins,C,NET30
+CUST-04966,Odom-Hill,C,NET30
+CUST-04967,Nelson Inc,A,NET30
+CUST-04968,Fuller LLC,C,NET30
+CUST-04969,"Smith, Mcmahon and Leach",C,NET30
+CUST-04970,"Schmidt, Wang and Krueger",B,NET30
+CUST-04971,Williams and Sons,A,NET45
+CUST-04972,"Stone, Johnson and Orr",C,NET45
+CUST-04973,Little-Lee,C,NET30
+CUST-04974,Robles PLC,B,NET30
+CUST-04975,"Summers, Crane and Archer",B,NET60
+CUST-04976,Perez-Holt,C,NET30
+CUST-04977,"Lowery, Walker and Dean",C,NET30
+CUST-04978,"Burke, Harris and Aguilar",A,NET30
+CUST-04979,"Johnson, Perkins and Olson",A,NET30
+CUST-04980,Schneider-Robinson,C,NET30
+CUST-04981,"Reyes, Copeland and Rodriguez",C,NET45
+CUST-04982,Hurley-Blackburn,C,NET30
+CUST-04983,Brown PLC,C,NET30
+CUST-04984,Hill LLC,A,NET30
+CUST-04985,Yoder Group,B,NET30
+CUST-04986,"Davis, Reilly and Kirk",C,NET30
+CUST-04987,Tucker Inc,A,NET45
+CUST-04988,Lopez-Curtis,A,NET30
+CUST-04989,"Gonzalez, Bennett and Johnson",C,NET30
+CUST-04990,"Johnson, Hardy and Garcia",B,NET45
+CUST-04991,"Perez, Rhodes and Banks",C,NET30
+CUST-04992,Mitchell-Huerta,A,NET30
+CUST-04993,Thomas Ltd,A,NET45
+CUST-04994,"Giles, Walker and Ryan",A,NET30
+CUST-04995,Thomas PLC,C,NET30
+CUST-04996,Jenkins-Goodwin,B,NET30
+CUST-04997,Porter and Sons,C,NET30
+CUST-04998,Mason-Garcia,B,NET30
+CUST-04999,Ramirez PLC,C,NET30
+CUST-05000,Oconnor Ltd,C,NET30
