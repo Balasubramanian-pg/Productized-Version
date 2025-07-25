@@ -26,5 +26,3 @@ Here's how you can structure this in Excel:
 | Internal Promotion Rate         | Succession Planning        | Percentage      | %                  | HRMS                     | Quarterly            | HRBP        |                                     |
 
 ---
-
-Let me know if you want this exported as a downloadable Excel file, or want different sheets for each category.
